@@ -20,7 +20,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.title("Обучение модели")
 
-df = pd.read_excel('/Users/user/PycharmProjects/simple_analysis_streamlit/data/data.xlsx')
+df = pd.read_excel('data/data.xlsx')
 
 #выбор целевой переменной
 st.write('''## Выбор целевой переменной''')
@@ -176,4 +176,3 @@ def show_results(sorted_by_measure='accuracy'):
 st.write(show_results())
 
 
-pip freeze > requirements.txt

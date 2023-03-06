@@ -9,7 +9,7 @@ import seaborn as sns
 
 st.title("Визуализация данных")
 
-df = pd.read_excel('/Users/user/PycharmProjects/simple_analysis_streamlit/data/data.xlsx')
+df = pd.read_excel('data/data.xlsx')
 
 #Распределение целевой переменной
 st.write('''## Распределение целевой переменной''')

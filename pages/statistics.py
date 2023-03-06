@@ -9,7 +9,7 @@ from streamlit_pandas_profiling import st_profile_report
 
 st.write('''# Статистический анализ данных''')
 
-df = pd.read_excel('/Users/user/PycharmProjects/simple_analysis_streamlit/data/data.xlsx')
+df = pd.read_excel('data/data.xlsx')
 
 pr = df.profile_report()
 st_profile_report(pr)
