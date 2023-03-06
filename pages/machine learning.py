@@ -79,7 +79,7 @@ y = df[col]
 #split data
 
 #slider with step 0.05 from 0.1 to 0.2
-test_size = st.slider('Выберите размер тестовой выборки', 0.1, 0.2, 0.15, 0.05)
+test_size = st.slider('Выберите размер тестовой выборки', 0.1, 0.2, 0.15, 0.01)
 
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size, random_state=42)
