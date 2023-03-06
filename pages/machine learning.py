@@ -176,3 +176,4 @@ def show_results(sorted_by_measure='accuracy'):
 st.write(show_results())
 
 
+pip freeze > requirements.txt
