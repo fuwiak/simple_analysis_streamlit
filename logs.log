@@ -1,0 +1,716 @@
+2023-03-02 18:48:29,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-03-02 18:48:29,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-03-02 18:48:29,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-03-02 18:48:29,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-03-02 18:48:29,641:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-03-02 18:48:31,882:INFO:PyCaret ClassificationExperiment
+2023-03-02 18:48:31,882:INFO:Logging name: clf-default-name
+2023-03-02 18:48:31,882:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-03-02 18:48:31,882:INFO:version 3.0.0.rc9
+2023-03-02 18:48:31,882:INFO:Initializing setup()
+2023-03-02 18:48:31,882:INFO:self.USI: 4446
+2023-03-02 18:48:31,883:INFO:self._variable_keys: {'is_multiclass', 'memory', 'seed', 'html_param', 'y_test', '_ml_usecase', 'y_train', 'gpu_n_jobs_param', 'fold_generator', 'log_plots_param', 'idx', 'exp_name_log', 'X', 'exp_id', 'USI', 'X_test', '_available_plots', 'target_param', 'logging_param', 'fix_imbalance', 'y', 'pipeline', 'fold_groups_param', 'X_train', 'fold_shuffle_param', 'gpu_param', 'n_jobs_param', 'data'}
+2023-03-02 18:48:31,883:INFO:Checking environment
+2023-03-02 18:48:31,883:INFO:python_version: 3.10.5
+2023-03-02 18:48:31,883:INFO:python_build: ('v3.10.5:f377153967', 'Jun  6 2022 12:36:10')
+2023-03-02 18:48:31,883:INFO:machine: x86_64
+2023-03-02 18:48:31,917:INFO:platform: macOS-12.4-x86_64-i386-64bit
+2023-03-02 18:48:31,918:INFO:Memory: svmem(total=17179869184, available=6986612736, percent=59.3, used=9305837568, free=1926684672, active=5041229824, inactive=4956053504, wired=4264607744)
+2023-03-02 18:48:31,919:INFO:Physical Core: 8
+2023-03-02 18:48:31,919:INFO:Logical Core: 16
+2023-03-02 18:48:31,919:INFO:Checking libraries
+2023-03-02 18:48:31,919:INFO:System:
+2023-03-02 18:48:31,919:INFO:    python: 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)]
+2023-03-02 18:48:31,919:INFO:executable: /Users/user/PycharmProjects/simple_analysis_streamlit/venv/bin/python
+2023-03-02 18:48:31,919:INFO:   machine: macOS-12.4-x86_64-i386-64bit
+2023-03-02 18:48:31,919:INFO:PyCaret required dependencies:
+2023-03-02 18:48:31,920:INFO:                 pip: 21.3.1
+2023-03-02 18:48:31,920:INFO:          setuptools: 60.2.0
+2023-03-02 18:48:31,920:INFO:             pycaret: 3.0.0rc9
+2023-03-02 18:48:31,920:INFO:             IPython: 8.10.0
+2023-03-02 18:48:31,920:INFO:          ipywidgets: 8.0.4
+2023-03-02 18:48:31,921:INFO:                tqdm: 4.64.1
+2023-03-02 18:48:31,921:INFO:               numpy: 1.23.5
+2023-03-02 18:48:31,921:INFO:              pandas: 1.5.3
+2023-03-02 18:48:31,921:INFO:              jinja2: 3.1.2
+2023-03-02 18:48:31,921:INFO:               scipy: 1.9.3
+2023-03-02 18:48:31,921:INFO:              joblib: 1.2.0
+2023-03-02 18:48:31,921:INFO:             sklearn: 1.2.1
+2023-03-02 18:48:31,921:INFO:                pyod: 1.0.7
+2023-03-02 18:48:31,921:INFO:            imblearn: 0.10.1
+2023-03-02 18:48:31,921:INFO:   category_encoders: 2.6.0
+2023-03-02 18:48:31,921:INFO:            lightgbm: 3.3.5
+2023-03-02 18:48:31,921:INFO:               numba: 0.56.4
+2023-03-02 18:48:31,921:INFO:            requests: 2.28.2
+2023-03-02 18:48:31,921:INFO:          matplotlib: 3.6.3
+2023-03-02 18:48:31,921:INFO:          scikitplot: 0.3.7
+2023-03-02 18:48:31,921:INFO:         yellowbrick: 1.5
+2023-03-02 18:48:31,921:INFO:              plotly: 5.13.1
+2023-03-02 18:48:31,921:INFO:             kaleido: 0.2.1
+2023-03-02 18:48:31,921:INFO:         statsmodels: 0.13.5
+2023-03-02 18:48:31,921:INFO:              sktime: 0.16.1
+2023-03-02 18:48:31,921:INFO:               tbats: 1.1.2
+2023-03-02 18:48:31,921:INFO:            pmdarima: 2.0.2
+2023-03-02 18:48:31,921:INFO:              psutil: 5.9.4
+2023-03-02 18:48:31,921:INFO:PyCaret optional dependencies:
+2023-03-02 18:48:31,925:INFO:                shap: Not installed
+2023-03-02 18:48:31,925:INFO:           interpret: Not installed
+2023-03-02 18:48:31,925:INFO:                umap: Not installed
+2023-03-02 18:48:31,925:INFO:    pandas_profiling: 4.0.0
+2023-03-02 18:48:31,925:INFO:  explainerdashboard: Not installed
+2023-03-02 18:48:31,925:INFO:             autoviz: Not installed
+2023-03-02 18:48:31,926:INFO:           fairlearn: Not installed
+2023-03-02 18:48:31,926:INFO:             xgboost: Not installed
+2023-03-02 18:48:31,926:INFO:            catboost: Not installed
+2023-03-02 18:48:31,926:INFO:              kmodes: Not installed
+2023-03-02 18:48:31,926:INFO:             mlxtend: Not installed
+2023-03-02 18:48:31,926:INFO:       statsforecast: Not installed
+2023-03-02 18:48:31,926:INFO:        tune_sklearn: Not installed
+2023-03-02 18:48:31,926:INFO:                 ray: Not installed
+2023-03-02 18:48:31,926:INFO:            hyperopt: Not installed
+2023-03-02 18:48:31,926:INFO:              optuna: Not installed
+2023-03-02 18:48:31,926:INFO:               skopt: Not installed
+2023-03-02 18:48:31,926:INFO:              mlflow: Not installed
+2023-03-02 18:48:31,926:INFO:              gradio: Not installed
+2023-03-02 18:48:31,926:INFO:             fastapi: Not installed
+2023-03-02 18:48:31,926:INFO:             uvicorn: Not installed
+2023-03-02 18:48:31,926:INFO:              m2cgen: Not installed
+2023-03-02 18:48:31,926:INFO:           evidently: Not installed
+2023-03-02 18:48:31,926:INFO:               fugue: Not installed
+2023-03-02 18:48:31,926:INFO:           streamlit: 1.19.0
+2023-03-02 18:48:31,926:INFO:             prophet: Not installed
+2023-03-02 18:48:31,926:INFO:None
+2023-03-02 18:48:31,926:INFO:Set up data.
+2023-03-02 18:48:36,281:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:33: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 18:48:36,284:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:49: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 18:53:03,515:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:33: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 18:53:03,518:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:49: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 19:19:16,633:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:29: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:19:28,065:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:29: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:19:32,455:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:29: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:19:49,510:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:29: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:19:53,220:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:29: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:19:56,084:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:29: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:20:18,671:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:29: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:21:30,515:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:21:47,867:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:22:07,241:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:22:29,978:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:22:47,051:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:22:51,990:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col])
+
+2023-03-02 19:23:20,679:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:24:03,390:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:24:06,371:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:24:21,282:INFO:PyCaret ClassificationExperiment
+2023-03-02 19:24:21,282:INFO:Logging name: clf-default-name
+2023-03-02 19:24:21,282:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-03-02 19:24:21,282:INFO:version 3.0.0.rc9
+2023-03-02 19:24:21,282:INFO:Initializing setup()
+2023-03-02 19:24:21,282:INFO:self.USI: b035
+2023-03-02 19:24:21,282:INFO:self._variable_keys: {'is_multiclass', 'memory', 'seed', 'html_param', 'y_test', '_ml_usecase', 'y_train', 'gpu_n_jobs_param', 'fold_generator', 'log_plots_param', 'idx', 'exp_name_log', 'X', 'exp_id', 'USI', 'X_test', '_available_plots', 'target_param', 'logging_param', 'fix_imbalance', 'y', 'pipeline', 'fold_groups_param', 'X_train', 'fold_shuffle_param', 'gpu_param', 'n_jobs_param', 'data'}
+2023-03-02 19:24:21,283:INFO:Checking environment
+2023-03-02 19:24:21,283:INFO:python_version: 3.10.5
+2023-03-02 19:24:21,283:INFO:python_build: ('v3.10.5:f377153967', 'Jun  6 2022 12:36:10')
+2023-03-02 19:24:21,283:INFO:machine: x86_64
+2023-03-02 19:24:21,283:INFO:platform: macOS-12.4-x86_64-i386-64bit
+2023-03-02 19:24:21,283:INFO:Memory: svmem(total=17179869184, available=6696480768, percent=61.0, used=9763721216, free=516739072, active=6186835968, inactive=6172872704, wired=3576885248)
+2023-03-02 19:24:21,283:INFO:Physical Core: 8
+2023-03-02 19:24:21,283:INFO:Logical Core: 16
+2023-03-02 19:24:21,283:INFO:Checking libraries
+2023-03-02 19:24:21,283:INFO:System:
+2023-03-02 19:24:21,283:INFO:    python: 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)]
+2023-03-02 19:24:21,283:INFO:executable: /Users/user/PycharmProjects/simple_analysis_streamlit/venv/bin/python
+2023-03-02 19:24:21,283:INFO:   machine: macOS-12.4-x86_64-i386-64bit
+2023-03-02 19:24:21,283:INFO:PyCaret required dependencies:
+2023-03-02 19:24:21,284:INFO:                 pip: 21.3.1
+2023-03-02 19:24:21,284:INFO:          setuptools: 60.2.0
+2023-03-02 19:24:21,284:INFO:             pycaret: 3.0.0rc9
+2023-03-02 19:24:21,284:INFO:             IPython: 8.10.0
+2023-03-02 19:24:21,284:INFO:          ipywidgets: 8.0.4
+2023-03-02 19:24:21,284:INFO:                tqdm: 4.64.1
+2023-03-02 19:24:21,284:INFO:               numpy: 1.23.5
+2023-03-02 19:24:21,284:INFO:              pandas: 1.5.3
+2023-03-02 19:24:21,284:INFO:              jinja2: 3.1.2
+2023-03-02 19:24:21,284:INFO:               scipy: 1.9.3
+2023-03-02 19:24:21,284:INFO:              joblib: 1.2.0
+2023-03-02 19:24:21,285:INFO:             sklearn: 1.2.1
+2023-03-02 19:24:21,285:INFO:                pyod: 1.0.7
+2023-03-02 19:24:21,285:INFO:            imblearn: 0.10.1
+2023-03-02 19:24:21,285:INFO:   category_encoders: 2.6.0
+2023-03-02 19:24:21,285:INFO:            lightgbm: 3.3.5
+2023-03-02 19:24:21,285:INFO:               numba: 0.56.4
+2023-03-02 19:24:21,285:INFO:            requests: 2.28.2
+2023-03-02 19:24:21,285:INFO:          matplotlib: 3.6.3
+2023-03-02 19:24:21,285:INFO:          scikitplot: 0.3.7
+2023-03-02 19:24:21,285:INFO:         yellowbrick: 1.5
+2023-03-02 19:24:21,285:INFO:              plotly: 5.13.1
+2023-03-02 19:24:21,286:INFO:             kaleido: 0.2.1
+2023-03-02 19:24:21,286:INFO:         statsmodels: 0.13.5
+2023-03-02 19:24:21,286:INFO:              sktime: 0.16.1
+2023-03-02 19:24:21,286:INFO:               tbats: 1.1.2
+2023-03-02 19:24:21,286:INFO:            pmdarima: 2.0.2
+2023-03-02 19:24:21,286:INFO:              psutil: 5.9.4
+2023-03-02 19:24:21,286:INFO:PyCaret optional dependencies:
+2023-03-02 19:24:21,286:INFO:                shap: Not installed
+2023-03-02 19:24:21,287:INFO:           interpret: Not installed
+2023-03-02 19:24:21,287:INFO:                umap: Not installed
+2023-03-02 19:24:21,287:INFO:    pandas_profiling: 4.0.0
+2023-03-02 19:24:21,287:INFO:  explainerdashboard: Not installed
+2023-03-02 19:24:21,287:INFO:             autoviz: Not installed
+2023-03-02 19:24:21,287:INFO:           fairlearn: Not installed
+2023-03-02 19:24:21,287:INFO:             xgboost: Not installed
+2023-03-02 19:24:21,287:INFO:            catboost: Not installed
+2023-03-02 19:24:21,287:INFO:              kmodes: Not installed
+2023-03-02 19:24:21,287:INFO:             mlxtend: Not installed
+2023-03-02 19:24:21,287:INFO:       statsforecast: Not installed
+2023-03-02 19:24:21,287:INFO:        tune_sklearn: Not installed
+2023-03-02 19:24:21,288:INFO:                 ray: Not installed
+2023-03-02 19:24:21,288:INFO:            hyperopt: Not installed
+2023-03-02 19:24:21,288:INFO:              optuna: Not installed
+2023-03-02 19:24:21,288:INFO:               skopt: Not installed
+2023-03-02 19:24:21,288:INFO:              mlflow: Not installed
+2023-03-02 19:24:21,288:INFO:              gradio: Not installed
+2023-03-02 19:24:21,288:INFO:             fastapi: Not installed
+2023-03-02 19:24:21,288:INFO:             uvicorn: Not installed
+2023-03-02 19:24:21,288:INFO:              m2cgen: Not installed
+2023-03-02 19:24:21,288:INFO:           evidently: Not installed
+2023-03-02 19:24:21,288:INFO:               fugue: Not installed
+2023-03-02 19:24:21,288:INFO:           streamlit: 1.19.0
+2023-03-02 19:24:21,288:INFO:             prophet: Not installed
+2023-03-02 19:24:21,288:INFO:None
+2023-03-02 19:24:21,288:INFO:Set up data.
+2023-03-02 19:24:23,909:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:33: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 19:24:23,912:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:49: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 19:24:31,827:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:25:07,125:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:25:13,437:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:25:18,098:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:25:35,223:INFO:PyCaret ClassificationExperiment
+2023-03-02 19:25:35,223:INFO:Logging name: clf-default-name
+2023-03-02 19:25:35,223:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-03-02 19:25:35,223:INFO:version 3.0.0.rc9
+2023-03-02 19:25:35,224:INFO:Initializing setup()
+2023-03-02 19:25:35,224:INFO:self.USI: df9f
+2023-03-02 19:25:35,224:INFO:self._variable_keys: {'is_multiclass', 'memory', 'seed', 'html_param', 'y_test', '_ml_usecase', 'y_train', 'gpu_n_jobs_param', 'fold_generator', 'log_plots_param', 'idx', 'exp_name_log', 'X', 'exp_id', 'USI', 'X_test', '_available_plots', 'target_param', 'logging_param', 'fix_imbalance', 'y', 'pipeline', 'fold_groups_param', 'X_train', 'fold_shuffle_param', 'gpu_param', 'n_jobs_param', 'data'}
+2023-03-02 19:25:35,224:INFO:Checking environment
+2023-03-02 19:25:35,224:INFO:python_version: 3.10.5
+2023-03-02 19:25:35,224:INFO:python_build: ('v3.10.5:f377153967', 'Jun  6 2022 12:36:10')
+2023-03-02 19:25:35,224:INFO:machine: x86_64
+2023-03-02 19:25:35,224:INFO:platform: macOS-12.4-x86_64-i386-64bit
+2023-03-02 19:25:35,224:INFO:Memory: svmem(total=17179869184, available=4218294272, percent=75.4, used=7983112192, free=96206848, active=4117700608, inactive=4058648576, wired=3865411584)
+2023-03-02 19:25:35,224:INFO:Physical Core: 8
+2023-03-02 19:25:35,224:INFO:Logical Core: 16
+2023-03-02 19:25:35,224:INFO:Checking libraries
+2023-03-02 19:25:35,224:INFO:System:
+2023-03-02 19:25:35,224:INFO:    python: 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)]
+2023-03-02 19:25:35,224:INFO:executable: /Users/user/PycharmProjects/simple_analysis_streamlit/venv/bin/python
+2023-03-02 19:25:35,224:INFO:   machine: macOS-12.4-x86_64-i386-64bit
+2023-03-02 19:25:35,224:INFO:PyCaret required dependencies:
+2023-03-02 19:25:35,224:INFO:                 pip: 21.3.1
+2023-03-02 19:25:35,224:INFO:          setuptools: 60.2.0
+2023-03-02 19:25:35,224:INFO:             pycaret: 3.0.0rc9
+2023-03-02 19:25:35,224:INFO:             IPython: 8.10.0
+2023-03-02 19:25:35,224:INFO:          ipywidgets: 8.0.4
+2023-03-02 19:25:35,224:INFO:                tqdm: 4.64.1
+2023-03-02 19:25:35,224:INFO:               numpy: 1.23.5
+2023-03-02 19:25:35,224:INFO:              pandas: 1.5.3
+2023-03-02 19:25:35,224:INFO:              jinja2: 3.1.2
+2023-03-02 19:25:35,224:INFO:               scipy: 1.9.3
+2023-03-02 19:25:35,224:INFO:              joblib: 1.2.0
+2023-03-02 19:25:35,224:INFO:             sklearn: 1.2.1
+2023-03-02 19:25:35,225:INFO:                pyod: 1.0.7
+2023-03-02 19:25:35,225:INFO:            imblearn: 0.10.1
+2023-03-02 19:25:35,225:INFO:   category_encoders: 2.6.0
+2023-03-02 19:25:35,225:INFO:            lightgbm: 3.3.5
+2023-03-02 19:25:35,225:INFO:               numba: 0.56.4
+2023-03-02 19:25:35,225:INFO:            requests: 2.28.2
+2023-03-02 19:25:35,225:INFO:          matplotlib: 3.6.3
+2023-03-02 19:25:35,225:INFO:          scikitplot: 0.3.7
+2023-03-02 19:25:35,225:INFO:         yellowbrick: 1.5
+2023-03-02 19:25:35,225:INFO:              plotly: 5.13.1
+2023-03-02 19:25:35,225:INFO:             kaleido: 0.2.1
+2023-03-02 19:25:35,225:INFO:         statsmodels: 0.13.5
+2023-03-02 19:25:35,225:INFO:              sktime: 0.16.1
+2023-03-02 19:25:35,225:INFO:               tbats: 1.1.2
+2023-03-02 19:25:35,225:INFO:            pmdarima: 2.0.2
+2023-03-02 19:25:35,225:INFO:              psutil: 5.9.4
+2023-03-02 19:25:35,225:INFO:PyCaret optional dependencies:
+2023-03-02 19:25:35,225:INFO:                shap: Not installed
+2023-03-02 19:25:35,225:INFO:           interpret: Not installed
+2023-03-02 19:25:35,225:INFO:                umap: Not installed
+2023-03-02 19:25:35,225:INFO:    pandas_profiling: 4.0.0
+2023-03-02 19:25:35,225:INFO:  explainerdashboard: Not installed
+2023-03-02 19:25:35,225:INFO:             autoviz: Not installed
+2023-03-02 19:25:35,225:INFO:           fairlearn: Not installed
+2023-03-02 19:25:35,225:INFO:             xgboost: Not installed
+2023-03-02 19:25:35,225:INFO:            catboost: Not installed
+2023-03-02 19:25:35,225:INFO:              kmodes: Not installed
+2023-03-02 19:25:35,225:INFO:             mlxtend: Not installed
+2023-03-02 19:25:35,225:INFO:       statsforecast: Not installed
+2023-03-02 19:25:35,225:INFO:        tune_sklearn: Not installed
+2023-03-02 19:25:35,225:INFO:                 ray: Not installed
+2023-03-02 19:25:35,225:INFO:            hyperopt: Not installed
+2023-03-02 19:25:35,225:INFO:              optuna: Not installed
+2023-03-02 19:25:35,225:INFO:               skopt: Not installed
+2023-03-02 19:25:35,226:INFO:              mlflow: Not installed
+2023-03-02 19:25:35,226:INFO:              gradio: Not installed
+2023-03-02 19:25:35,226:INFO:             fastapi: Not installed
+2023-03-02 19:25:35,226:INFO:             uvicorn: Not installed
+2023-03-02 19:25:35,226:INFO:              m2cgen: Not installed
+2023-03-02 19:25:35,226:INFO:           evidently: Not installed
+2023-03-02 19:25:35,226:INFO:               fugue: Not installed
+2023-03-02 19:25:35,226:INFO:           streamlit: 1.19.0
+2023-03-02 19:25:35,226:INFO:             prophet: Not installed
+2023-03-02 19:25:35,226:INFO:None
+2023-03-02 19:25:35,226:INFO:Set up data.
+2023-03-02 19:29:07,576:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:29:14,779:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:30:05,602:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:30:08,052:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:30:37,599:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:30:43,166:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:30:47,304:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:30:51,541:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:30:54,944:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:30:58,289:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:34:23,099:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:35:22,753:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:33: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 19:35:22,756:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:49: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 19:39:28,259:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 19:39:44,318:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 20:20:58,366:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:33: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 20:20:58,369:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/main.py:49: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  cat_columns = df.select_dtypes(include=np.object).columns
+
+2023-03-02 20:21:08,479:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 20:21:14,980:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
+2023-03-02 20:37:22,245:WARNING:/Users/user/PycharmProjects/simple_analysis_streamlit/pages/Visualisation.py:31: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(df[col], ax=ax)
+
