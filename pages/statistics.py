@@ -9,7 +9,8 @@ from streamlit_pandas_profiling import st_profile_report
 
 st.write('''# Статистический анализ данных''')
 
-df = pd.read_excel('data/data.xlsx')
+path ='merged_leads_land_not_null.csv'
+df = pd.read_csv(f"data/{path}") #загрузка данных
 
 pr = df.profile_report()
 st_profile_report(pr)

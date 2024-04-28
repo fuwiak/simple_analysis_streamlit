@@ -9,7 +9,8 @@ import seaborn as sns
 
 st.title("Визуализация данных")
 
-df = pd.read_excel('data/data.xlsx')
+path ='merged_leads_land_not_null.csv'
+df = pd.read_csv(f"data/{path}") #загрузка данных
 
 #Распределение целевой переменной
 st.write('''## Распределение целевой переменной''')
@@ -18,7 +19,7 @@ st.write('''## Распределение целевой переменной'''
 col1, col2 = st.columns(2)
 
 with col1:
-    fig, ax = plt.subplots(figsize=(20, 10))
+    fig, ax = plt.subplots(figsize=(20, 10)) #увеличиваем размер графика
     cat_cols = df.select_dtypes(include=['object']).columns
     col = st.selectbox('Выберите категориальную переменную', cat_cols)
     sns.countplot(y=col, data=df, ax=ax)

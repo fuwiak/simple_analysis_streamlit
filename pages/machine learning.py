@@ -18,13 +18,14 @@ from sklearn.ensemble import RandomForestClassifier
 
 
 
-st.title("Обучение модели")
+st.title("Обучение модели") #заголовок
 
-df = pd.read_excel('data/data.xlsx')
+path ='merged_leads_land_not_null.csv'
+df = pd.read_csv(f"data/{path}") #загрузка данных
 
 #выбор целевой переменной
 st.write('''## Выбор целевой переменной''')
-target_col = ['Входит в ядро РИНЦ']
+target_col = ['Входит в ядро РИНЦ'] #выбор целевой переменной
 # col1, col2 = st.columns(2)
 # cat_cols =
 col = st.selectbox('Выберите категориальную переменную', target_col)
@@ -59,8 +60,8 @@ options_num = st.multiselect(
 
 cat_cols = list(df.select_dtypes(include=['object']).columns)
 
-remove_col = ['Автор', 'Входит в ядро РИНЦ','Название']
-cat_cols = [x for x in cat_cols if x not in remove_col]
+remove_col = ['Автор', 'Входит в ядро РИНЦ','Название'] #выбор категориальных переменных
+cat_cols = [x for x in cat_cols if x not in remove_col] #выбор категориальных переменных
 
 
 
@@ -73,13 +74,13 @@ options_cat = st.multiselect(
 #
 #select columns
 
-X = df[options_num + options_cat]
-y = df[col]
+X = df[options_num + options_cat] #независимые переменные
+y = df[col] #зависимая переменная - это что мы предсказываем(мы выбрали целевую переменную)
 
 #split data
 
 #slider with step 0.05 from 0.1 to 0.2
-test_size = st.slider('Выберите размер тестовой выборки', 0.1, 0.2, 0.15, 0.01)
+test_size = st.slider('Выберите размер тестовой выборки', 0.1, 0.2, 0.15, 0.01) #размер тестовой выборки, по умолчанию 0.15, шаг 0.01, от 0.1 до 0.2
 
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size, random_state=42)
