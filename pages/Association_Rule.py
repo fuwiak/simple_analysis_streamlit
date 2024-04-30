@@ -12,17 +12,14 @@ st.title("Advanced Association Rule Mining Dashboard")
 @st.experimental_singleton
 def load_data(path):
     """ Load data selectively with memory optimization. """
-    cols_to_use = ['request_date', 'weight', 'amount', 'container_type', 'shipping_type_x',
-                   'hs_code', 'port_from', 'port_to', 'carrier', 'price_usd']
+    cols_to_use = ['request_date', 'weight', 'amount',
+                   'hs_code', 'port_from', 'port_to', 'price_usd']
     dtype_opt = {
         'weight': 'float32',
         'amount': 'int32',
         'hs_code': 'category',
-        'container_type': 'category',
-        'shipping_type_x': 'category',
         'port_from': 'category',
         'port_to': 'category',
-        'carrier': 'category',
         'price_usd': 'float32'
     }
     return pd.read_csv(path, usecols=cols_to_use, dtype=dtype_opt)
