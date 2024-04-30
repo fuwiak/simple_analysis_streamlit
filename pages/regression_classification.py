@@ -42,10 +42,59 @@ target = st.sidebar.selectbox('Select the target variable for prediction:', df.c
 features = st.sidebar.multiselect('Select features to use:', df.columns.drop(target), default=df.columns.drop(target).tolist())
 encode_categorical = st.sidebar.radio("Encode categorical variables:", ["Frequency Encoding", "Target encoding"], index=0)
 model_type = st.sidebar.selectbox('Choose a regression model:', [
-    'Linear Regression', 'Ridge', 'Lasso', 'Random Forest Regressor',
+    'Ridge', 'Lasso', 'Random Forest Regressor',
     'Decision Tree Regressor', 'XGBoost Regressor', 'AdaBoost Regressor',
     'Gradient Boosting Regressor'
 ])
+
+# Hyperparameters Sidebar
+if model_type == 'Ridge':
+    alpha_ridge = st.sidebar.slider('Alpha', 0.01, 10.0, 1.0)
+    solver_ridge = st.sidebar.selectbox('Solver', ['auto', 'svd', 'cholesky', 'lsqr', 'sparse_cg', 'sag', 'saga'])
+    max_iter_ridge = st.sidebar.slider('Max Iterations', 100, 10000, 1000)
+elif model_type == 'Lasso':
+    alpha_lasso = st.sidebar.slider('Alpha', 0.01, 10.0, 1.0)
+    max_iter_lasso = st.sidebar.slider('Max Iterations', 100, 10000, 1000)
+
+elif model_type == 'Random Forest Regressor':
+    n_estimators_rf = st.sidebar.slider('Number of Trees', 100, 500, 100)
+    max_depth_rf = st.sidebar.slider('Max Depth', 1, 20, 10)
+    min_samples_split_rf = st.sidebar.slider('Min Samples Split', 2, 10, 2)
+    min_samples_leaf_rf = st.sidebar.slider('Min Samples Leaf', 1, 5, 1)
+elif model_type == 'Decision Tree Regressor':
+    max_depth_dt = st.sidebar.slider('Max Depth', 1, 20, 10)
+    min_samples_split_dt = st.sidebar.slider('Min Samples Split', 2, 10, 2)
+    min_samples_leaf_dt = st.sidebar.slider('Min Samples Leaf', 1, 5, 1)
+
+elif model_type == 'XGBoost Regressor':
+    learning_rate_xgb = st.sidebar.slider('Learning Rate', 0.01, 0.5, 0.1)
+    n_estimators_xgb = st.sidebar.slider('Number of Estimators', 100, 500, 100)
+    max_depth_xgb = st.sidebar.slider('Max Depth', 1, 10, 3)
+    subsample_xgb = st.sidebar.slider('Subsample', 0.5, 1.0, 0.8)
+    colsample_bytree_xgb = st.sidebar.slider('Colsample by Tree', 0.5, 1.0, 0.8)
+elif model_type == 'AdaBoost Regressor':
+    n_estimators_ada = st.sidebar.slider('Number of Estimators', 50, 200, 50)
+    learning_rate_ada = st.sidebar.slider('Learning Rate', 0.01, 1.0, 0.1)
+    loss_ada = st.sidebar.selectbox('Loss Function', ['linear', 'square', 'exponential'])
+elif model_type == 'Gradient Boosting Regressor':
+    n_estimators_gb = st.sidebar.slider('Number of Estimators', 100, 500, 100)
+    learning_rate_gb = st.sidebar.slider('Learning Rate', 0.01, 0.5, 0.1)
+    max_depth_gb = st.sidebar.slider('Max Depth', 1, 10, 3)
+    min_samples_split_gb = st.sidebar.slider('Min Samples Split', 2, 10, 2)
+    min_samples_leaf_gb = st.sidebar.slider('Min Samples Leaf', 1, 5, 1)
+
+
+# Model Initialization with Hyperparameters
+model_dict = {
+    'Ridge': Ridge(alpha=alpha_ridge, solver=solver_ridge, max_iter=max_iter_ridge) if model_type == 'Ridge' else Ridge(),
+    'Lasso': Lasso(alpha=alpha_lasso, max_iter=max_iter_lasso) if model_type == 'Lasso' else Lasso(),
+    'Random Forest Regressor': RandomForestRegressor(n_estimators=n_estimators_rf, max_depth=max_depth_rf, min_samples_split=min_samples_split_rf, min_samples_leaf=min_samples_leaf_rf) if model_type == 'Random Forest Regressor' else RandomForestRegressor(),
+    'Decision Tree Regressor': DecisionTreeRegressor(max_depth=max_depth_dt, min_samples_split=min_samples_split_dt, min_samples_leaf=min_samples_leaf_dt) if model_type == 'Decision Tree Regressor' else DecisionTreeRegressor(),
+    'XGBoost Regressor': XGBRegressor(learning_rate=learning_rate_xgb, n_estimators=n_estimators_xgb, max_depth=max_depth_xgb, subsample=subsample_xgb, colsample_bytree=colsample_bytree_xgb) if model_type == 'XGBoost Regressor' else XGBRegressor(),
+    'AdaBoost Regressor': AdaBoostRegressor(n_estimators=n_estimators_ada, learning_rate=learning_rate_ada, loss=loss_ada) if model_type == 'AdaBoost Regressor' else AdaBoostRegressor(),
+    'Gradient Boosting Regressor': GradientBoostingRegressor(n_estimators=n_estimators_gb, learning_rate=learning_rate_gb, max_depth=max_depth_gb, min_samples_split=min_samples_split_gb, min_samples_leaf=min_samples_leaf_gb) if model_type == 'Gradient Boosting Regressor' else GradientBoostingRegressor()
+}
+
 
 # Preprocessing configuration
 numeric_cols = make_column_selector(dtype_include=np.number)
@@ -67,7 +116,6 @@ if target in df.columns and features:
     y = df[target]
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
     model_dict = {
-        'Linear Regression': LinearRegression(),
         'Ridge': Ridge(),
         'Lasso': Lasso(),
         'Random Forest Regressor': RandomForestRegressor(),
