@@ -1,0 +1,21 @@
+request_date,weight,amount,hs_code,freight_all_kinds,city_from,port_from,port_to_country,port_to,city_to_country,city_to,destination_name,price_usd,valid_days
+2023-09-29,25.0,1.0,94-96,False,missing,Shanghai,ES,Barcelona,missing,missing,"Madrid, Spain",9900.0,7
+2023-10-07,6.0,1.0,84-85,False,"Guangzhou, Guangdong, China",Guangzhou,FR,Le Havre,FR,"Le Havre, France","Lyon Metropolis, France",9450.0,7
+2023-10-25,7.0,1.0,482369,False,missing,Dalian,FR,Le Havre,missing,missing,"Lyon Metropolis, France",9450.0,7
+2023-11-01,24.0,1.0,392062,False,missing,Dalian,ES,Barcelona,missing,missing,"Madrid, Spain",9900.0,7
+2023-11-20,20.0,1.0,842951,False,"Kunshan, Suzhou, Jiangsu, China",Suzhou,PL,Warszawa,PL,"Katowice, Poland","Małaszewicze, Poland",7450.0,7
+2023-12-15,20.0,1.0,missing,True,"Guangzhou, Guangdong, China",Guangzhou,DE,DUISBURG,DE,"Bochum, Germany","Duisburg, Germany",8250.0,7
+2023-12-15,20.0,1.0,missing,True,"Guangzhou, Guangdong, China",Guangzhou,DE,DUISBURG,DE,"Bochum, Germany","Hamburg, Germany",8250.0,7
+2024-01-02,10.0,1.0,761699,False,"Ningbo, Zhejiang, China",Ningbo,ES,Tarragona,ES,"43460 Alcover, Tarragona, Spain","Madrid, Spain",9900.0,7
+2024-01-03,20.0,1.0,missing,True,missing,Ningbo,PL,Gdansk,missing,missing,"Małaszewicze, Poland",7450.0,7
+2024-01-12,25.0,1.0,39-40,False,missing,Nantong,IT,Genova,missing,missing,"Milan, Metropolitan City of Milan, Italy",9750.0,7
+2024-01-24,10.46,1.0,missing,True,missing,Chengdu,ES,Valencia,ES,"Valencia, Spain","Madrid, Spain",9900.0,7
+2024-01-24,10.46,1.0,missing,True,"Shekou Port, Nanshan Qu, Shenzhen Shi, China, 518067",Chiwan,ES,Valencia,ES,"Valencia, Spain","Madrid, Spain",9900.0,7
+2024-01-24,10.46,1.0,missing,True,"Shekou Port, Nanshan Qu, Shenzhen Shi, China, 518067",Chiwan,ES,Valencia,ES,"Valencia, Spain","Madrid, Spain",9900.0,7
+2024-01-24,10.46,1.0,missing,True,"Shekou Port, Nanshan Qu, Shenzhen Shi, China, 518067",Chiwan,ES,Valencia,ES,"Valencia, Spain","Madrid, Spain",9900.0,7
+2024-01-24,10.46,1.0,missing,True,"Shekou Port, Nanshan Qu, Shenzhen Shi, China, 518067",Chiwan,ES,Valencia,ES,"Valencia, Spain","Madrid, Spain",9900.0,7
+2024-01-24,15.0,1.0,700991,False,"Shekou Port, Nanshan Qu, Shenzhen Shi, China, 518067",Chiwan,FR,Lyon,FR,"39300 Champagnole, France","Lyon Metropolis, France",9450.0,7
+2024-01-29,26.0,2.0,missing,True,"Shenzhen, Guangdong, China",Shenzhen,IT,Ancona,IT,"Port of Ancona, 60121 Ancona AN, Italy","Milan, Metropolitan City of Milan, Italy",9750.0,7
+2024-02-15,26.0,1.0,84-85,False,"Shanghai, China",Shanghai,FR,Deauville,missing,missing,"Lyon Metropolis, France",9450.0,7
+2024-02-26,26.0,1.0,441810,False,China,Sanshui,IT,Napoli,missing,missing,"Milan, Metropolitan City of Milan, Italy",9750.0,7
+2024-03-05,18.0,1.0,84-85,False,China,Sanshui,PL,Warszawa,PL,Poland,"Małaszewicze, Poland",7450.0,7
