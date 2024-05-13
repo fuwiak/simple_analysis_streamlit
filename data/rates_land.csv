@@ -1,0 +1,1001 @@
+create_date,valid_from,valid_to,estimated_days,origin_country,origin_name,destination_country,destination_name,shipping_type,load_type,load_amount,price_usd
+2024-02-11,2024-02-01,2024-12-31,6,ZW,"Harare, Zimbabwe",MZ,"Maputo, Mozambique",RAIL_FCL,40' Standard,1,2430
+2024-02-11,2024-02-01,2024-12-31,6,ZW,"Harare, Zimbabwe",MZ,"Maputo, Mozambique",RAIL_FCL,20' Standard,1,1850
+2024-02-11,2024-01-01,2024-12-31,5,MZ,"Beira, Mozambique",ZW,"Harare, Zimbabwe",RAIL_FCL,40' Standard,1,1850
+2024-02-11,2024-01-01,2024-12-31,5,MZ,"Beira, Mozambique",ZW,"Harare, Zimbabwe",RAIL_FCL,20' Standard,1,1180
+2024-02-11,2024-01-01,2024-12-31,5,ZW,"Harare, Zimbabwe",MZ,"Beira, Mozambique",RAIL_FCL,20' Standard,1,1180
+2024-02-11,2024-01-01,2024-12-31,5,ZW,"Harare, Zimbabwe",MZ,"Beira, Mozambique",RAIL_FCL,40' Standard,1,1850
+2024-02-11,2024-01-01,2024-12-31,6,MZ,"Maputo, Mozambique",ZW,"Harare, Zimbabwe",RAIL_FCL,40' Standard,1,2430
+2024-02-11,2024-01-01,2024-12-31,6,MZ,"Maputo, Mozambique",ZW,"Harare, Zimbabwe",RAIL_FCL,20' Standard,1,1850
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Dnipro, Dnipropetrovsk Oblast, Ukraine, 49000",RAIL_FCL,40' Standard,1,2950
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Dnipro, Dnipropetrovsk Oblast, Ukraine, 49000",RAIL_FCL,20' Standard,1,2850
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdańsk, Poland",UA,"Dnipro, Dnipropetrovsk Oblast, Ukraine, 49000",RAIL_FCL,40' Standard,1,2950
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdańsk, Poland",UA,"Dnipro, Dnipropetrovsk Oblast, Ukraine, 49000",RAIL_FCL,20' Standard,1,2850
+2023-12-08,2024-01-03,2024-02-03,,UA,"Dnipro, Dnipropetrovsk Oblast, Ukraine, 49000",PL,"Gdynia, Poland",RAIL_FCL,40' Standard,1,3450
+2023-12-08,2024-01-03,2024-02-03,,UA,"Dnipro, Dnipropetrovsk Oblast, Ukraine, 49000",PL,"Gdynia, Poland",RAIL_FCL,20' Standard,1,3150
+2023-12-08,2024-01-03,2024-02-03,,UA,"Dnipro, Dnipropetrovsk Oblast, Ukraine, 49000",PL,"Gdańsk, Poland",RAIL_FCL,40' Standard,1,3450
+2023-12-08,2024-01-03,2024-02-03,,UA,"Dnipro, Dnipropetrovsk Oblast, Ukraine, 49000",PL,"Gdańsk, Poland",RAIL_FCL,20' Standard,1,3150
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Kyiv, Ukraine, 02000",RAIL_FCL,40' Standard,1,2600
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Kyiv, Ukraine, 02000",RAIL_FCL,20' Standard,1,2500
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdańsk, Poland",UA,"Kyiv, Ukraine, 02000",RAIL_FCL,40' Standard,1,2600
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdańsk, Poland",UA,"Kyiv, Ukraine, 02000",RAIL_FCL,20' Standard,1,2500
+2023-12-08,2024-01-03,2024-02-03,,UA,"Kyiv, Ukraine, 02000",PL,"Gdynia, Poland",RAIL_FCL,40' Standard,1,3050
+2023-12-08,2024-01-03,2024-02-03,,UA,"Kyiv, Ukraine, 02000",PL,"Gdynia, Poland",RAIL_FCL,20' Standard,1,2750
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Odesa, Odessa Oblast, Ukraine, 65000",RAIL_FCL,40' Standard,1,3000
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Odesa, Odessa Oblast, Ukraine, 65000",RAIL_FCL,20' Standard,1,2800
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdańsk, Poland",UA,"Odesa, Odessa Oblast, Ukraine, 65000",RAIL_FCL,40' Standard,1,3000
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdańsk, Poland",UA,"Odesa, Odessa Oblast, Ukraine, 65000",RAIL_FCL,20' Standard,1,2800
+2023-12-08,2024-01-03,2024-02-03,,UA,"Odesa, Odessa Oblast, Ukraine, 65000",PL,"Gdynia, Poland",RAIL_FCL,40' Standard,1,3500
+2023-12-08,2024-01-03,2024-02-03,,UA,"Odesa, Odessa Oblast, Ukraine, 65000",PL,"Gdynia, Poland",RAIL_FCL,20' Standard,1,3000
+2023-12-08,2024-01-03,2024-02-03,,UA,"Odesa, Odessa Oblast, Ukraine, 65000",PL,"Gdańsk, Poland",RAIL_FCL,40' Standard,1,3500
+2023-12-08,2024-01-03,2024-02-03,,UA,"Odesa, Odessa Oblast, Ukraine, 65000",PL,"Gdańsk, Poland",RAIL_FCL,20' Standard,1,3000
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Ternopil, Ternopil Oblast, Ukraine, 46000",RAIL_FCL,20' Standard,1,2100
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Ternopil, Ternopil Oblast, Ukraine, 46000",RAIL_FCL,40' Standard,1,2100
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Mostyska, Lviv Oblast, Ukraine",RAIL_FCL,40' Standard,1,1800
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdynia, Poland",UA,"Mostyska, Lviv Oblast, Ukraine",RAIL_FCL,20' Standard,1,1800
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdańsk, Poland",UA,"Mostyska, Lviv Oblast, Ukraine",RAIL_FCL,40' Standard,1,1800
+2023-12-08,2024-01-03,2024-02-03,,PL,"Gdańsk, Poland",UA,"Mostyska, Lviv Oblast, Ukraine",RAIL_FCL,20' Standard,1,1800
+2023-12-08,2024-01-03,2024-02-03,,UA,"Mostyska, Lviv Oblast, Ukraine",PL,"Gdynia, Poland",RAIL_FCL,20' Standard,1,2200
+2023-12-08,2024-01-03,2024-02-03,,UA,"Mostyska, Lviv Oblast, Ukraine",PL,"Gdynia, Poland",RAIL_FCL,40' Standard,1,2500
+2023-11-28,2023-11-28,2023-12-31,,CN,"Wuhan, Hubei, China",ES,"Madrid, Spain",RAIL_FCL,40' Standard,1,9900
+2023-11-28,2023-11-28,2023-12-31,,CN,"Wuhan, Hubei, China",FR,"Lyon Metropolis, France",RAIL_FCL,40' Standard,1,9450
+2023-11-28,2023-11-28,2023-12-31,,CN,"Wuhan, Hubei, China",CZ,"Prague, Czechia",RAIL_FCL,40' Standard,1,8950
+2023-11-28,2023-11-28,2023-12-31,,CN,"Wuhan, Hubei, China",IT,"Milan, Metropolitan City of Milan, Italy",RAIL_FCL,40' Standard,1,9750
+2023-11-28,2023-11-28,2023-12-31,,CN,"Wuhan, Hubei, China",DE,"Duisburg, Germany",RAIL_FCL,40' Standard,1,8250
+2023-11-28,2023-11-28,2023-12-31,,CN,"Wuhan, Hubei, China",DE,"Hamburg, Germany",RAIL_FCL,40' Standard,1,8250
+2023-11-28,2023-11-28,2023-12-31,,CN,"Wuhan, Hubei, China",PL,"Małaszewicze, Poland",RAIL_FCL,40' Standard,1,7450
+2023-10-27,2023-01-01,2024-12-31,,MZ,"Nacala, Mozambique",ZM,"Chipata, Zambia",RAIL_FCL,40' Standard,1,3361
+2023-10-27,2023-01-01,2024-12-31,,MZ,"Nacala, Mozambique",ZM,"Chipata, Zambia",RAIL_FCL,20' Standard,1,1868
+2023-10-27,2023-08-01,2024-12-31,,MZ,"Nacala, Mozambique",MW,"Lilongwe, Malawi",RAIL_FCL,40' Standard,1,2935
+2023-10-27,2023-08-01,2024-12-31,,MZ,"Nacala, Mozambique",MW,"Lilongwe, Malawi",RAIL_FCL,20' Standard,1,1630
+2023-10-27,2023-09-01,2024-03-30,,MZ,"Nacala, Mozambique",MW,"Blantyre, Malawi",RAIL_FCL,40' Standard,1,2392
+2023-10-27,2023-09-01,2024-03-30,,MZ,"Nacala, Mozambique",MW,"Blantyre, Malawi",RAIL_FCL,20' Standard,1,1462
+2023-10-27,2023-08-01,2024-03-31,,MZ,"Nacala, Mozambique",MW,"Liwonde, Malawi",RAIL_FCL,40' Standard,1,2037
+2023-10-27,2023-08-01,2024-03-31,,MZ,"Nacala, Mozambique",MW,"Liwonde, Malawi",RAIL_FCL,20' Standard,1,1132
+2023-10-13,2023-10-20,2023-11-06,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1216.94
+2023-10-13,2023-10-20,2023-10-31,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1216.94
+2023-10-13,2023-10-20,2023-10-23,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,544.77
+2023-10-13,2023-10-20,2023-10-23,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,544.77
+2023-10-13,2023-10-20,2023-10-25,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,4168.18
+2023-10-13,2023-10-20,2023-10-25,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,4168.18
+2023-10-13,2023-10-20,2023-10-26,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,858.53
+2023-10-13,2023-10-20,2023-10-26,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,858.53
+2023-10-13,2023-10-20,2023-11-15,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1216.94
+2023-10-13,2023-10-20,2023-11-08,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1216.94
+2023-10-13,2023-10-20,2023-10-30,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1216.94
+2023-10-13,2023-10-20,2023-10-30,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1216.94
+2023-10-13,2023-10-20,2023-10-23,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,498.2
+2023-10-13,2023-10-20,2023-10-25,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,4463.87
+2023-10-13,2023-10-20,2023-10-26,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,909.64
+2023-10-13,2023-10-20,2023-10-30,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,941.96
+2023-10-13,2023-10-20,2023-10-24,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1894.46
+2023-10-13,2023-10-20,2023-10-23,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,497.81
+2023-10-13,2023-10-20,2023-10-26,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,884.76
+2023-10-13,2023-10-20,2023-10-25,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,4456.58
+2023-10-13,2023-10-20,2023-10-24,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1894.46
+2023-10-13,2023-10-20,2023-10-27,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1894.46
+2023-10-13,2023-10-20,2023-11-10,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,941.96
+2023-10-13,2023-10-20,2023-11-03,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,941.96
+2023-10-13,2023-10-20,2023-11-20,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,941.96
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,2672.9
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,2672.9
+2023-10-13,2023-12-14,2023-12-19,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-11-02,,IN,"Bhusawal, Maharashtra, India",IN,"K.J. Herschel Rd, Thamaraparambu, Veli, Kochi, Kerala 682001, India",LTL,mt,1,3281.37
+2023-10-13,2023-12-08,2023-12-13,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-11-02,,IN,"Bhusawal, Maharashtra, India",IN,"K.J. Herschel Rd, Thamaraparambu, Veli, Kochi, Kerala 682001, India",LTL,mt,1,3281.37
+2023-10-13,2023-12-06,2023-12-11,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-26,,IN,"Bhusawal, Maharashtra, India",IN,"K.J. Herschel Rd, Thamaraparambu, Veli, Kochi, Kerala 682001, India",LTL,mt,1,3281.37
+2023-10-13,2023-11-27,2023-11-30,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-26,,IN,"Bhusawal, Maharashtra, India",IN,"K.J. Herschel Rd, Thamaraparambu, Veli, Kochi, Kerala 682001, India",LTL,mt,1,3281.37
+2023-10-13,2023-12-27,2024-01-01,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"K.J. Herschel Rd, Thamaraparambu, Veli, Kochi, Kerala 682001, India",LTL,mt,1,3281.37
+2023-10-13,2023-12-12,2023-12-15,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"K.J. Herschel Rd, Thamaraparambu, Veli, Kochi, Kerala 682001, India",LTL,mt,1,3281.37
+2023-10-13,2023-12-18,2023-12-25,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Indianapolis, IN, USA",LTL,mt,1,1044.07
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"K.J. Herschel Rd, Thamaraparambu, Veli, Kochi, Kerala 682001, India",LTL,mt,1,3281.37
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"K.J. Herschel Rd, Thamaraparambu, Veli, Kochi, Kerala 682001, India",LTL,mt,1,3281.37
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"K.J. Herschel Rd, Thamaraparambu, Veli, Kochi, Kerala 682001, India",LTL,mt,1,3281.37
+2023-10-13,2023-12-13,2023-12-18,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-11-02,,IN,"Bhusawal, Maharashtra, India",IN,"Cornelia Sorabji Rd, B.B.D. Bagh, Kolkata, West Bengal 700001, India",LTL,mt,1,3489.9
+2023-10-13,2023-12-15,2023-12-20,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-30,,IN,"Bhusawal, Maharashtra, India",IN,"Cornelia Sorabji Rd, B.B.D. Bagh, Kolkata, West Bengal 700001, India",LTL,mt,1,3489.9
+2023-10-13,2023-12-15,2023-12-20,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Cornelia Sorabji Rd, B.B.D. Bagh, Kolkata, West Bengal 700001, India",LTL,mt,1,3489.9
+2023-10-13,2023-11-29,2023-12-04,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Cornelia Sorabji Rd, B.B.D. Bagh, Kolkata, West Bengal 700001, India",LTL,mt,1,3489.9
+2023-10-13,2023-12-25,2023-12-28,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Cornelia Sorabji Rd, B.B.D. Bagh, Kolkata, West Bengal 700001, India",LTL,mt,1,3489.9
+2023-10-13,2023-12-14,2023-12-21,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Indianapolis, IN, USA",LTL,mt,1,1044.07
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Cornelia Sorabji Rd, B.B.D. Bagh, Kolkata, West Bengal 700001, India",LTL,mt,1,3489.9
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Cornelia Sorabji Rd, B.B.D. Bagh, Kolkata, West Bengal 700001, India",LTL,mt,1,3489.9
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Cornelia Sorabji Rd, B.B.D. Bagh, Kolkata, West Bengal 700001, India",LTL,mt,1,3489.9
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,1001.42
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,1001.42
+2023-10-13,2023-12-18,2023-12-21,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Anchepet, Chickpet, Bengaluru, Karnataka, India",LTL,mt,1,2433.66
+2023-10-13,2023-12-04,2023-12-07,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Indianapolis, IN, USA",LTL,mt,1,709.58
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Anchepet, Chickpet, Bengaluru, Karnataka, India",LTL,mt,1,2433.66
+2023-10-13,2023-12-08,2023-12-15,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Indianapolis, IN, USA",LTL,mt,1,1044.07
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Anchepet, Chickpet, Bengaluru, Karnataka, India",LTL,mt,1,2433.66
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Anchepet, Chickpet, Bengaluru, Karnataka, India",LTL,mt,1,2433.66
+2023-10-13,2023-10-13,2023-10-24,,IN,"Bhusawal, Maharashtra, India",IN,"Anchepet, Chickpet, Bengaluru, Karnataka, India",LTL,mt,1,2433.66
+2023-10-13,2023-11-23,2023-11-24,,US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,388.61
+2023-10-13,2023-12-04,2023-12-14,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,389.79
+2023-10-13,2023-12-04,2023-12-05,,US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,388.61
+2023-10-13,2023-10-13,2023-10-24,,JP,"Omaezaki Port, Japan",JP,"Japan, 〒135-0061 Tokyo, Koto City, Toyosu, 6-chōme−2, 都道484号",LTL,mt,1,163.51
+2023-10-13,2023-12-14,2023-12-21,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,678.33
+2023-10-13,2023-10-13,2023-10-24,,JP,"Omaezaki Port, Japan",JP,"Japan, 〒135-0061 Tokyo, Koto City, Toyosu, 6-chōme−2, 都道484号",LTL,mt,1,163.51
+2023-10-13,2023-10-13,2023-10-24,,JP,"Omaezaki Port, Japan",JP,"Japan, 〒135-0061 Tokyo, Koto City, Toyosu, 6-chōme−2, 都道484号",LTL,mt,1,163.51
+2023-10-12,2023-12-11,2023-12-25,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-12-05,2023-12-19,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-11-28,2023-12-12,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-12-19,2024-01-02,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-12-15,2023-12-29,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-12-14,2023-12-28,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-12-11,2023-12-25,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-12-07,2023-12-21,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-12-04,2023-12-18,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-12-08,2023-12-22,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-10-20,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,848.23
+2023-10-12,2023-12-12,2023-12-26,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-10-24,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,392.02
+2023-10-12,2023-12-07,2023-12-21,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-10-19,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1263.56
+2023-10-12,2023-12-20,2024-01-03,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-10-24,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,392.02
+2023-10-12,2023-12-18,2024-01-01,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-10-20,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,825.95
+2023-10-12,2023-12-15,2023-12-29,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-10-19,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1263.56
+2023-10-12,2023-12-04,2023-12-06,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,294.77
+2023-10-12,2023-11-14,2023-11-16,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,294.77
+2023-10-12,2023-11-30,2023-12-07,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,1150.78
+2023-10-12,2023-11-20,2023-11-27,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,1150.78
+2023-10-12,2023-12-07,2023-12-08,,US,"Detroit, MI, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,142.26
+2023-10-12,2023-12-08,2023-12-11,,US,"Detroit, MI, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,142.26
+2023-10-12,2023-11-27,2023-11-28,,US,"Detroit, MI, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,142.26
+2023-10-12,2023-11-20,2023-11-21,,US,"Detroit, MI, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,142.26
+2023-10-12,2023-12-11,2023-12-13,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,294.77
+2023-10-12,2023-11-21,2023-11-23,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,294.77
+2023-10-12,2023-12-07,2023-12-14,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,1150.78
+2023-10-12,2023-11-27,2023-12-04,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,1150.78
+2023-10-12,2023-12-14,2023-12-15,,US,"Detroit, MI, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,142.26
+2023-10-12,2023-12-15,2023-12-18,,US,"Detroit, MI, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,142.26
+2023-10-12,2023-12-04,2023-12-05,,US,"Detroit, MI, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,142.26
+2023-10-12,2023-11-27,2023-11-28,,US,"Detroit, MI, USA",US,"Ann Arbor, MI, USA",LTL,mt,1,142.26
+2023-10-12,2024-01-03,2024-01-17,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-11-10,,US,"Portland, OR, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1023.79
+2023-10-12,2023-12-22,2024-01-05,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-10-25,,US,"Portland, OR, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1023.79
+2023-10-12,2023-12-05,2023-12-19,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-10-17,,US,"Portland, OR, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,390.16
+2023-10-12,2023-12-13,2023-12-27,,SA,"Al Matar, Al-Balad, Jeddah 22235, Saudi Arabia",SA,Jeddah Saudi Arabia,LTL,mt,1,230
+2023-10-12,2023-10-13,2023-10-17,,US,"Portland, OR, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,389.79
+2023-10-12,2023-11-24,2023-11-28,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,478.18
+2023-10-12,2023-12-07,2023-12-12,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1201.53
+2023-10-12,2023-12-04,2023-12-06,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,478.18
+2023-10-12,2023-12-15,2023-12-20,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1201.53
+2023-10-12,2023-10-30,2023-11-06,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,691.61
+2023-10-12,2023-11-13,2023-11-14,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-11-20,2023-11-27,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,1592.89
+2023-10-12,2023-11-20,2023-11-21,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-17,,DE,"Hamburg, Germany",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,257.73
+2023-10-12,2023-11-14,2023-11-15,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-13,,DE,"Hamburg, Germany",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,335.6
+2023-10-12,2023-11-23,2023-11-24,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-31,,DE,"Hamburg, Germany",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,288.91
+2023-10-12,2023-11-16,2023-11-17,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-24,,DE,"Hamburg, Germany",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,288.91
+2023-10-12,2023-11-09,2023-11-10,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-17,,DE,"Hamburg, Germany",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,288.91
+2023-10-12,2023-11-17,2023-11-20,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-16,,DE,"Hamburg, Germany",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,288.91
+2023-10-12,2023-11-14,2023-11-21,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,691.61
+2023-10-12,2023-10-12,2023-10-26,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,158.34
+2023-10-12,2023-11-07,2023-11-14,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,691.61
+2023-10-12,2023-10-12,2023-10-20,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,158.34
+2023-10-12,2023-11-20,2023-11-21,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-27,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,158.34
+2023-10-12,2023-11-13,2023-11-14,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-23,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,158.34
+2023-10-12,2023-11-08,2023-11-09,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-17,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,158.34
+2023-10-12,2023-12-04,2023-12-11,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,1592.89
+2023-10-12,2023-10-12,2023-10-27,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,158.34
+2023-10-12,2023-11-27,2023-12-04,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,1592.89
+2023-10-12,2023-10-12,2023-10-23,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,158.34
+2023-10-12,2023-11-22,2023-11-29,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,1592.89
+2023-10-12,2023-10-12,2023-10-17,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,158.34
+2023-10-12,2023-10-31,2023-11-07,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,691.61
+2023-10-12,2023-10-12,2023-10-13,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,166.65
+2023-10-12,2023-11-03,2023-11-10,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,691.61
+2023-10-12,2023-10-12,2023-10-16,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,153.11
+2023-10-12,2023-11-14,2023-11-15,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-13,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,166.65
+2023-10-12,2023-11-17,2023-11-20,,US,"First Street Metromover Station, Miami, FL 33132, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,566.92
+2023-10-12,2023-10-12,2023-10-16,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,153.11
+2023-10-12,2023-11-20,2023-11-27,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,1592.89
+2023-10-12,2023-10-12,2023-10-13,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,166.65
+2023-10-12,2023-11-23,2023-11-30,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Lauderdale-By-The-Sea, FL, USA",LTL,mt,1,1592.89
+2023-10-12,2023-10-12,2023-10-16,,DE,"Hamburg, Germany",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,153.11
+2023-10-12,2023-12-04,2023-12-18,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-30,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,546.82
+2023-10-12,2023-11-21,2023-12-05,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-16,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,546.82
+2023-10-12,2023-11-06,2023-11-20,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-16,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,546.82
+2023-10-12,2023-12-19,2024-01-02,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-11-10,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,713.24
+2023-10-12,2023-12-13,2023-12-27,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-11-03,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,713.24
+2023-10-12,2023-11-29,2023-12-13,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-27,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,713.24
+2023-10-12,2023-11-23,2023-12-07,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-20,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,713.24
+2023-10-12,2023-11-22,2023-12-06,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-17,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,713.24
+2023-10-12,2023-11-06,2023-11-20,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-17,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,713.24
+2023-10-12,2023-12-18,2024-01-01,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-11-13,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,546.82
+2023-10-12,2023-12-11,2023-12-25,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-11-06,,US,"Miami, FL, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,546.82
+2023-10-12,2023-11-15,2023-11-29,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-16,,US,"Miami, FL, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,2956.81
+2023-10-12,2023-11-01,2023-11-15,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-13,,US,"Miami, FL, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,112.48
+2023-10-12,2023-11-13,2023-11-27,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-13,,US,"Miami, FL, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,112.48
+2023-10-12,2023-12-13,2023-12-27,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-11-15,,US,"Miami, FL, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,112.48
+2023-10-12,2023-11-29,2023-12-13,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-11-03,,US,"Miami, FL, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,112.48
+2023-10-12,2023-11-23,2023-12-07,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-27,,US,"Miami, FL, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,112.48
+2023-10-12,2023-12-04,2023-12-18,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-11-13,,US,"Miami, FL, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,515.39
+2023-10-12,2023-11-27,2023-12-11,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-11-06,,US,"Miami, FL, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,515.39
+2023-10-12,2023-11-27,2023-12-11,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-16,,US,"Miami, FL, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,645.74
+2023-10-12,2023-12-04,2023-12-18,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-23,,US,"Miami, FL, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,392.02
+2023-10-12,2023-11-30,2023-12-14,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-19,,US,"Miami, FL, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1026.47
+2023-10-12,2023-11-29,2023-12-13,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-18,,US,"Miami, FL, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1263.56
+2023-10-12,2023-12-21,2024-01-04,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-31,,US,"Miami, FL, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1263.56
+2023-10-12,2023-12-14,2023-12-28,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-24,,US,"Miami, FL, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1263.56
+2023-10-12,2023-12-11,2023-12-25,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-11-01,,US,"Miami, FL, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1263.56
+2023-10-12,2023-12-04,2023-12-18,,AR,"Av. Antártida Argentina, Buenos Aires, Argentina",AR,"RN A002 5, B1802 Ezeiza, Provincia de Buenos Aires, Argentina",LTL,mt,1,92
+2023-10-12,2023-10-12,2023-10-25,,US,"Miami, FL, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1263.56
+2023-10-12,2023-12-05,2023-12-07,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-18,,US,"Las Vegas, NV, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,673.14
+2023-10-12,2023-12-04,2023-12-06,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-16,,US,"Las Vegas, NV, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,366.11
+2023-10-12,2023-11-08,2023-11-10,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-18,,US,"Las Vegas, NV, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,7118.59
+2023-10-12,2023-11-10,2023-11-14,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-18,,US,"Las Vegas, NV, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,7118.59
+2023-10-12,2023-11-09,2023-11-13,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-19,,US,"Las Vegas, NV, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,814.8
+2023-10-12,2023-11-20,2023-11-22,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-26,,US,"Las Vegas, NV, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,814.8
+2023-10-12,2023-11-28,2023-11-30,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-16,,US,"Las Vegas, NV, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,450.01
+2023-10-12,2023-11-27,2023-11-29,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-13,,US,"Las Vegas, NV, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,713.38
+2023-10-12,2023-12-04,2023-12-06,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-16,,US,"Las Vegas, NV, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,425.17
+2023-10-12,2023-11-30,2023-12-04,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Slough, UK",LTL,mt,1,135.35
+2023-10-12,2023-10-12,2023-10-13,,US,"Las Vegas, NV, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,292.58
+2023-10-12,2023-11-14,2023-11-22,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"Vancouver, BC, Canada",LTL,mt,1,766.96
+2023-10-12,2023-12-11,2023-12-19,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"Vancouver, BC, Canada",LTL,mt,1,766.96
+2023-10-12,2023-11-29,2023-12-05,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"Vancouver, BC, Canada",LTL,mt,1,1154.07
+2023-10-12,2023-11-13,2023-11-16,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,728.55
+2023-10-12,2023-10-16,2023-10-17,,NL,"Prins Hendrikkade 36, 1011 AE Amsterdam, Netherlands",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,123.37
+2023-10-12,2023-10-16,2023-10-17,,NL,"Prins Hendrikkade 36, 1011 AE Amsterdam, Netherlands",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,123.37
+2023-10-12,2023-11-24,2023-12-01,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1392.34
+2023-10-12,2023-10-16,2023-10-17,,NL,"Prins Hendrikkade 36, 1011 AE Amsterdam, Netherlands",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,123.37
+2023-10-12,2023-11-15,2023-11-20,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,2896.22
+2023-10-12,2023-10-19,2023-10-23,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",PT,"Santos, Av. 24 de Julho, 1200-109 Lisboa, Portugal",LTL,mt,1,374.8
+2023-10-12,2023-12-05,2023-12-14,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,9018.3
+2023-10-12,2023-10-19,2023-10-23,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",PT,"Santos, Av. 24 de Julho, 1200-109 Lisboa, Portugal",LTL,mt,1,374.8
+2023-10-12,2023-11-13,2023-11-17,,CA,"1197-1315 Rue Berri, Montréal, QC H2L, Canada",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,4239.02
+2023-10-12,2023-10-19,2023-10-23,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",PT,"Santos, Av. 24 de Julho, 1200-109 Lisboa, Portugal",LTL,mt,1,374.8
+2023-10-12,2023-11-13,2023-11-17,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,2896.22
+2023-10-12,2023-10-19,2023-10-20,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",PT,"Santos, Av. 24 de Julho, 1200-109 Lisboa, Portugal",LTL,mt,1,426.52
+2023-10-12,2023-12-04,2023-12-13,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,9018.3
+2023-10-12,2023-10-19,2023-10-20,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",PT,"Santos, Av. 24 de Julho, 1200-109 Lisboa, Portugal",LTL,mt,1,426.52
+2023-10-12,2023-11-10,2023-11-14,,CA,"1197-1315 Rue Berri, Montréal, QC H2L, Canada",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,4239.02
+2023-10-12,2023-10-19,2023-10-20,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",PT,"Santos, Av. 24 de Julho, 1200-109 Lisboa, Portugal",LTL,mt,1,426.52
+2023-10-12,2023-11-13,2023-11-17,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,2896.22
+2023-10-12,2023-10-19,2023-10-25,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,420.05
+2023-10-12,2023-11-07,2023-11-13,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,2896.22
+2023-10-12,2023-10-19,2023-10-20,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,532.7
+2023-10-12,2023-11-14,2023-11-20,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,2896.22
+2023-10-12,2023-10-19,2023-10-27,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,565.7
+2023-10-12,2023-11-10,2023-11-14,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,2896.22
+2023-10-12,2023-10-19,2023-10-23,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,1635.62
+2023-10-12,2023-12-04,2023-12-13,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,9018.3
+2023-10-12,2023-10-19,2023-10-25,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,420.05
+2023-10-12,2023-11-27,2023-12-06,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,9018.3
+2023-10-12,2023-10-19,2023-10-20,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,532.7
+2023-10-12,2023-12-04,2023-12-13,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,9018.3
+2023-10-12,2023-10-19,2023-10-27,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,565.7
+2023-10-12,2023-11-30,2023-12-11,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,9018.3
+2023-10-12,2023-10-19,2023-10-23,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,1635.62
+2023-10-12,2023-11-10,2023-11-14,,CA,"1197-1315 Rue Berri, Montréal, QC H2L, Canada",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,4239.02
+2023-10-12,2023-10-19,2023-10-25,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,420.05
+2023-10-12,2023-11-06,2023-11-10,,CA,"1197-1315 Rue Berri, Montréal, QC H2L, Canada",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,4239.02
+2023-10-12,2023-10-19,2023-10-20,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,532.7
+2023-10-12,2023-11-13,2023-11-17,,CA,"1197-1315 Rue Berri, Montréal, QC H2L, Canada",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,4239.02
+2023-10-12,2023-10-19,2023-10-27,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,565.7
+2023-10-12,2023-11-08,2023-11-13,,CA,"1197-1315 Rue Berri, Montréal, QC H2L, Canada",CA,"Port au Port, NL A0N 1T0, Canada",LTL,mt,1,4239.02
+2023-10-12,2023-10-19,2023-10-23,,PT,"R. Henrique Schreck 202-212, 4450-570 Leça da Palmeira, Portugal",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,1635.62
+2023-10-12,2023-11-13,2023-11-15,,US,"National Park, NJ 08063, USA",US,"New York, NY, USA",LTL,mt,1,470.98
+2023-10-12,2023-10-12,2023-10-16,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,300.32
+2023-10-12,2023-11-09,2023-11-13,,US,"National Park, NJ 08063, USA",US,"New York, NY, USA",LTL,mt,1,470.98
+2023-10-12,2023-10-12,2023-10-13,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,475.61
+2023-10-12,2023-11-15,2023-11-17,,US,"National Park, NJ 08063, USA",US,"New York, NY, USA",LTL,mt,1,470.98
+2023-10-12,2023-10-12,2023-10-19,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,399.79
+2023-10-12,2023-11-03,2023-11-06,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"New York, NY, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-12,2023-10-16,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,300.32
+2023-10-12,2023-10-31,2023-11-01,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"New York, NY, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-12,2023-10-13,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,475.61
+2023-10-12,2023-11-21,2023-11-22,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"New York, NY, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-12,2023-11-01,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,399.79
+2023-10-12,2023-11-14,2023-11-15,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"New York, NY, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-12,2023-10-25,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,399.79
+2023-10-12,2023-11-06,2023-11-07,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"New York, NY, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-12,2023-10-19,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,399.79
+2023-10-12,2023-11-23,2023-11-30,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"New York, NY, USA",LTL,mt,1,7802.51
+2023-10-12,2023-10-12,2023-10-16,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,300.32
+2023-10-12,2023-11-20,2023-11-27,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"New York, NY, USA",LTL,mt,1,7802.51
+2023-10-12,2023-10-12,2023-10-13,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,475.61
+2023-10-12,2023-12-01,2023-12-08,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"New York, NY, USA",LTL,mt,1,7802.51
+2023-10-12,2023-10-12,2023-10-31,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,399.79
+2023-10-12,2023-11-27,2023-12-04,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"New York, NY, USA",LTL,mt,1,7802.51
+2023-10-12,2023-10-12,2023-10-19,,PL,"Gdańsk, Poland",NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",LTL,mt,1,399.79
+2023-10-12,2023-11-20,2023-11-21,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",NL,"Eindhoven, Netherlands",LTL,mt,1,111.82
+2023-10-12,2023-10-12,2023-10-26,,CA,"Toronto, ON, Canada",CA,"Lower Don River Trail, Toronto, ON M4K, Canada",LTL,mt,1,194.94
+2023-10-12,2023-11-13,2023-11-14,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",NL,"Eindhoven, Netherlands",LTL,mt,1,111.82
+2023-10-12,2023-10-12,2023-10-19,,CA,"Toronto, ON, Canada",CA,"Lower Don River Trail, Toronto, ON M4K, Canada",LTL,mt,1,194.94
+2023-10-12,2023-11-20,2023-11-21,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",NL,"Eindhoven, Netherlands",LTL,mt,1,111.82
+2023-10-12,2023-10-12,2023-10-26,,CA,"Toronto, ON, Canada",CA,"1197-1315 Rue Berri, Montréal, QC H2L, Canada",LTL,mt,1,235.97
+2023-10-12,2023-11-13,2023-11-14,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",NL,"Eindhoven, Netherlands",LTL,mt,1,111.82
+2023-10-12,2023-10-12,2023-10-19,,CA,"Toronto, ON, Canada",CA,"1197-1315 Rue Berri, Montréal, QC H2L, Canada",LTL,mt,1,235.97
+2023-10-12,2023-12-11,2023-12-13,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,478.18
+2023-10-12,2023-11-15,2023-11-17,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,478.18
+2023-10-12,2023-11-29,2023-12-06,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1392.34
+2023-10-12,2023-12-15,2023-12-19,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,478.18
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-12,2023-11-29,2023-12-01,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,478.18
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-12,2023-12-04,2023-12-11,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1392.34
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-12,2023-12-18,2023-12-20,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,478.18
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,448.5
+2023-10-12,2023-11-22,2023-11-24,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,478.18
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,448.5
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,448.5
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,448.5
+2023-10-12,2023-12-06,2023-12-13,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1392.34
+2023-10-12,2023-10-12,2023-10-24,,IN,"Kachiguda, Hyderabad, Telangana, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,448.5
+2023-10-12,2023-11-20,2023-11-22,,CA,"Lower Don River Trail, Toronto, ON M4K, Canada",CA,"Toronto, ON, Canada",LTL,mt,1,1284.03
+2023-10-12,2023-10-12,2023-10-19,,CN,"Shanghai, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,138
+2023-10-12,2023-11-20,2023-11-30,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Los Angeles, CA, USA",LTL,mt,1,389.79
+2023-10-12,2023-11-21,2023-12-01,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Los Angeles, CA, USA",LTL,mt,1,389.79
+2023-10-12,2023-11-08,2023-11-09,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Los Angeles, CA, USA",LTL,mt,1,517.5
+2023-10-12,2023-11-06,2023-11-07,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Los Angeles, CA, USA",LTL,mt,1,517.5
+2023-10-12,2023-11-06,2023-11-08,,US,"Henderson, NV 89014, USA",US,"Los Angeles, CA, USA",LTL,mt,1,919.53
+2023-10-12,2023-11-28,2023-12-08,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Los Angeles, CA, USA",LTL,mt,1,389.79
+2023-10-12,2023-10-16,2023-10-26,,KR,"Busan, South Korea",KR,"Nampo-dong, 12 구덕로 지하 Nampodong 1(il)-ga, Jung-gu, Busan, South Korea",LTL,mt,1,276
+2023-10-12,2023-12-01,2023-12-13,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Los Angeles, CA, USA",LTL,mt,1,389.79
+2023-10-12,2023-10-16,2023-10-26,,KR,"Busan, South Korea",KR,"Nampo-dong, 12 구덕로 지하 Nampodong 1(il)-ga, Jung-gu, Busan, South Korea",LTL,mt,1,276
+2023-10-12,2023-11-20,2023-11-21,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Los Angeles, CA, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-16,2023-10-26,,KR,"Busan, South Korea",KR,"Nampo-dong, 12 구덕로 지하 Nampodong 1(il)-ga, Jung-gu, Busan, South Korea",LTL,mt,1,276
+2023-10-12,2023-11-14,2023-11-15,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Los Angeles, CA, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-16,2023-10-26,,KR,"Busan, South Korea",KR,"Nampo-dong, 12 구덕로 지하 Nampodong 1(il)-ga, Jung-gu, Busan, South Korea",LTL,mt,1,276
+2023-10-12,2023-11-16,2023-11-20,,US,"Henderson, NV 89014, USA",US,"Los Angeles, CA, USA",LTL,mt,1,919.53
+2023-10-12,2023-10-16,2023-10-26,,KR,"Busan, South Korea",KR,"Nampo-dong, 12 구덕로 지하 Nampodong 1(il)-ga, Jung-gu, Busan, South Korea",LTL,mt,1,276
+2023-10-12,2023-11-22,2023-11-28,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"Vancouver, BC, Canada",LTL,mt,1,1154.07
+2023-10-12,2023-10-12,2023-10-26,,TW,"Fuan Temple, Taoyuan District, Taoyuan City, Taiwan 330",TW,"200, Taiwan, Keelung City, Ren’ai District, Gangxi St, 16號18 號 West Passenger Terminal",LTL,mt,1,77.05
+2023-10-12,2023-11-21,2023-11-23,,CA,"Unnamed Road, Vancouver, BC V6A 4G9, Canada",CA,"Vancouver, BC, Canada",LTL,mt,1,751.06
+2023-10-12,2023-10-12,2023-10-26,,TW,"Fuan Temple, Taoyuan District, Taoyuan City, Taiwan 330",TW,"200, Taiwan, Keelung City, Ren’ai District, Gangxi St, 16號18 號 West Passenger Terminal",LTL,mt,1,77.05
+2023-10-12,2023-12-18,2023-12-20,,CA,"Unnamed Road, Vancouver, BC V6A 4G9, Canada",CA,"Vancouver, BC, Canada",LTL,mt,1,751.06
+2023-10-12,2023-10-12,2023-10-26,,TW,"Fuan Temple, Taoyuan District, Taoyuan City, Taiwan 330",TW,"200, Taiwan, Keelung City, Ren’ai District, Gangxi St, 16號18 號 West Passenger Terminal",LTL,mt,1,77.05
+2023-10-12,2023-12-11,2023-12-12,,US,"Jean Lafitte, LA 70067, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1000.29
+2023-10-12,2023-12-01,2023-12-04,,US,"Jean Lafitte, LA 70067, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1000.29
+2023-10-12,2023-12-19,2023-12-20,,US,"Jean Lafitte, LA 70067, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1000.29
+2023-10-12,2023-10-12,2023-10-20,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-12,2023-12-11,2023-12-12,,US,"Jean Lafitte, LA 70067, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1000.29
+2023-10-12,2023-10-12,2023-10-20,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-12,2023-12-04,2023-12-11,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,789.12
+2023-10-12,2023-10-12,2023-10-20,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-12,2023-12-18,2023-12-25,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,789.12
+2023-10-12,2023-10-12,2023-10-20,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-12,2023-10-12,2023-10-31,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-12,2023-10-12,2023-10-20,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-12,2023-10-12,2023-10-20,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-12,2023-11-27,2023-12-01,,US,"Seattle Ferry Terminal, 801 Alaskan Way, Seattle, WA 98104, USA",CA,"7436-7104 Gateway Blvd, Edmonton, AB T6E 0E6, Canada",LTL,mt,1,1890.3
+2023-10-12,2023-12-04,2023-12-12,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"7436-7104 Gateway Blvd, Edmonton, AB T6E 0E6, Canada",LTL,mt,1,873.88
+2023-10-12,2023-11-20,2023-11-24,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"7436-7104 Gateway Blvd, Edmonton, AB T6E 0E6, Canada",LTL,mt,1,1234.36
+2023-10-12,2023-11-28,2023-12-04,,US,"Seattle Ferry Terminal, 801 Alaskan Way, Seattle, WA 98104, USA",CA,"7436-7104 Gateway Blvd, Edmonton, AB T6E 0E6, Canada",LTL,mt,1,1890.3
+2023-10-12,2023-10-12,2023-10-13,,JP,"Yokohama, Kanagawa Prefecture, Japan",JP,"Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-0012, Japan",LTL,mt,1,127.17
+2023-10-12,2023-12-04,2023-12-12,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"7436-7104 Gateway Blvd, Edmonton, AB T6E 0E6, Canada",LTL,mt,1,873.88
+2023-10-12,2023-10-12,2023-10-13,,JP,"Yokohama, Kanagawa Prefecture, Japan",JP,"Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-0012, Japan",LTL,mt,1,127.17
+2023-10-12,2023-11-21,2023-11-27,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"7436-7104 Gateway Blvd, Edmonton, AB T6E 0E6, Canada",LTL,mt,1,1234.36
+2023-10-12,2023-10-12,2023-10-13,,JP,"Yokohama, Kanagawa Prefecture, Japan",JP,"Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-0012, Japan",LTL,mt,1,127.17
+2023-10-12,2023-12-08,2023-12-14,,US,"Seattle Ferry Terminal, 801 Alaskan Way, Seattle, WA 98104, USA",CA,"7436-7104 Gateway Blvd, Edmonton, AB T6E 0E6, Canada",LTL,mt,1,1890.3
+2023-10-12,2023-10-12,2023-10-23,,JP,"Yokohama, Kanagawa Prefecture, Japan",JP,"Japan, 〒135-0061 Tokyo, Koto City, Toyosu, 6-chōme−2, 都道484号",LTL,mt,1,127.17
+2023-10-12,2023-12-13,2023-12-21,,US,"Battery Pl/West St, New York, NY 10280, USA",CA,"7436-7104 Gateway Blvd, Edmonton, AB T6E 0E6, Canada",LTL,mt,1,873.88
+2023-10-12,2023-10-12,2023-10-23,,JP,"Yokohama, Kanagawa Prefecture, Japan",JP,"Japan, 〒135-0061 Tokyo, Koto City, Toyosu, 6-chōme−2, 都道484号",LTL,mt,1,127.17
+2023-10-12,2023-12-01,2023-12-07,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",CA,"7436-7104 Gateway Blvd, Edmonton, AB T6E 0E6, Canada",LTL,mt,1,1234.36
+2023-10-12,2023-10-12,2023-10-23,,JP,"Yokohama, Kanagawa Prefecture, Japan",JP,"Japan, 〒135-0061 Tokyo, Koto City, Toyosu, 6-chōme−2, 都道484号",LTL,mt,1,127.17
+2023-10-12,2023-12-11,2023-12-12,,US,"National Park, NJ 08063, USA",US,"Nutley, NJ, USA",LTL,mt,1,251
+2023-10-12,2023-10-12,2023-10-23,,AU,"Merewether NSW 2291, Australia",AU,"Western Distributor, Pyrmont NSW 2009, Australia",LTL,mt,1,227.08
+2023-10-12,2023-12-25,2023-12-26,,US,"National Park, NJ 08063, USA",US,"Nutley, NJ, USA",LTL,mt,1,251
+2023-10-12,2023-10-12,2023-10-23,,AU,"Merewether NSW 2291, Australia",AU,"Western Distributor, Pyrmont NSW 2009, Australia",LTL,mt,1,227.08
+2023-10-12,2023-12-18,2023-12-19,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Nutley, NJ, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-12,2023-10-27,,AU,"Merewether NSW 2291, Australia",AU,"Western Distributor, Pyrmont NSW 2009, Australia",LTL,mt,1,227.08
+2023-10-12,2023-12-11,2023-12-12,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Nutley, NJ, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-12,2023-10-23,,AU,"Merewether NSW 2291, Australia",AU,"Western Distributor, Pyrmont NSW 2009, Australia",LTL,mt,1,227.08
+2023-10-12,2023-12-21,2023-12-22,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Nutley, NJ, USA",LTL,mt,1,517.5
+2023-10-12,2023-10-12,2023-10-23,,AU,"Merewether NSW 2291, Australia",AU,"Western Distributor, Pyrmont NSW 2009, Australia",LTL,mt,1,227.08
+2023-10-12,2023-12-25,2024-01-01,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Nutley, NJ, USA",LTL,mt,1,1413.02
+2023-10-12,2023-10-12,2023-10-31,,AU,"Merewether NSW 2291, Australia",AU,"Western Distributor, Pyrmont NSW 2009, Australia",LTL,mt,1,227.08
+2023-10-12,2023-12-11,2023-12-18,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Nutley, NJ, USA",LTL,mt,1,1413.02
+2023-10-12,2023-10-12,2023-10-23,,AU,"Merewether NSW 2291, Australia",AU,"Western Distributor, Pyrmont NSW 2009, Australia",LTL,mt,1,227.08
+2023-10-12,2023-12-18,2023-12-25,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Nutley, NJ, USA",LTL,mt,1,1413.02
+2023-10-12,2023-10-12,2023-10-23,,AU,"Merewether NSW 2291, Australia",AU,"Western Distributor, Pyrmont NSW 2009, Australia",LTL,mt,1,227.08
+2023-10-12,2023-11-13,2023-11-17,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",PT,"Amadora, Portugal",LTL,mt,1,591.89
+2023-10-12,2023-10-12,2023-10-23,,CN,"Xin Jiang Qiao, Haishu Qu, Ningbo Shi, Zhejiang Sheng, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,333.5
+2023-10-12,2023-11-28,2023-12-04,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",PT,"Amadora, Portugal",LTL,mt,1,591.89
+2023-10-12,2023-10-12,2023-10-23,,CN,"Xin Jiang Qiao, Haishu Qu, Ningbo Shi, Zhejiang Sheng, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,333.5
+2023-10-12,2023-12-07,2023-12-13,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",PT,"Amadora, Portugal",LTL,mt,1,591.89
+2023-10-12,2023-10-12,2023-10-31,,CN,"Xin Jiang Qiao, Haishu Qu, Ningbo Shi, Zhejiang Sheng, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,230
+2023-10-12,2023-12-06,2023-12-12,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",PT,"Amadora, Portugal",LTL,mt,1,591.89
+2023-10-12,2023-10-12,2023-10-26,,CN,"Xin Jiang Qiao, Haishu Qu, Ningbo Shi, Zhejiang Sheng, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,230
+2023-10-12,2023-11-13,2023-11-17,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",PT,"Amadora, Portugal",LTL,mt,1,591.89
+2023-10-12,2023-10-12,2023-10-23,,CN,"Xin Jiang Qiao, Haishu Qu, Ningbo Shi, Zhejiang Sheng, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,1392.52
+2023-10-11,2023-10-17,2023-10-26,,CN,"Gang Yi Yi Wei Lu, Binhai Xinqu, Tianjin Shi, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,1852.33
+2023-10-11,2023-12-06,2023-12-08,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Felixstowe, UK",LTL,mt,1,137.79
+2023-10-11,2023-10-17,2023-10-26,,CN,"Gang Yi Yi Wei Lu, Binhai Xinqu, Tianjin Shi, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,1852.33
+2023-10-11,2023-10-17,2023-11-03,,CN,"Gang Yi Yi Wei Lu, Binhai Xinqu, Tianjin Shi, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,798.37
+2023-10-11,2023-10-17,2023-10-27,,CN,"Gang Yi Yi Wei Lu, Binhai Xinqu, Tianjin Shi, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,798.37
+2023-10-11,2023-10-17,2023-10-26,,CN,"Gang Yi Yi Wei Lu, Binhai Xinqu, Tianjin Shi, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,798.37
+2023-10-11,2023-12-08,2023-12-12,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Felixstowe, UK",LTL,mt,1,137.79
+2023-10-11,2023-10-17,2023-10-26,,CN,"Gang Yi Yi Wei Lu, Binhai Xinqu, Tianjin Shi, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,798.37
+2023-10-11,2023-10-11,2023-10-12,,US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,404.49
+2023-10-11,2023-10-11,2023-10-13,,US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,564.52
+2023-10-11,2023-10-11,2023-10-18,,US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,975.18
+2023-10-11,2023-10-11,2023-10-18,,US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,975.18
+2023-10-11,2023-10-11,2023-10-25,,US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,448.11
+2023-10-11,2023-10-11,2023-10-23,,US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,448.11
+2023-10-11,2023-10-11,2023-10-12,,US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,284.41
+2023-10-11,2023-10-11,2023-10-12,,US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,279.96
+2023-10-11,2023-12-18,2023-12-19,,US,"National Park, NJ 08063, USA",US,"502-512 Market St, Newark, NJ 07105, USA",LTL,mt,1,251
+2023-10-11,2023-10-11,2023-10-23,,IN,"NH348, Navi Mumbai, Maharashtra 400702, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-11,2023-11-21,2023-11-22,,US,"National Park, NJ 08063, USA",US,"502-512 Market St, Newark, NJ 07105, USA",LTL,mt,1,251
+2023-10-11,2023-10-11,2023-10-23,,IN,"NH348, Navi Mumbai, Maharashtra 400702, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-11,2023-11-20,2023-11-21,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"502-512 Market St, Newark, NJ 07105, USA",LTL,mt,1,517.5
+2023-10-11,2023-10-11,2023-10-23,,IN,"NH348, Navi Mumbai, Maharashtra 400702, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-11,2023-12-15,2023-12-18,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"502-512 Market St, Newark, NJ 07105, USA",LTL,mt,1,517.5
+2023-10-11,2023-10-11,2023-10-23,,IN,"NH348, Navi Mumbai, Maharashtra 400702, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-11,2023-12-05,2023-12-08,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"502-512 Market St, Newark, NJ 07105, USA",LTL,mt,1,1368.42
+2023-10-11,2023-10-11,2023-10-23,,IN,"NH348, Navi Mumbai, Maharashtra 400702, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-11,2023-12-18,2023-12-27,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-13,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,867.39
+2023-10-11,2024-01-03,2024-01-12,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-27,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,170.78
+2023-10-11,2023-12-18,2023-12-27,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-12,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,170.78
+2023-10-11,2023-12-12,2023-12-21,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-13,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,867.39
+2023-10-11,2023-12-29,2024-01-09,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-27,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,170.78
+2023-10-11,2023-12-11,2023-12-20,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-12,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,170.78
+2023-10-11,2023-12-21,2024-01-01,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-30,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,554.24
+2023-10-11,2023-12-14,2023-12-25,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-23,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,554.24
+2023-10-11,2023-12-07,2023-12-18,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-16,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,554.24
+2023-10-11,2023-12-18,2023-12-27,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-31,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,980.16
+2023-10-11,2023-12-11,2023-12-20,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-24,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,980.16
+2023-10-11,2023-12-28,2024-01-08,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-11-06,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-12-26,2024-01-04,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-30,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-12-25,2024-01-03,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-23,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-12-07,2023-12-18,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-18,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-12-04,2023-12-13,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-18,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-12-01,2023-12-12,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-19,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1049.74
+2023-10-11,2023-12-05,2023-12-14,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-19,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1049.74
+2023-10-11,2023-11-28,2023-12-07,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-16,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-12-04,2023-12-13,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-16,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-12-27,2024-01-05,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-11-10,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-12-22,2024-01-02,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-11-06,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-12-20,2023-12-29,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-30,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-12-18,2023-12-27,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-23,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-11-30,2023-12-11,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-18,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2023-12-04,2023-12-13,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-18,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,6892.03
+2023-10-11,2024-01-11,2024-01-22,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-11-17,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2024-01-03,2024-01-12,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-11-17,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-12-20,2023-12-29,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-11-08,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-12-13,2023-12-22,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-11-01,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-12-06,2023-12-15,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-25,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-11-29,2023-12-08,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-13,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1351.48
+2023-10-11,2023-11-27,2023-12-06,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-13,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,1351.48
+2023-10-11,2023-12-27,2024-01-05,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-13,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,642.21
+2023-10-11,2023-12-21,2024-01-01,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-31,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,642.21
+2023-10-11,2023-12-14,2023-12-25,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-24,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,642.21
+2023-10-11,2023-12-07,2023-12-18,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-17,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,642.21
+2023-10-11,2023-12-22,2024-01-02,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-13,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,642.21
+2023-10-11,2023-12-18,2023-12-27,,SA,8CRQ+2X Al Awsat Saudi Arabia,SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,2185.26
+2023-10-11,2023-10-11,2023-10-18,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,646.85
+2023-10-11,2023-12-13,2023-12-22,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-18,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,646.85
+2023-10-11,2023-12-27,2024-01-05,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-27,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,646.85
+2023-10-11,2023-12-20,2023-12-29,,SA,"Waqidi Street, As Salam, Dammam 32416, Saudi Arabia",SA,"Lagoon Rd, King Abdullah Economic City Saudi Arabia",LTL,mt,1,3204.05
+2023-10-11,2023-10-11,2023-10-20,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,646.85
+2023-10-11,2023-11-08,2023-11-15,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",RO,"Bulevardul Regina Elisabeta 12, Constanța 900178, Romania",LTL,mt,1,690.78
+2023-10-11,2023-10-11,2023-10-20,,CN,"Xin Pu Lu, Dong Bu Shang Quan, Shinan Qu, Qingdao Shi, Shandong Sheng, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,1093.1
+2023-10-11,2023-11-27,2023-12-04,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",RO,"Bulevardul Regina Elisabeta 12, Constanța 900178, Romania",LTL,mt,1,690.78
+2023-10-11,2023-10-11,2023-10-20,,CN,"Xin Pu Lu, Dong Bu Shang Quan, Shinan Qu, Qingdao Shi, Shandong Sheng, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,1093.1
+2023-10-11,2023-11-08,2023-11-15,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",RO,"Bulevardul Regina Elisabeta 12, Constanța 900178, Romania",LTL,mt,1,690.78
+2023-10-11,2023-10-11,2023-10-20,,CN,"Xin Pu Lu, Dong Bu Shang Quan, Shinan Qu, Qingdao Shi, Shandong Sheng, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,333.5
+2023-10-11,2023-11-27,2023-12-04,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",RO,"Bulevardul Regina Elisabeta 12, Constanța 900178, Romania",LTL,mt,1,690.78
+2023-10-11,2023-10-11,2023-10-20,,CN,"Xin Pu Lu, Dong Bu Shang Quan, Shinan Qu, Qingdao Shi, Shandong Sheng, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,333.5
+2023-10-11,2023-11-06,2023-11-13,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",RO,"Bulevardul Regina Elisabeta 12, Constanța 900178, Romania",LTL,mt,1,690.78
+2023-10-11,2023-10-11,2023-10-18,,CN,"Xin Pu Lu, Dong Bu Shang Quan, Shinan Qu, Qingdao Shi, Shandong Sheng, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,143.75
+2023-10-11,2023-11-27,2023-12-04,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",RO,"Bulevardul Regina Elisabeta 12, Constanța 900178, Romania",LTL,mt,1,690.78
+2023-10-11,2023-10-11,2023-10-18,,CN,"Xin Pu Lu, Dong Bu Shang Quan, Shinan Qu, Qingdao Shi, Shandong Sheng, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,143.75
+2023-10-11,2023-10-30,2023-11-06,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",RO,"Bulevardul Regina Elisabeta 12, Constanța 900178, Romania",LTL,mt,1,690.78
+2023-10-11,2023-11-20,2023-11-27,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",RO,"Bulevardul Regina Elisabeta 12, Constanța 900178, Romania",LTL,mt,1,690.78
+2023-10-11,2023-11-30,2023-12-01,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Loop Fwy, Houston, TX 77012, USA",LTL,mt,1,164.09
+2023-10-11,2023-10-11,2023-10-18,,CN,"Shanghai Shi, Pudong Xinqu, Ma Ji Lu",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,138
+2023-10-11,2023-12-11,2023-12-12,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Loop Fwy, Houston, TX 77012, USA",LTL,mt,1,164.09
+2023-10-11,2023-10-11,2023-10-18,,CN,"Shanghai Shi, Pudong Xinqu, Ma Ji Lu",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,138
+2023-10-11,2023-11-21,2023-11-22,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Loop Fwy, Houston, TX 77012, USA",LTL,mt,1,164.09
+2023-10-11,2023-10-11,2023-10-18,,CN,"Shanghai Shi, Pudong Xinqu, Ma Ji Lu",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,138
+2023-10-11,2023-11-24,2023-11-27,,US,"1800-1898 Basin St, Houston, TX 77011, USA",US,"Loop Fwy, Houston, TX 77012, USA",LTL,mt,1,164.09
+2023-10-11,2023-10-11,2023-10-18,,CN,"Shanghai Shi, Pudong Xinqu, Ma Ji Lu",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,138
+2023-10-11,2023-10-12,2023-10-13,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,690
+2023-10-11,2023-10-12,2023-10-17,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-10-12,2023-10-17,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-10-12,2023-10-20,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1049.01
+2023-10-11,2023-10-12,2023-10-16,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,663.39
+2023-10-11,2023-10-12,2023-10-16,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,640.81
+2023-10-11,2023-11-13,2023-11-17,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",SI,"Luka koper, 6000 Koper - Capodistria, Slovenia",LTL,mt,1,474.53
+2023-10-11,2023-10-13,2023-10-24,,CN,"Guangzhou, Guangdong, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,2418.93
+2023-10-11,2023-11-29,2023-12-05,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",SI,"Luka koper, 6000 Koper - Capodistria, Slovenia",LTL,mt,1,474.53
+2023-10-11,2023-10-13,2023-10-24,,CN,"Guangzhou, Guangdong, China",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,2418.93
+2023-10-11,2023-11-13,2023-11-17,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",SI,"Luka koper, 6000 Koper - Capodistria, Slovenia",LTL,mt,1,474.53
+2023-10-11,2023-10-13,2023-10-24,,CN,"Guangzhou, Guangdong, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,3180.32
+2023-10-11,2023-12-01,2023-12-07,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",SI,"Luka koper, 6000 Koper - Capodistria, Slovenia",LTL,mt,1,474.53
+2023-10-11,2023-10-13,2023-10-24,,CN,"Guangzhou, Guangdong, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,3180.32
+2023-10-11,2023-10-11,2023-11-01,,CN,"China, Shenzhen Shi, Futian Qu, 金地花园金地宾馆对面",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,3246.3
+2023-10-11,2023-10-11,2023-10-25,,CN,"China, Shenzhen Shi, Futian Qu, 金地花园金地宾馆对面",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,3246.3
+2023-10-11,2023-10-11,2023-10-20,,CN,"China, Shenzhen Shi, Futian Qu, 金地花园金地宾馆对面",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,3246.3
+2023-10-11,2023-10-16,2023-10-18,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,554.24
+2023-10-11,2023-10-16,2023-10-17,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,690
+2023-10-11,2023-10-16,2023-11-07,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,990.76
+2023-10-11,2023-10-16,2023-10-23,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,8017.68
+2023-10-11,2023-10-16,2023-10-23,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,8017.68
+2023-10-11,2023-10-16,2023-10-24,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1048.78
+2023-10-11,2023-10-16,2023-10-24,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1048.78
+2023-10-11,2023-10-16,2023-10-18,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,469.95
+2023-10-11,2023-10-16,2023-10-18,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,640.75
+2023-10-11,2023-10-16,2023-11-01,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,645.38
+2023-10-11,2023-10-11,2023-10-27,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,475.59
+2023-10-11,2023-10-11,2023-10-20,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,475.59
+2023-10-11,2023-10-11,2023-10-12,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,475.59
+2023-10-11,2023-10-11,2023-10-30,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,396.81
+2023-10-11,2023-10-11,2023-10-23,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,396.81
+2023-10-11,2023-10-11,2023-10-16,,US,"San Rafael, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,396.81
+2023-10-11,2023-10-11,2023-10-31,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-10-11,2023-10-26,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-10-11,2023-10-18,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,7841.74
+2023-10-11,2023-10-11,2023-10-18,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,7841.74
+2023-10-11,2023-10-11,2023-10-16,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-10-11,2023-10-16,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1474.6
+2023-10-11,2023-10-11,2023-11-10,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1049.74
+2023-10-11,2023-10-11,2023-11-06,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1049.74
+2023-10-11,2023-10-11,2023-10-30,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1049.74
+2023-10-11,2023-10-11,2023-10-23,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1049.74
+2023-10-11,2023-10-11,2023-10-19,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1049.74
+2023-10-11,2023-10-11,2023-10-19,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1049.74
+2023-10-11,2023-10-11,2023-11-17,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,978.05
+2023-10-11,2023-10-11,2023-11-08,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,978.05
+2023-10-11,2023-10-11,2023-11-01,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,978.05
+2023-10-11,2023-10-11,2023-10-25,,US,"San Rafael, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,978.05
+2023-10-11,2023-10-11,2023-10-13,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,473.19
+2023-10-11,2023-10-11,2023-10-31,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,472.81
+2023-10-11,2023-10-11,2023-10-24,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,472.81
+2023-10-11,2023-10-11,2023-10-17,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,472.81
+2023-10-11,2023-10-11,2023-10-13,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,472.81
+2023-10-11,2023-10-11,2023-10-25,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,472.81
+2023-10-11,2023-10-11,2023-10-18,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,472.81
+2023-10-11,2023-10-11,2023-10-27,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,472.81
+2023-10-11,2023-10-11,2023-10-20,,US,"San Rafael, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,472.81
+2023-10-11,2023-12-05,2023-12-08,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Alexandria, LA, USA",LTL,mt,1,695.85
+2023-10-11,2023-11-17,2023-11-22,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Alexandria, LA, USA",LTL,mt,1,695.85
+2023-10-11,2023-11-23,2023-11-24,,US,"New Orleans, LA, USA",US,"Alexandria, LA, USA",LTL,mt,1,123.3
+2023-10-11,2023-11-16,2023-11-17,,US,"New Orleans, LA, USA",US,"Alexandria, LA, USA",LTL,mt,1,123.3
+2023-10-11,2023-12-11,2023-12-12,,US,"New Orleans, LA, USA",US,"Alexandria, LA, USA",LTL,mt,1,123.3
+2023-10-11,2023-11-30,2023-12-01,,US,"New Orleans, LA, USA",US,"Alexandria, LA, USA",LTL,mt,1,123.3
+2023-10-11,2023-11-20,2023-11-24,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Alexandria, LA, USA",LTL,mt,1,1178.58
+2023-10-11,2023-11-06,2023-11-10,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Alexandria, LA, USA",LTL,mt,1,1178.58
+2023-10-11,2023-12-07,2023-12-12,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Alexandria, LA, USA",LTL,mt,1,695.85
+2023-10-11,2023-10-11,2023-10-27,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-12-12,2023-12-15,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Alexandria, LA, USA",LTL,mt,1,695.85
+2023-10-11,2023-10-11,2023-10-18,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-11-24,2023-11-29,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Alexandria, LA, USA",LTL,mt,1,695.85
+2023-10-11,2023-10-11,2023-10-18,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-11-30,2023-12-01,,US,"New Orleans, LA, USA",US,"Alexandria, LA, USA",LTL,mt,1,123.3
+2023-10-11,2023-10-11,2023-10-18,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-11-23,2023-11-24,,US,"New Orleans, LA, USA",US,"Alexandria, LA, USA",LTL,mt,1,123.3
+2023-10-11,2023-10-11,2023-10-18,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-12-18,2023-12-19,,US,"New Orleans, LA, USA",US,"Alexandria, LA, USA",LTL,mt,1,123.3
+2023-10-11,2023-10-11,2023-10-18,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-12-07,2023-12-08,,US,"New Orleans, LA, USA",US,"Alexandria, LA, USA",LTL,mt,1,123.3
+2023-10-11,2023-10-11,2023-10-18,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-11-24,2023-11-30,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Alexandria, LA, USA",LTL,mt,1,1178.58
+2023-10-11,2023-10-11,2023-10-27,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-11-27,2023-12-01,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Alexandria, LA, USA",LTL,mt,1,1178.58
+2023-10-11,2023-10-11,2023-10-18,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-11-13,2023-11-17,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Alexandria, LA, USA",LTL,mt,1,1178.58
+2023-10-11,2023-10-11,2023-10-18,,TH,"Bangkok, Thailand",TH,"Sam Roi Hong Soi 1, Khwaeng Bang Khlo, Khet Bang Kho Laem, Krung Thep Maha Nakhon 10120, Thailand",LTL,mt,1,105.8
+2023-10-11,2023-12-07,2023-12-12,,US,"705 S Elgin Ave #111, Tulsa, OK 74120, USA",US,"Independence, KS 67301, USA",LTL,mt,1,604.27
+2023-10-11,2023-10-11,2023-10-23,,IN,"Visakhapatnam Port, Visakhapatnam, Andhra Pradesh 530014, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-11,2023-12-11,2023-12-14,,US,"705 S Elgin Ave #111, Tulsa, OK 74120, USA",US,"Independence, KS 67301, USA",LTL,mt,1,604.27
+2023-10-11,2023-10-11,2023-10-23,,IN,"Visakhapatnam Port, Visakhapatnam, Andhra Pradesh 530014, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-11,2023-12-12,2023-12-18,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Independence, KS 67301, USA",LTL,mt,1,769.89
+2023-10-11,2023-10-11,2023-10-23,,IN,"Visakhapatnam Port, Visakhapatnam, Andhra Pradesh 530014, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-11,2023-11-27,2023-12-01,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Independence, KS 67301, USA",LTL,mt,1,769.89
+2023-10-11,2023-10-11,2023-10-23,,IN,"Visakhapatnam Port, Visakhapatnam, Andhra Pradesh 530014, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-11,2023-12-04,2023-12-08,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Independence, KS 67301, USA",LTL,mt,1,1376.31
+2023-10-11,2023-10-11,2023-10-23,,IN,"Visakhapatnam Port, Visakhapatnam, Andhra Pradesh 530014, India",IN,"24/8hakker, Broadway Road, Hawker Jesson St, Maskan Chavadi, Amman Koil North, George Town, Chennai, Tamil Nadu 600001, India",LTL,mt,1,322
+2023-10-11,2023-11-29,2023-12-06,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",LTL,mt,1,692.15
+2023-10-11,2023-10-17,2023-11-02,,IN,"Swami Vivekananda Rd, Mahim Koliwada, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",IN,"NH348, Navi Mumbai, Maharashtra 400702, India",LTL,mt,1,322
+2023-10-11,2023-12-07,2023-12-08,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",LTL,mt,1,401.42
+2023-10-11,2023-10-17,2023-10-31,,IN,"Swami Vivekananda Rd, Mahim Koliwada, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",IN,"NH348, Navi Mumbai, Maharashtra 400702, India",LTL,mt,1,322
+2023-10-11,2023-11-22,2023-11-29,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",LTL,mt,1,692.15
+2023-10-11,2023-10-17,2023-10-25,,IN,"Swami Vivekananda Rd, Mahim Koliwada, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-11,2023-12-18,2023-12-25,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",LTL,mt,1,692.15
+2023-10-11,2023-10-17,2023-10-25,,IN,"Swami Vivekananda Rd, Mahim Koliwada, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-11,2023-12-07,2023-12-08,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",LTL,mt,1,401.42
+2023-10-11,2023-10-17,2023-10-25,,IN,"Swami Vivekananda Rd, Mahim Koliwada, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-11,2023-11-22,2023-11-29,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Jackson, MS, USA",LTL,mt,1,737.12
+2023-10-11,2023-11-20,2023-11-22,,US,"New Orleans, LA, USA",US,"Jackson, MS, USA",LTL,mt,1,378.05
+2023-10-11,2023-11-28,2023-11-30,,US,"New Orleans, LA, USA",US,"Jackson, MS, USA",LTL,mt,1,378.05
+2023-10-11,2023-12-06,2023-12-12,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Jackson, MS, USA",LTL,mt,1,1182.92
+2023-10-11,2023-11-30,2023-12-07,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Jackson, MS, USA",LTL,mt,1,737.12
+2023-10-11,2023-10-11,2023-10-19,,TR,"Feneryolu, Ölçü Çk. Sk. 12-20, 34724 Kadıköy/İstanbul, Turkey",TR,"Binbirdirek, İETT Adliye Durağı, Klodfarer Cd., 34122 Fatih/İstanbul, Turkey",LTL,mt,1,115
+2023-10-11,2023-11-28,2023-11-30,,US,"New Orleans, LA, USA",US,"Jackson, MS, USA",LTL,mt,1,378.05
+2023-10-11,2023-10-11,2023-10-25,,TR,"Feneryolu, Ölçü Çk. Sk. 12-20, 34724 Kadıköy/İstanbul, Turkey",TR,"Binbirdirek, İETT Adliye Durağı, Klodfarer Cd., 34122 Fatih/İstanbul, Turkey",LTL,mt,1,115
+2023-10-11,2023-12-06,2023-12-08,,US,"New Orleans, LA, USA",US,"Jackson, MS, USA",LTL,mt,1,378.05
+2023-10-11,2023-10-11,2023-10-19,,TR,"Feneryolu, Ölçü Çk. Sk. 12-20, 34724 Kadıköy/İstanbul, Turkey",TR,"Binbirdirek, İETT Adliye Durağı, Klodfarer Cd., 34122 Fatih/İstanbul, Turkey",LTL,mt,1,115
+2023-10-11,2023-12-14,2023-12-20,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Jackson, MS, USA",LTL,mt,1,1182.92
+2023-10-11,2023-10-11,2023-10-19,,TR,"Feneryolu, Ölçü Çk. Sk. 12-20, 34724 Kadıköy/İstanbul, Turkey",TR,"Binbirdirek, İETT Adliye Durağı, Klodfarer Cd., 34122 Fatih/İstanbul, Turkey",LTL,mt,1,115
+2023-10-10,2023-11-13,2023-11-14,,US,"Henderson, NV 89014, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,292.93
+2023-10-10,2023-10-10,2023-10-17,,CN,"Xin Pu Lu, Dong Bu Shang Quan, Shinan Qu, Qingdao Shi, Shandong Sheng, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,143.75
+2023-10-10,2023-12-04,2023-12-05,,US,"Henderson, NV 89014, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,292.93
+2023-10-10,2023-10-10,2023-10-17,,CN,"Xin Pu Lu, Dong Bu Shang Quan, Shinan Qu, Qingdao Shi, Shandong Sheng, China",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,143.75
+2023-10-10,2023-12-22,2023-12-25,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Providence, RI, USA",LTL,mt,1,343.86
+2023-10-10,2023-10-10,2023-10-27,,IN,"Tiruppur, Tamil Nadu, India",IN,"SaltPan Road, Harbour Estate, Tuticorin Beach Road Salt Pans, Thoothukudi, Tamil Nadu 628004, India",LTL,mt,1,368
+2023-10-10,2023-11-29,2023-11-30,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Providence, RI, USA",LTL,mt,1,343.86
+2023-10-10,2023-10-10,2023-10-27,,IN,"Tiruppur, Tamil Nadu, India",IN,"SaltPan Road, Harbour Estate, Tuticorin Beach Road Salt Pans, Thoothukudi, Tamil Nadu 628004, India",LTL,mt,1,368
+2023-10-10,2023-11-17,2023-11-20,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Providence, RI, USA",LTL,mt,1,343.86
+2023-10-10,2023-10-10,2023-10-20,,IN,"Tiruppur, Tamil Nadu, India",IN,"SaltPan Road, Harbour Estate, Tuticorin Beach Road Salt Pans, Thoothukudi, Tamil Nadu 628004, India",LTL,mt,1,368
+2023-10-10,2023-12-13,2023-12-25,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Providence, RI, USA",LTL,mt,1,636.79
+2023-10-10,2023-10-10,2023-10-27,,IN,"Tiruppur, Tamil Nadu, India",IN,"SaltPan Road, Harbour Estate, Tuticorin Beach Road Salt Pans, Thoothukudi, Tamil Nadu 628004, India",LTL,mt,1,368
+2023-10-10,2023-11-20,2023-11-21,,US,"250-282 Public Alley 432, Boston, MA 02116, USA",US,"Providence, RI, USA",LTL,mt,1,1096.85
+2023-10-10,2023-10-10,2023-10-20,,IN,"Tiruppur, Tamil Nadu, India",IN,"SaltPan Road, Harbour Estate, Tuticorin Beach Road Salt Pans, Thoothukudi, Tamil Nadu 628004, India",LTL,mt,1,368
+2023-10-10,2023-11-08,2023-11-13,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,728.48
+2023-10-10,2023-11-21,2023-11-24,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,728.48
+2023-10-10,2023-11-14,2023-11-21,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,1620.84
+2023-10-10,2023-12-05,2023-12-12,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,1620.84
+2023-10-10,2023-10-10,2023-10-27,,CN,"Shenzhen Bay Port, Nanshan Qu, Shenzhen Shi, China, 518057",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,2441.03
+2023-10-10,2023-10-10,2023-10-19,,CN,"Shenzhen Bay Port, Nanshan Qu, Shenzhen Shi, China, 518057",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,2441.03
+2023-10-10,2023-11-07,2023-11-10,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,259.35
+2023-10-10,2023-10-10,2023-10-19,,CN,"Shenzhen Bay Port, Nanshan Qu, Shenzhen Shi, China, 518057",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,2441.03
+2023-10-10,2023-11-24,2023-11-29,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,259.35
+2023-10-10,2023-10-10,2023-10-19,,CN,"Shenzhen Bay Port, Nanshan Qu, Shenzhen Shi, China, 518057",CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",LTL,mt,1,2441.03
+2023-10-10,2023-12-07,2023-12-12,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,259.35
+2023-10-10,2023-10-10,2023-10-30,,CN,"Shenzhen Bay Port, Nanshan Qu, Shenzhen Shi, China, 518057",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,3254.49
+2023-10-10,2023-11-07,2023-11-10,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,259.35
+2023-10-10,2023-10-10,2023-10-19,,CN,"Shenzhen Bay Port, Nanshan Qu, Shenzhen Shi, China, 518057",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,3254.49
+2023-10-10,2023-11-27,2023-11-30,,NL,"Dempostraat 1-69, 3029 CL Rotterdam, Netherlands",DE,"Seewartenstraße 10, 20459 Hamburg, Germany",LTL,mt,1,259.35
+2023-10-10,2023-10-10,2023-10-19,,CN,"Shenzhen Bay Port, Nanshan Qu, Shenzhen Shi, China, 518057",CN,"Huanggang Port, Futian District, Shenzhen, Guangdong Province, China",LTL,mt,1,3254.49
+2023-10-10,2023-10-10,2023-10-23,,US,"New York, NY, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,286.44
+2023-10-10,2023-10-10,2023-11-08,,US,"New York, NY, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,266.62
+2023-10-10,2023-10-10,2023-11-14,,US,"New York, NY, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,445.12
+2023-10-10,2023-10-10,2023-11-07,,US,"New York, NY, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,445.12
+2023-10-10,2023-10-10,2023-10-27,,US,"New York, NY, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,6393.51
+2023-10-10,2023-11-22,2023-11-28,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"1800-1898 Basin St, Houston, TX 77011, USA",LTL,mt,1,830.48
+2023-10-10,2023-10-10,2023-10-26,,IN,"Unnamed Road, Mundra, Gujarat 370421, India",IN,"NH348, Navi Mumbai, Maharashtra 400702, India",LTL,mt,1,322
+2023-10-10,2023-10-10,2023-10-26,,IN,"Unnamed Road, Mundra, Gujarat 370421, India",IN,"NH348, Navi Mumbai, Maharashtra 400702, India",LTL,mt,1,322
+2023-10-10,2023-11-17,2023-11-23,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"1800-1898 Basin St, Houston, TX 77011, USA",LTL,mt,1,830.48
+2023-10-10,2023-10-10,2023-10-20,,IN,"Unnamed Road, Mundra, Gujarat 370421, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-10,2023-12-12,2023-12-18,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"1800-1898 Basin St, Houston, TX 77011, USA",LTL,mt,1,830.48
+2023-10-10,2023-10-10,2023-10-20,,IN,"Unnamed Road, Mundra, Gujarat 370421, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-10,2023-12-04,2023-12-08,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"1800-1898 Basin St, Houston, TX 77011, USA",LTL,mt,1,1084.46
+2023-10-10,2023-10-10,2023-10-20,,IN,"Unnamed Road, Mundra, Gujarat 370421, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-10,2023-10-10,2023-10-20,,IN,"Unnamed Road, Mundra, Gujarat 370421, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-10,2023-10-10,2023-10-20,,IN,"Unnamed Road, Mundra, Gujarat 370421, India",IN,"Churchgate, Mumbai, Maharashtra, India",LTL,mt,1,322
+2023-10-10,2023-12-01,2023-12-05,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,501.35
+2023-10-10,2023-11-15,2023-11-17,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,501.35
+2023-10-10,2023-12-11,2023-12-13,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,501.35
+2023-10-10,2023-11-27,2023-11-29,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,501.35
+2023-10-10,2023-12-11,2023-12-18,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1389.59
+2023-10-10,2023-11-29,2023-12-06,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1389.59
+2023-10-10,2023-11-29,2023-12-01,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,416.08
+2023-10-10,2023-12-12,2023-12-19,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1347.01
+2023-10-10,2023-12-07,2023-12-11,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,416.08
+2023-10-10,2023-11-30,2023-12-07,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1347.01
+2023-10-10,2023-12-20,2023-12-27,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1347.01
+2023-10-10,2024-01-08,2024-01-09,,US,"The Embarcadero, San Francisco, CA 94133, USA",US,"San Francisco, CA, USA",LTL,mt,1,517.5
+2023-10-10,2024-01-16,2024-01-17,,US,"The Embarcadero, San Francisco, CA 94133, USA",US,"San Francisco, CA, USA",LTL,mt,1,517.5
+2023-10-10,2024-01-16,2024-01-17,,US,"The Embarcadero, San Francisco, CA 94133, USA",US,"San Francisco, CA, USA",LTL,mt,1,517.5
+2023-10-10,2023-10-10,2023-10-18,,AU,"Dandenong VIC 3175, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-10,2024-01-24,2024-01-25,,US,"The Embarcadero, San Francisco, CA 94133, USA",US,"San Francisco, CA, USA",LTL,mt,1,517.5
+2023-10-10,2023-10-10,2023-10-18,,AU,"Dandenong VIC 3175, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-10,2023-12-04,2023-12-11,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",LTL,mt,1,692.15
+2023-10-10,2023-10-10,2023-10-18,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-10,2023-12-14,2023-12-21,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",LTL,mt,1,692.15
+2023-10-10,2023-10-10,2023-10-18,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-10,2023-12-04,2023-12-06,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",LTL,mt,1,632.78
+2023-10-10,2023-10-10,2023-10-18,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-10,2023-12-11,2023-12-13,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",LTL,mt,1,632.78
+2023-10-10,2023-10-10,2023-10-18,,AU,"Melbourne VIC, Australia",AU,"81-85 Liardet St, Port Melbourne VIC 3207, Australia",LTL,mt,1,137.03
+2023-10-10,2023-12-18,2023-12-21,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,728.55
+2023-10-10,2023-10-10,2023-10-24,,BD,"Narayanganj Bus Stop, Dhaka, Bangladesh",BD,"44-45 Bangshal Rd, Chittagong 4000, Bangladesh",LTL,mt,1,230
+2023-10-10,2023-12-28,2024-01-02,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,728.55
+2023-10-10,2023-10-10,2023-10-24,,BD,"Narayanganj Bus Stop, Dhaka, Bangladesh",BD,"44-45 Bangshal Rd, Chittagong 4000, Bangladesh",LTL,mt,1,230
+2023-10-10,2023-10-10,2023-10-24,,BD,"Narayanganj Bus Stop, Dhaka, Bangladesh",BD,"44-45 Bangshal Rd, Chittagong 4000, Bangladesh",LTL,mt,1,230
+2023-10-10,2023-12-14,2023-12-21,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1389.59
+2023-10-10,2023-10-10,2023-10-24,,BD,"Narayanganj Bus Stop, Dhaka, Bangladesh",BD,"44-45 Bangshal Rd, Chittagong 4000, Bangladesh",LTL,mt,1,230
+2023-10-10,2023-11-17,2023-11-20,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,898.15
+2023-10-10,2023-12-14,2023-12-18,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,898.15
+2023-10-10,2023-12-07,2023-12-14,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,7672.34
+2023-10-10,2023-12-01,2023-12-04,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,898.15
+2023-10-10,2023-12-28,2024-01-01,,US,"National Park, NJ 08063, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,898.15
+2023-10-10,2023-12-14,2023-12-21,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,7672.34
+2023-10-10,2023-11-28,2023-11-29,,US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",US,"Pleasanton, CA, USA",LTL,mt,1,363.55
+2023-10-10,2023-11-20,2023-11-21,,US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",US,"Pleasanton, CA, USA",LTL,mt,1,363.55
+2023-10-10,2023-11-20,2023-11-27,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-11-27,2023-12-04,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-11-28,2023-12-05,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-11-17,2023-11-21,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-11-09,2023-11-13,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-11-27,2023-11-29,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-11-20,2023-11-22,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-11-24,2023-11-27,,US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",US,"Pleasanton, CA, USA",LTL,mt,1,363.55
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Lingkaran Sultan Hishamuddin, Kawasan Perindustrian Selat Klang Utara, 42000 Pelabuhan Klang, Selangor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-12-06,2023-12-07,,US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",US,"Pleasanton, CA, USA",LTL,mt,1,363.55
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Lingkaran Sultan Hishamuddin, Kawasan Perindustrian Selat Klang Utara, 42000 Pelabuhan Klang, Selangor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-12-06,2023-12-13,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Lingkaran Sultan Hishamuddin, Kawasan Perindustrian Selat Klang Utara, 42000 Pelabuhan Klang, Selangor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-20,2023-11-27,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Lingkaran Sultan Hishamuddin, Kawasan Perindustrian Selat Klang Utara, 42000 Pelabuhan Klang, Selangor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-12-01,2023-12-05,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-10-10,2023-10-27,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Lingkaran Sultan Hishamuddin, Kawasan Perindustrian Selat Klang Utara, 42000 Pelabuhan Klang, Selangor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-12-04,2023-12-06,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Lingkaran Sultan Hishamuddin, Kawasan Perindustrian Selat Klang Utara, 42000 Pelabuhan Klang, Selangor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-22,2023-11-24,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Lingkaran Sultan Hishamuddin, Kawasan Perindustrian Selat Klang Utara, 42000 Pelabuhan Klang, Selangor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-12-05,2023-12-06,,US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",US,"Pleasanton, CA, USA",LTL,mt,1,363.55
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-27,2023-11-28,,US,"3554-4098 Shellmound St, Oakland, CA 94608, USA",US,"Pleasanton, CA, USA",LTL,mt,1,363.55
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-12-04,2023-12-11,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-10-10,2023-10-27,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-27,2023-12-04,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-10-10,2023-10-24,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-27,2023-12-04,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-10-10,2023-10-20,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-20,2023-11-27,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-12-04,2023-12-11,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-12-05,2023-12-12,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Pleasanton, CA, USA",LTL,mt,1,701.19
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-23,2023-11-27,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-10-10,2023-10-27,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-24,2023-11-28,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-10-10,2023-10-22,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-16,2023-11-20,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-10-10,2023-10-20,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-12-04,2023-12-06,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-10,2023-11-27,2023-11-29,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Pleasanton, CA, USA",LTL,mt,1,660
+2023-10-10,2023-10-10,2023-10-17,,MY,"Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",MY,"Malaysia Heavy Marine Engineering, Pasir Gudang, Johor, Malaysia",LTL,mt,1,280.37
+2023-10-09,2023-12-13,2023-12-20,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,1583.47
+2023-10-09,2023-10-16,2023-10-18,,IT,"SS 1, 16126 Genova GE, Italy",IT,"Zone 1 of Milan, Milan, Metropolitan City of Milan, Italy",LTL,mt,1,187.4
+2023-10-09,2023-12-04,2023-12-11,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"First Street Metromover Station, Miami, FL 33132, USA",LTL,mt,1,1583.47
+2023-10-09,2023-10-16,2023-10-18,,IT,"SS 1, 16126 Genova GE, Italy",IT,"Zone 1 of Milan, Milan, Metropolitan City of Milan, Italy",LTL,mt,1,187.4
+2023-10-09,2024-01-03,2024-01-12,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-31,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,254.35
+2023-10-09,2023-12-27,2024-01-05,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-24,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,254.35
+2023-10-09,2023-12-20,2023-12-29,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-17,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,254.35
+2023-10-09,2023-11-27,2023-12-06,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-13,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,261.46
+2023-10-09,2024-01-01,2024-01-10,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-11-09,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,498.41
+2023-10-09,2023-12-14,2023-12-25,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-26,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,498.41
+2023-10-09,2023-12-11,2023-12-20,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-19,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,498.41
+2023-10-09,2023-12-25,2024-01-03,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-11-02,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,498.41
+2023-10-09,2023-11-30,2023-12-11,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-16,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,498.41
+2023-10-09,2024-01-01,2024-01-10,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-11-13,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,517.5
+2023-10-09,2023-12-25,2024-01-03,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-11-06,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,517.5
+2023-10-09,2023-12-18,2023-12-27,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-30,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,517.5
+2023-10-09,2023-12-11,2023-12-20,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-23,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,517.5
+2023-10-09,2023-12-29,2024-01-09,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-19,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,808.71
+2023-10-09,2024-01-04,2024-01-15,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-25,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,491.35
+2023-10-09,2024-01-23,2024-02-01,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-11-16,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,551.97
+2023-10-09,2024-01-16,2024-01-25,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-11-09,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,551.97
+2023-10-09,2024-01-09,2024-01-18,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-11-02,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,551.97
+2023-10-09,2024-01-02,2024-01-11,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-25,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,551.97
+2023-10-09,2023-12-28,2024-01-08,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-18,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,551.97
+2023-10-09,2024-01-24,2024-02-02,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-11-02,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,551.97
+2023-10-09,2024-01-17,2024-01-26,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-25,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,551.97
+2023-10-09,2024-01-08,2024-01-17,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-30,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,551.97
+2023-10-09,2024-01-01,2024-01-10,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-10-12,2023-10-23,,US,"843-837 S Dallas St, Baltimore, MD 21231, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,551.97
+2023-10-09,2023-11-30,2023-12-11,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2024-01-03,2024-01-12,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-12-27,2024-01-05,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2024-01-08,2024-01-17,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2024-01-01,2024-01-10,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-12-25,2024-01-03,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-12-14,2023-12-25,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-11-27,2023-12-06,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2024-01-01,2024-01-10,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-12-25,2024-01-03,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-12-18,2023-12-27,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-12-11,2023-12-20,,NG,"Admiralty Dr, Eti-Osa, Lagos, Nigeria",NG,"Lagos, Nigeria",LTL,mt,1,287.5
+2023-10-09,2023-11-28,2023-11-29,,US,"Jean Lafitte, LA 70067, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,303.59
+2023-10-09,2023-11-21,2023-11-22,,US,"Jean Lafitte, LA 70067, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,303.59
+2023-10-09,2023-11-15,2023-11-21,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,875.43
+2023-10-09,2023-11-28,2023-12-04,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,875.43
+2023-10-09,2023-11-13,2023-11-17,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,875.43
+2023-10-09,2023-12-01,2023-12-04,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,805
+2023-10-09,2023-11-20,2023-11-21,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,805
+2023-10-09,2023-12-08,2023-12-11,,US,"Jean Lafitte, LA 70067, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,303.59
+2023-10-09,2023-12-01,2023-12-04,,US,"Jean Lafitte, LA 70067, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,303.59
+2023-10-09,2023-11-22,2023-11-28,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,875.43
+2023-10-09,2023-12-08,2023-12-14,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,875.43
+2023-10-09,2023-11-23,2023-11-29,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,875.43
+2023-10-09,2023-11-28,2023-11-29,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"S Harbor Scenic Dr, Long Beach, CA 90802, USA",LTL,mt,1,805
+2023-10-09,2023-11-17,2023-11-28,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-11,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,639.32
+2023-10-09,2023-11-16,2023-11-27,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-10,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,404.49
+2023-10-09,2023-12-04,2023-12-13,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-13,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1369.09
+2023-10-09,2023-11-23,2023-12-04,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-13,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1369.09
+2023-10-09,2023-12-11,2023-12-20,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-19,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2023-11-29,2023-12-08,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-19,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2024-01-04,2024-01-15,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-11-14,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1172.29
+2023-10-09,2023-12-06,2023-12-15,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-16,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1172.29
+2023-10-09,2023-12-12,2023-12-21,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-10,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,341.5
+2023-10-09,2023-11-10,2023-11-21,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-10,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,293.79
+2023-10-09,2023-11-20,2023-11-29,,CN,"888 Bao Dong Lu, Baoshan Qu, Shanghai Shi, China, 200431",CN,"Shanghai, China",LTL,mt,1,97.75
+2023-10-09,2023-10-09,2023-10-12,,US,"Red Lion Inn, 249-299 Pacific Ave, Long Beach, CA 90802, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,173.73
+2023-10-09,2023-10-09,2023-10-16,,VN,"Vĩnh Trường, Nha Trang, Khanh Hoa Province, Vietnam",VN,"Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Vietnam",LTL,mt,1,172.5
+2023-10-09,2023-10-09,2023-10-16,,VN,"Vĩnh Trường, Nha Trang, Khanh Hoa Province, Vietnam",VN,"Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Vietnam",LTL,mt,1,172.5
+2023-10-09,2023-10-09,2023-10-16,,VN,"Vĩnh Trường, Nha Trang, Khanh Hoa Province, Vietnam",VN,"Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Vietnam",LTL,mt,1,172.5
+2023-10-09,2023-12-04,2023-12-06,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Ocean Terminal, 950 W River St, Savannah, GA 31401, USA",LTL,mt,1,498.39
+2023-10-09,2023-10-09,2023-10-26,,VN,"Vĩnh Trường, Nha Trang, Khanh Hoa Province, Vietnam",VN,"Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Vietnam",LTL,mt,1,172.5
+2023-10-09,2023-11-27,2023-11-29,,US,"Battery Pl/West St, New York, NY 10280, USA",US,"Ocean Terminal, 950 W River St, Savannah, GA 31401, USA",LTL,mt,1,498.39
+2023-10-09,2023-10-09,2023-10-19,,VN,"Vĩnh Trường, Nha Trang, Khanh Hoa Province, Vietnam",VN,"Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Vietnam",LTL,mt,1,172.5
+2023-10-09,2023-11-17,2023-11-23,,US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",US,"Ocean Terminal, 950 W River St, Savannah, GA 31401, USA",LTL,mt,1,6666.66
+2023-10-09,2023-10-09,2023-10-23,,VN,"Vĩnh Trường, Nha Trang, Khanh Hoa Province, Vietnam",VN,"Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Vietnam",LTL,mt,1,172.5
+2023-10-09,2023-11-29,2023-12-01,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-12,,US,"Los Angeles, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,639.07
+2023-10-09,2023-11-28,2023-11-30,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-11,,US,"Los Angeles, CA, USA",US,"The Embarcadero, San Francisco, CA 94133, USA",LTL,mt,1,404.08
+2023-10-09,2023-11-27,2023-11-29,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-30,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2023-11-20,2023-11-22,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-23,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2023-11-10,2023-11-14,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-20,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2023-11-13,2023-11-15,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-20,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2023-11-07,2023-11-09,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-17,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1189.49
+2023-10-09,2023-11-09,2023-11-13,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-17,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1189.49
+2023-10-09,2023-12-11,2023-12-13,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-11-16,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1368.42
+2023-10-09,2023-12-04,2023-12-06,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-11-09,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1368.42
+2023-10-09,2023-11-27,2023-11-29,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-11-02,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1368.42
+2023-10-09,2023-11-22,2023-11-24,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-26,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1368.42
+2023-10-09,2023-11-13,2023-11-15,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-19,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1368.42
+2023-10-09,2023-11-06,2023-11-08,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-16,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1368.42
+2023-10-09,2023-11-08,2023-11-10,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-16,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,1368.42
+2023-10-09,2023-12-14,2023-12-18,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-11-14,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2023-12-07,2023-12-11,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-11-07,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2023-11-30,2023-12-04,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-31,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2023-11-23,2023-11-27,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-24,,US,"Los Angeles, CA, USA",US,"Battery Pl/West St, New York, NY 10280, USA",LTL,mt,1,450.63
+2023-10-09,2023-11-23,2023-11-27,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-11,,US,"Los Angeles, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,293.79
+2023-10-09,2023-11-24,2023-11-28,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-12,,US,"Los Angeles, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,135.94
+2023-10-09,2023-11-29,2023-12-01,,GB,"Victoria Embankment Gardens, Villiers St, London WC2N 6NS, UK",GB,"Cheshire, UK",LTL,mt,1,118.7
+2023-10-09,2023-10-10,2023-10-12,,US,"Los Angeles, CA, USA",US,"Via Cabrillo-Marina, San Pedro, CA 90731, USA",LTL,mt,1,130.36
