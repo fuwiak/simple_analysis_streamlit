@@ -1,0 +1,1001 @@
+create_date,point_id,valid_from,valid_to,carrier,estimated_days,origin_country,origin_name,origin_code,destination_country,destination_name,destination_code,shipping_type,load_type,load_amount,price_usd
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,1000,2550
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,1500,3825
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,2000,5100
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,2500,6375
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,3000,7650
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,3500,8925
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,4000,10200
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,4500,11475
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,5000,12500
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,7500,18750
+2024-02-27,19016428,2024-02-01,2024-04-30,Turkish Airlines,3,BR,Guarulhos Gov Andre Franco Montouro,SBGR,OM,Seeb Intl,OOMS,AIR,kg,10000,25000
+2024-02-23,19016426,2024-02-12,2024-02-29,Turkish Airlines,2,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,100,147.22
+2024-02-23,19016426,2024-02-12,2024-02-29,Turkish Airlines,2,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,250,368.04
+2024-02-23,19016426,2024-02-12,2024-02-29,Turkish Airlines,2,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,300,441.65
+2024-02-23,19016426,2024-02-12,2024-02-29,Turkish Airlines,2,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,500,736.09
+2024-02-23,19016426,2024-02-12,2024-02-29,Turkish Airlines,2,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,1000,1472.18
+2024-02-23,19016424,2023-12-11,2024-03-31,Thai Airways International,1,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,45,68.8
+2024-02-23,19016424,2023-12-11,2024-03-31,Thai Airways International,1,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,100,96.26
+2024-02-23,19016424,2023-12-11,2024-03-31,Thai Airways International,1,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,250,240.64
+2024-02-23,19016424,2023-12-11,2024-03-31,Thai Airways International,1,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,300,288.77
+2024-02-23,19016424,2023-12-11,2024-03-31,Thai Airways International,1,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,500,481.29
+2024-02-23,19016424,2023-12-11,2024-03-31,Thai Airways International,1,CH,Zurich,LSZH,TH,Suvarnabhumi Intl,VTBS,AIR,kg,1000,962.58
+2024-02-23,19016422,2023-11-01,2024-03-31,Ethiopian Airlines,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,45,112.11
+2024-02-23,19016422,2023-11-01,2024-03-31,Ethiopian Airlines,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,100,124.57
+2024-02-23,19016422,2023-11-01,2024-03-31,Ethiopian Airlines,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,250,311.42
+2024-02-23,19016422,2023-11-01,2024-03-31,Ethiopian Airlines,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,300,373.71
+2024-02-23,19016422,2023-11-01,2024-03-31,Ethiopian Airlines,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,500,622.84
+2024-02-23,19016422,2023-11-01,2024-03-31,Ethiopian Airlines,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,1000,1245.69
+2024-02-23,19016420,2023-12-11,2024-03-31,Thai Airways International,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,45,63.7
+2024-02-23,19016420,2023-12-11,2024-03-31,Thai Airways International,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,100,107.58
+2024-02-23,19016420,2023-12-11,2024-03-31,Thai Airways International,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,250,268.96
+2024-02-23,19016420,2023-12-11,2024-03-31,Thai Airways International,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,300,322.75
+2024-02-23,19016420,2023-12-11,2024-03-31,Thai Airways International,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,500,481.29
+2024-02-23,19016420,2023-12-11,2024-03-31,Thai Airways International,2,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,1000,849.33
+2024-02-23,19016418,2023-10-29,2024-03-31,SWISS,1,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,45,84.08
+2024-02-23,19016418,2023-10-29,2024-03-31,SWISS,1,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,100,107.58
+2024-02-23,19016418,2023-10-29,2024-03-31,SWISS,1,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,250,268.96
+2024-02-23,19016418,2023-10-29,2024-03-31,SWISS,1,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,300,288.77
+2024-02-23,19016418,2023-10-29,2024-03-31,SWISS,1,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,500,424.67
+2024-02-23,19016418,2023-10-29,2024-03-31,SWISS,1,CH,Zurich,LSZH,CN,Pudong,ZSPD,AIR,kg,1000,679.47
+2024-02-02,19016416,2024-02-01,2024-02-05,Aeromexico,,BR,Rio Grande,SBRG,AO,Luanda 4 De Fevereiro,FNLU,AIR,kg,25,11350
+2024-02-01,19016414,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,25,200
+2024-02-01,19016414,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,45,225
+2024-02-01,19016414,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,100,400
+2024-02-01,19016414,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,250,500
+2024-02-01,19016414,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,300,390
+2024-02-01,19016414,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,500,650
+2024-02-01,19016414,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,750,975
+2024-02-01,19016414,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,1000,1300
+2024-02-01,19016412,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,25,200
+2024-02-01,19016412,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,45,225
+2024-02-01,19016412,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,100,400
+2024-02-01,19016412,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,250,750
+2024-02-01,19016412,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,300,357
+2024-02-01,19016412,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,500,595
+2024-02-01,19016412,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,750,892.5
+2024-02-01,19016412,2024-01-01,2024-03-31,Delta Air Lines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,1000,1190
+2024-02-01,19016410,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Goiabeiras,SBVT,AIR,kg,25,91.25
+2024-02-01,19016410,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Goiabeiras,SBVT,AIR,kg,45,164.25
+2024-02-01,19016410,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Goiabeiras,SBVT,AIR,kg,100,355
+2024-02-01,19016410,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Goiabeiras,SBVT,AIR,kg,250,887.5
+2024-02-01,19016410,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Goiabeiras,SBVT,AIR,kg,300,1005
+2024-02-01,19016410,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Goiabeiras,SBVT,AIR,kg,500,1600
+2024-02-01,19016410,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Goiabeiras,SBVT,AIR,kg,750,2400
+2024-02-01,19016410,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Goiabeiras,SBVT,AIR,kg,1000,3050
+2024-02-01,19016408,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,25,91.25
+2024-02-01,19016408,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,45,164.25
+2024-02-01,19016408,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,100,315
+2024-02-01,19016408,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,250,787.5
+2024-02-01,19016408,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,300,915
+2024-02-01,19016408,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,500,1475
+2024-02-01,19016408,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,750,2212.5
+2024-02-01,19016408,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,1000,2850
+2024-02-01,19016406,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,25,91.25
+2024-02-01,19016406,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,45,164.25
+2024-02-01,19016406,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,100,315
+2024-02-01,19016406,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,250,787.5
+2024-02-01,19016406,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,300,915
+2024-02-01,19016406,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,500,1475
+2024-02-01,19016406,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,750,2212.5
+2024-02-01,19016406,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,1000,2850
+2024-02-01,19016404,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,25,91.25
+2024-02-01,19016404,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,45,164.25
+2024-02-01,19016404,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,100,355
+2024-02-01,19016404,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,250,887.5
+2024-02-01,19016404,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,300,1050
+2024-02-01,19016404,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,500,1600
+2024-02-01,19016404,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,750,2400
+2024-02-01,19016404,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,1000,3000
+2024-02-01,19016402,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,25,85
+2024-02-01,19016402,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,45,153
+2024-02-01,19016402,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,100,330
+2024-02-01,19016402,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,250,825
+2024-02-01,19016402,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,300,960
+2024-02-01,19016402,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,500,1550
+2024-02-01,19016402,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,750,2325
+2024-02-01,19016402,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,1000,3000
+2024-02-01,19016400,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Lauro Carneiro De Loyola,SBJV,AIR,kg,25,97.5
+2024-02-01,19016400,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Lauro Carneiro De Loyola,SBJV,AIR,kg,45,175.5
+2024-02-01,19016400,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Lauro Carneiro De Loyola,SBJV,AIR,kg,100,380
+2024-02-01,19016400,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Lauro Carneiro De Loyola,SBJV,AIR,kg,250,950
+2024-02-01,19016400,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Lauro Carneiro De Loyola,SBJV,AIR,kg,300,1050
+2024-02-01,19016400,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Lauro Carneiro De Loyola,SBJV,AIR,kg,500,1600
+2024-02-01,19016400,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Lauro Carneiro De Loyola,SBJV,AIR,kg,750,2400
+2024-02-01,19016400,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Lauro Carneiro De Loyola,SBJV,AIR,kg,1000,3000
+2024-02-01,19016398,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Santa Genoveva,SBGO,AIR,kg,25,97.5
+2024-02-01,19016398,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Santa Genoveva,SBGO,AIR,kg,45,175.5
+2024-02-01,19016398,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Santa Genoveva,SBGO,AIR,kg,100,380
+2024-02-01,19016398,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Santa Genoveva,SBGO,AIR,kg,250,950
+2024-02-01,19016398,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Santa Genoveva,SBGO,AIR,kg,300,1050
+2024-02-01,19016398,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Santa Genoveva,SBGO,AIR,kg,500,1600
+2024-02-01,19016398,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Santa Genoveva,SBGO,AIR,kg,750,2400
+2024-02-01,19016398,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Santa Genoveva,SBGO,AIR,kg,1000,3000
+2024-02-01,19016396,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,25,85
+2024-02-01,19016396,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,45,153
+2024-02-01,19016396,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,100,215
+2024-02-01,19016396,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,250,537.5
+2024-02-01,19016396,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,300,630
+2024-02-01,19016396,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,500,1000
+2024-02-01,19016396,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,750,1500
+2024-02-01,19016396,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,1000,1900
+2024-02-01,19016394,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,25,85
+2024-02-01,19016394,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,45,153
+2024-02-01,19016394,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,100,215
+2024-02-01,19016394,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,250,537.5
+2024-02-01,19016394,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,300,630
+2024-02-01,19016394,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,500,1000
+2024-02-01,19016394,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,750,1500
+2024-02-01,19016394,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,1000,1900
+2024-02-01,19016392,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,25,85
+2024-02-01,19016392,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,45,153
+2024-02-01,19016392,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,100,255
+2024-02-01,19016392,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,250,637.5
+2024-02-01,19016392,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,300,735
+2024-02-01,19016392,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,500,1175
+2024-02-01,19016392,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,750,1762.5
+2024-02-01,19016392,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,1000,2250
+2024-02-01,19016390,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,25,85
+2024-02-01,19016390,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,45,153
+2024-02-01,19016390,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,100,330
+2024-02-01,19016390,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,250,825
+2024-02-01,19016390,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,300,960
+2024-02-01,19016390,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,500,1550
+2024-02-01,19016390,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,750,2325
+2024-02-01,19016390,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,1000,3000
+2024-02-01,19016388,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,25,85
+2024-02-01,19016388,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,45,153
+2024-02-01,19016388,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,100,330
+2024-02-01,19016388,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,250,825
+2024-02-01,19016388,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,300,960
+2024-02-01,19016388,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,500,1550
+2024-02-01,19016388,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,750,2325
+2024-02-01,19016388,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,1000,3000
+2024-02-01,19016386,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,25,85
+2024-02-01,19016386,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,45,153
+2024-02-01,19016386,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,100,320
+2024-02-01,19016386,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,250,800
+2024-02-01,19016386,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,300,930
+2024-02-01,19016386,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,500,1475
+2024-02-01,19016386,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,750,2212.5
+2024-02-01,19016386,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,1000,2850
+2024-02-01,19016384,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,25,85
+2024-02-01,19016384,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,45,153
+2024-02-01,19016384,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,100,255
+2024-02-01,19016384,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,250,637.5
+2024-02-01,19016384,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,300,735
+2024-02-01,19016384,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,500,1175
+2024-02-01,19016384,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,750,1762.5
+2024-02-01,19016384,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,1000,2250
+2024-02-01,19016382,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,25,93.75
+2024-02-01,19016382,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,45,168.75
+2024-02-01,19016382,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,100,155
+2024-02-01,19016382,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,250,387.5
+2024-02-01,19016382,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,300,450
+2024-02-01,19016382,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,500,675
+2024-02-01,19016382,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,750,1012.5
+2024-02-01,19016382,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,1000,1350
+2024-02-01,19016380,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,25,93.75
+2024-02-01,19016380,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,45,168.75
+2024-02-01,19016380,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,100,155
+2024-02-01,19016380,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,250,387.5
+2024-02-01,19016380,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,300,450
+2024-02-01,19016380,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,500,700
+2024-02-01,19016380,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,750,1050
+2024-02-01,19016380,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,1000,1400
+2024-02-01,19016378,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,25,93.75
+2024-02-01,19016378,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,45,168.75
+2024-02-01,19016378,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,100,155
+2024-02-01,19016378,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,250,387.5
+2024-02-01,19016378,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,300,450
+2024-02-01,19016378,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,500,725
+2024-02-01,19016378,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,750,1087.5
+2024-02-01,19016378,2024-01-01,2024-03-31,Azul Brazilian Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,1000,1400
+2024-02-01,19016376,2024-01-01,2024-03-31,UPS Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,25,125
+2024-02-01,19016376,2024-01-01,2024-03-31,UPS Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,45,180
+2024-02-01,19016376,2024-01-01,2024-03-31,UPS Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,100,255
+2024-02-01,19016376,2024-01-01,2024-03-31,UPS Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,250,637.5
+2024-02-01,19016376,2024-01-01,2024-03-31,UPS Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,300,765
+2024-02-01,19016376,2024-01-01,2024-03-31,UPS Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,500,1275
+2024-02-01,19016376,2024-01-01,2024-03-31,UPS Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,750,1912.5
+2024-02-01,19016376,2024-01-01,2024-03-31,UPS Airlines,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,1000,2550
+2024-02-01,19016374,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,25,200
+2024-02-01,19016374,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,45,225
+2024-02-01,19016374,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,100,405
+2024-02-01,19016374,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,250,1012.5
+2024-02-01,19016374,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,300,1215
+2024-02-01,19016374,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,500,2025
+2024-02-01,19016374,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,750,3037.5
+2024-02-01,19016374,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,1000,4050
+2024-02-01,19016372,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,25,200
+2024-02-01,19016372,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,45,225
+2024-02-01,19016372,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,100,612
+2024-02-01,19016372,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,250,1530
+2024-02-01,19016372,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,300,1836
+2024-02-01,19016372,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,500,3060
+2024-02-01,19016372,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,750,4590
+2024-02-01,19016372,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,1000,6120
+2024-02-01,19016370,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,25,200
+2024-02-01,19016370,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,45,225
+2024-02-01,19016370,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,100,405
+2024-02-01,19016370,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,250,1012.5
+2024-02-01,19016370,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,300,1215
+2024-02-01,19016370,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,500,2025
+2024-02-01,19016370,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,750,3037.5
+2024-02-01,19016370,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,1000,4050
+2024-02-01,19016368,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,25,200
+2024-02-01,19016368,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,45,177.75
+2024-02-01,19016368,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,100,355
+2024-02-01,19016368,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,250,887.5
+2024-02-01,19016368,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,300,1020
+2024-02-01,19016368,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,500,1575
+2024-02-01,19016368,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,750,2362.5
+2024-02-01,19016368,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,1000,3150
+2024-02-01,19016366,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,25,200
+2024-02-01,19016366,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,45,166.5
+2024-02-01,19016366,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,100,330
+2024-02-01,19016366,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,250,825
+2024-02-01,19016366,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,300,765
+2024-02-01,19016366,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,500,1250
+2024-02-01,19016366,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,750,1875
+2024-02-01,19016366,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,1000,2500
+2024-02-01,19016364,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,25,175
+2024-02-01,19016364,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,45,166.5
+2024-02-01,19016364,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,100,330
+2024-02-01,19016364,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,250,825
+2024-02-01,19016364,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,300,765
+2024-02-01,19016364,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,500,1175
+2024-02-01,19016364,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,750,1762.5
+2024-02-01,19016364,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,1000,2350
+2024-02-01,19016362,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,25,175
+2024-02-01,19016362,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,45,173.25
+2024-02-01,19016362,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,100,355
+2024-02-01,19016362,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,250,887.5
+2024-02-01,19016362,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,300,1020
+2024-02-01,19016362,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,500,1575
+2024-02-01,19016362,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,750,2362.5
+2024-02-01,19016362,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,1000,3150
+2024-02-01,19016360,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,25,125
+2024-02-01,19016360,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,45,182.25
+2024-02-01,19016360,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,100,360
+2024-02-01,19016360,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,250,900
+2024-02-01,19016360,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,300,1035
+2024-02-01,19016360,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,500,1600
+2024-02-01,19016360,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,750,2400
+2024-02-01,19016360,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,1000,3200
+2024-02-01,19016358,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,25,175
+2024-02-01,19016358,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,45,294.75
+2024-02-01,19016358,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,100,470
+2024-02-01,19016358,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,250,1175
+2024-02-01,19016358,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,300,1215
+2024-02-01,19016358,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,500,1900
+2024-02-01,19016358,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,750,2850
+2024-02-01,19016358,2024-01-01,2024-03-31,COPA Airlines,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,1000,3800
+2024-02-01,19016356,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,25,125
+2024-02-01,19016356,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,45,96.75
+2024-02-01,19016356,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,100,215
+2024-02-01,19016356,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,250,537.5
+2024-02-01,19016356,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,300,645
+2024-02-01,19016356,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,500,1075
+2024-02-01,19016356,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,750,1612.5
+2024-02-01,19016356,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,1000,2150
+2024-02-01,19016354,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,25,125
+2024-02-01,19016354,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,45,128.25
+2024-02-01,19016354,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,100,285
+2024-02-01,19016354,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,250,712.5
+2024-02-01,19016354,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,300,855
+2024-02-01,19016354,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,500,1425
+2024-02-01,19016354,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,750,2137.5
+2024-02-01,19016354,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,1000,2850
+2024-02-01,19016352,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,25,125
+2024-02-01,19016352,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,45,128.25
+2024-02-01,19016352,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,100,285
+2024-02-01,19016352,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,250,712.5
+2024-02-01,19016352,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,300,855
+2024-02-01,19016352,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,500,1425
+2024-02-01,19016352,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,750,2137.5
+2024-02-01,19016352,2024-01-01,2024-03-31,Atlas Air,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,1000,2850
+2024-02-01,19016350,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,25,48.75
+2024-02-01,19016350,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,45,87.75
+2024-02-01,19016350,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,100,195
+2024-02-01,19016350,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,250,487.5
+2024-02-01,19016350,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,300,585
+2024-02-01,19016350,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,500,975
+2024-02-01,19016350,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,750,1462.5
+2024-02-01,19016350,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,1000,1950
+2024-02-01,19016348,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,25,68.75
+2024-02-01,19016348,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,45,123.75
+2024-02-01,19016348,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,100,275
+2024-02-01,19016348,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,250,687.5
+2024-02-01,19016348,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,300,825
+2024-02-01,19016348,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,500,1375
+2024-02-01,19016348,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,750,2062.5
+2024-02-01,19016348,2024-01-01,2024-03-31,American Airlines,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,1000,2750
+2024-02-01,19016346,2024-01-01,2024-03-31,Aeromexico,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,25,101.25
+2024-02-01,19016346,2024-01-01,2024-03-31,Aeromexico,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,45,177.75
+2024-02-01,19016346,2024-01-01,2024-03-31,Aeromexico,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,100,385
+2024-02-01,19016346,2024-01-01,2024-03-31,Aeromexico,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,250,962.5
+2024-02-01,19016346,2024-01-01,2024-03-31,Aeromexico,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,300,1125
+2024-02-01,19016346,2024-01-01,2024-03-31,Aeromexico,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,500,1825
+2024-02-01,19016346,2024-01-01,2024-03-31,Aeromexico,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,750,2737.5
+2024-02-01,19016346,2024-01-01,2024-03-31,Aeromexico,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,1000,3550
+2024-02-01,19016344,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,25,66.88
+2024-02-01,19016344,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,45,120.38
+2024-02-01,19016344,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,100,200
+2024-02-01,19016344,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,250,500
+2024-02-01,19016344,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,300,600
+2024-02-01,19016344,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,500,1000
+2024-02-01,19016344,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,750,1500
+2024-02-01,19016344,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,1000,2000
+2024-02-01,19016342,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,25,100.63
+2024-02-01,19016342,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,45,181.13
+2024-02-01,19016342,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,100,245
+2024-02-01,19016342,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,250,612.5
+2024-02-01,19016342,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,300,735
+2024-02-01,19016342,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,500,1225
+2024-02-01,19016342,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,750,1837.5
+2024-02-01,19016342,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,1000,2450
+2024-02-01,19016340,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,25,63.13
+2024-02-01,19016340,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,45,113.63
+2024-02-01,19016340,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,100,200
+2024-02-01,19016340,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,250,500
+2024-02-01,19016340,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,300,600
+2024-02-01,19016340,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,500,1000
+2024-02-01,19016340,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,750,1500
+2024-02-01,19016340,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,1000,2000
+2024-02-01,19016338,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,25,98.75
+2024-02-01,19016338,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,45,177.75
+2024-02-01,19016338,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,100,290
+2024-02-01,19016338,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,250,725
+2024-02-01,19016338,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,300,870
+2024-02-01,19016338,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,500,1450
+2024-02-01,19016338,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,750,2175
+2024-02-01,19016338,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Guararapes Gilberto Freyre Intl,SBRF,AIR,kg,1000,2900
+2024-02-01,19016336,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,25,117.5
+2024-02-01,19016336,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,45,211.5
+2024-02-01,19016336,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,100,290
+2024-02-01,19016336,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,250,725
+2024-02-01,19016336,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,300,870
+2024-02-01,19016336,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,500,1450
+2024-02-01,19016336,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,750,2175
+2024-02-01,19016336,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,1000,2900
+2024-02-01,19016334,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Augusto Severo,SBNT,AIR,kg,25,80
+2024-02-01,19016334,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Augusto Severo,SBNT,AIR,kg,45,144
+2024-02-01,19016334,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Augusto Severo,SBNT,AIR,kg,100,320
+2024-02-01,19016334,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Augusto Severo,SBNT,AIR,kg,250,800
+2024-02-01,19016334,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Augusto Severo,SBNT,AIR,kg,300,960
+2024-02-01,19016334,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Augusto Severo,SBNT,AIR,kg,500,1600
+2024-02-01,19016334,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Augusto Severo,SBNT,AIR,kg,750,2400
+2024-02-01,19016334,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Augusto Severo,SBNT,AIR,kg,1000,3200
+2024-02-01,19016332,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,25,80
+2024-02-01,19016332,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,45,144
+2024-02-01,19016332,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,100,245
+2024-02-01,19016332,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,250,612.5
+2024-02-01,19016332,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,300,735
+2024-02-01,19016332,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,500,1225
+2024-02-01,19016332,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,750,1837.5
+2024-02-01,19016332,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Pinto Martins Intl,SBFZ,AIR,kg,1000,2450
+2024-02-01,19016330,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,25,113.75
+2024-02-01,19016330,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,45,204.75
+2024-02-01,19016330,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,100,290
+2024-02-01,19016330,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,250,725
+2024-02-01,19016330,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,300,870
+2024-02-01,19016330,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,500,1450
+2024-02-01,19016330,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,750,2175
+2024-02-01,19016330,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,1000,2900
+2024-02-01,19016328,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,25,80
+2024-02-01,19016328,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,45,144
+2024-02-01,19016328,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,100,245
+2024-02-01,19016328,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,250,612.5
+2024-02-01,19016328,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,300,735
+2024-02-01,19016328,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,500,1225
+2024-02-01,19016328,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,750,1837.5
+2024-02-01,19016328,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Tancredo Neves Intl,SBCF,AIR,kg,1000,2450
+2024-02-01,19016326,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,25,80
+2024-02-01,19016326,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,45,144
+2024-02-01,19016326,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,100,320
+2024-02-01,19016326,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,250,800
+2024-02-01,19016326,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,300,960
+2024-02-01,19016326,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,500,1600
+2024-02-01,19016326,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,750,2400
+2024-02-01,19016326,2024-01-01,2024-03-31,TAP Air Portugal,,US,Miami Intl,KMIA,BR,Val De Cans Intl,SBBE,AIR,kg,1000,3200
+2024-02-01,19016324,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,25,42.5
+2024-02-01,19016324,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,45,76.5
+2024-02-01,19016324,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,100,170
+2024-02-01,19016324,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,250,425
+2024-02-01,19016324,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,300,510
+2024-02-01,19016324,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,500,850
+2024-02-01,19016324,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,750,1275
+2024-02-01,19016324,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Viracopos,SBKP,AIR,kg,1000,1700
+2024-02-01,19016322,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Professor Urbano Ernesto Stumpf,SBSJ,AIR,kg,25,68.75
+2024-02-01,19016322,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Professor Urbano Ernesto Stumpf,SBSJ,AIR,kg,45,123.75
+2024-02-01,19016322,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Professor Urbano Ernesto Stumpf,SBSJ,AIR,kg,100,275
+2024-02-01,19016322,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Professor Urbano Ernesto Stumpf,SBSJ,AIR,kg,250,687.5
+2024-02-01,19016322,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Professor Urbano Ernesto Stumpf,SBSJ,AIR,kg,300,825
+2024-02-01,19016322,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Professor Urbano Ernesto Stumpf,SBSJ,AIR,kg,500,1375
+2024-02-01,19016322,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Professor Urbano Ernesto Stumpf,SBSJ,AIR,kg,750,2062.5
+2024-02-01,19016322,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Professor Urbano Ernesto Stumpf,SBSJ,AIR,kg,1000,2750
+2024-02-01,19016320,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,25,88.75
+2024-02-01,19016320,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,45,159.75
+2024-02-01,19016320,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,100,355
+2024-02-01,19016320,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,250,887.5
+2024-02-01,19016320,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,300,1065
+2024-02-01,19016320,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,500,1775
+2024-02-01,19016320,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,750,2662.5
+2024-02-01,19016320,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Ministro Victor Konder Intl,SBNF,AIR,kg,1000,3550
+2024-02-01,19016318,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,25,43.75
+2024-02-01,19016318,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,45,78.75
+2024-02-01,19016318,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,100,175
+2024-02-01,19016318,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,250,437.5
+2024-02-01,19016318,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,300,525
+2024-02-01,19016318,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,500,875
+2024-02-01,19016318,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,750,1312.5
+2024-02-01,19016318,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Eduardo Gomes Intl,SBEG,AIR,kg,1000,1750
+2024-02-01,19016316,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,25,65
+2024-02-01,19016316,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,45,117
+2024-02-01,19016316,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,100,260
+2024-02-01,19016316,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,250,650
+2024-02-01,19016316,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,300,780
+2024-02-01,19016316,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,500,1300
+2024-02-01,19016316,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,750,1950
+2024-02-01,19016316,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,1000,2600
+2024-02-01,19016314,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,25,138.75
+2024-02-01,19016314,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,45,249.75
+2024-02-01,19016314,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,100,555
+2024-02-01,19016314,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,250,1387.5
+2024-02-01,19016314,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,300,1665
+2024-02-01,19016314,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,500,2775
+2024-02-01,19016314,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,750,4162.5
+2024-02-01,19016314,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,1000,5550
+2024-02-01,19016312,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,25,106.25
+2024-02-01,19016312,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,45,191.25
+2024-02-01,19016312,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,100,425
+2024-02-01,19016312,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,250,1062.5
+2024-02-01,19016312,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,300,1275
+2024-02-01,19016312,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,500,2125
+2024-02-01,19016312,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,750,3187.5
+2024-02-01,19016312,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Hercilio Luz,SBFL,AIR,kg,1000,4250
+2024-02-01,19016310,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,25,79.5
+2024-02-01,19016310,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,45,143.1
+2024-02-01,19016310,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,100,318
+2024-02-01,19016310,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,250,795
+2024-02-01,19016310,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,300,954
+2024-02-01,19016310,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,500,1590
+2024-02-01,19016310,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,750,2385
+2024-02-01,19016310,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,1000,3180
+2024-02-01,19016308,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Cabo Frio International Airport,SBCB,AIR,kg,25,138.75
+2024-02-01,19016308,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Cabo Frio International Airport,SBCB,AIR,kg,45,249.75
+2024-02-01,19016308,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Cabo Frio International Airport,SBCB,AIR,kg,100,435
+2024-02-01,19016308,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Cabo Frio International Airport,SBCB,AIR,kg,250,1087.5
+2024-02-01,19016308,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Cabo Frio International Airport,SBCB,AIR,kg,300,1305
+2024-02-01,19016308,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Cabo Frio International Airport,SBCB,AIR,kg,500,2175
+2024-02-01,19016308,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Cabo Frio International Airport,SBCB,AIR,kg,750,3262.5
+2024-02-01,19016308,2024-01-01,2024-03-31,LATAM Airlines Group,,US,Miami Intl,KMIA,BR,Cabo Frio International Airport,SBCB,AIR,kg,1000,4350
+2024-02-01,19016306,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,25,203.25
+2024-02-01,19016306,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,45,319.05
+2024-02-01,19016306,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,100,657
+2024-02-01,19016306,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,250,1642.5
+2024-02-01,19016306,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,300,1971
+2024-02-01,19016306,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,500,3285
+2024-02-01,19016306,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,750,4927.5
+2024-02-01,19016306,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Presidente Juscelino Kubitschek,SBBR,AIR,kg,1000,5920
+2024-02-01,19016304,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,25,203.25
+2024-02-01,19016304,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,45,319.05
+2024-02-01,19016304,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,100,657
+2024-02-01,19016304,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,250,1642.5
+2024-02-01,19016304,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,300,1971
+2024-02-01,19016304,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,500,3285
+2024-02-01,19016304,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,750,4927.5
+2024-02-01,19016304,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Afonso Pena,SBCT,AIR,kg,1000,5920
+2024-02-01,19016302,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,25,200
+2024-02-01,19016302,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,45,313.2
+2024-02-01,19016302,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,100,644
+2024-02-01,19016302,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,250,1610
+2024-02-01,19016302,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,300,1932
+2024-02-01,19016302,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,500,3220
+2024-02-01,19016302,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,750,4830
+2024-02-01,19016302,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Salgado Filho,SBPA,AIR,kg,1000,5790
+2024-02-01,19016300,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,25,203.25
+2024-02-01,19016300,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,45,319.05
+2024-02-01,19016300,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,100,657
+2024-02-01,19016300,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,250,1642.5
+2024-02-01,19016300,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,300,1971
+2024-02-01,19016300,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,500,3285
+2024-02-01,19016300,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,750,4927.5
+2024-02-01,19016300,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Deputado Luis Eduardo Magalhaes,SBSV,AIR,kg,1000,5920
+2024-02-01,19016298,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,25,203.25
+2024-02-01,19016298,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,45,319.05
+2024-02-01,19016298,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,100,657
+2024-02-01,19016298,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,250,1642.5
+2024-02-01,19016298,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,300,1971
+2024-02-01,19016298,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,500,3285
+2024-02-01,19016298,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,750,4927.5
+2024-02-01,19016298,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Galeao Antonio Carlos Jobim,SBGL,AIR,kg,1000,5920
+2024-02-01,19016296,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,25,203.25
+2024-02-01,19016296,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,45,319.05
+2024-02-01,19016296,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,100,657
+2024-02-01,19016296,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,250,1642.5
+2024-02-01,19016296,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,300,1971
+2024-02-01,19016296,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,500,3285
+2024-02-01,19016296,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,750,4927.5
+2024-02-01,19016296,2024-01-01,2024-03-31,Aerolineas Argentinas,,US,Miami Intl,KMIA,BR,Guarulhos Gov Andre Franco Montouro,SBGR,AIR,kg,1000,5920
+2024-02-01,19016294,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Washington Dulles Intl,KIAD,AIR,kg,25,77.5
+2024-02-01,19016294,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Washington Dulles Intl,KIAD,AIR,kg,45,139.5
+2024-02-01,19016294,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Washington Dulles Intl,KIAD,AIR,kg,100,310
+2024-02-01,19016294,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Washington Dulles Intl,KIAD,AIR,kg,250,775
+2024-02-01,19016294,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Washington Dulles Intl,KIAD,AIR,kg,300,870
+2024-02-01,19016294,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Washington Dulles Intl,KIAD,AIR,kg,500,1425
+2024-02-01,19016294,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Washington Dulles Intl,KIAD,AIR,kg,750,2062.5
+2024-02-01,19016294,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Washington Dulles Intl,KIAD,AIR,kg,1000,2600
+2024-02-01,19016292,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tulsa Intl,KTUL,AIR,kg,25,97.5
+2024-02-01,19016292,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tulsa Intl,KTUL,AIR,kg,45,175.5
+2024-02-01,19016292,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tulsa Intl,KTUL,AIR,kg,100,390
+2024-02-01,19016292,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tulsa Intl,KTUL,AIR,kg,250,975
+2024-02-01,19016292,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tulsa Intl,KTUL,AIR,kg,300,990
+2024-02-01,19016292,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tulsa Intl,KTUL,AIR,kg,500,1550
+2024-02-01,19016292,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tulsa Intl,KTUL,AIR,kg,750,2137.5
+2024-02-01,19016292,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tulsa Intl,KTUL,AIR,kg,1000,2700
+2024-02-01,19016290,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tucson Intl,KTUS,AIR,kg,25,97.5
+2024-02-01,19016290,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tucson Intl,KTUS,AIR,kg,45,175.5
+2024-02-01,19016290,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tucson Intl,KTUS,AIR,kg,100,390
+2024-02-01,19016290,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tucson Intl,KTUS,AIR,kg,250,975
+2024-02-01,19016290,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tucson Intl,KTUS,AIR,kg,300,1050
+2024-02-01,19016290,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tucson Intl,KTUS,AIR,kg,500,1650
+2024-02-01,19016290,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tucson Intl,KTUS,AIR,kg,750,2287.5
+2024-02-01,19016290,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tucson Intl,KTUS,AIR,kg,1000,2800
+2024-02-01,19016288,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Lester B Pearson Intl,CYYZ,AIR,kg,25,80
+2024-02-01,19016288,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Lester B Pearson Intl,CYYZ,AIR,kg,45,144
+2024-02-01,19016288,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Lester B Pearson Intl,CYYZ,AIR,kg,100,320
+2024-02-01,19016288,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Lester B Pearson Intl,CYYZ,AIR,kg,250,800
+2024-02-01,19016288,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Lester B Pearson Intl,CYYZ,AIR,kg,300,900
+2024-02-01,19016288,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Lester B Pearson Intl,CYYZ,AIR,kg,500,1350
+2024-02-01,19016288,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Lester B Pearson Intl,CYYZ,AIR,kg,750,1950
+2024-02-01,19016288,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Lester B Pearson Intl,CYYZ,AIR,kg,1000,2450
+2024-02-01,19016286,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Blagnac,LFBO,AIR,kg,25,90
+2024-02-01,19016286,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Blagnac,LFBO,AIR,kg,45,162
+2024-02-01,19016286,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Blagnac,LFBO,AIR,kg,100,360
+2024-02-01,19016286,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Blagnac,LFBO,AIR,kg,250,900
+2024-02-01,19016286,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Blagnac,LFBO,AIR,kg,300,1080
+2024-02-01,19016286,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Blagnac,LFBO,AIR,kg,500,1600
+2024-02-01,19016286,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Blagnac,LFBO,AIR,kg,750,2250
+2024-02-01,19016286,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Blagnac,LFBO,AIR,kg,1000,2750
+2024-02-01,19016284,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Narita Intl,RJAA,AIR,kg,25,97.5
+2024-02-01,19016284,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Narita Intl,RJAA,AIR,kg,45,175.5
+2024-02-01,19016284,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Narita Intl,RJAA,AIR,kg,100,390
+2024-02-01,19016284,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Narita Intl,RJAA,AIR,kg,250,975
+2024-02-01,19016284,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Narita Intl,RJAA,AIR,kg,300,1170
+2024-02-01,19016284,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Narita Intl,RJAA,AIR,kg,500,1900
+2024-02-01,19016284,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Narita Intl,RJAA,AIR,kg,750,2737.5
+2024-02-01,19016284,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Narita Intl,RJAA,AIR,kg,1000,3550
+2024-02-01,19016282,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Tokyo Intl,RJTT,AIR,kg,25,97.5
+2024-02-01,19016282,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Tokyo Intl,RJTT,AIR,kg,45,175.5
+2024-02-01,19016282,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Tokyo Intl,RJTT,AIR,kg,100,390
+2024-02-01,19016282,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Tokyo Intl,RJTT,AIR,kg,250,975
+2024-02-01,19016282,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Tokyo Intl,RJTT,AIR,kg,300,1170
+2024-02-01,19016282,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Tokyo Intl,RJTT,AIR,kg,500,1900
+2024-02-01,19016282,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Tokyo Intl,RJTT,AIR,kg,750,2737.5
+2024-02-01,19016282,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JP,Tokyo Intl,RJTT,AIR,kg,1000,3550
+2024-02-01,19016280,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IL,Ben Gurion,LLBG,AIR,kg,25,140
+2024-02-01,19016280,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IL,Ben Gurion,LLBG,AIR,kg,45,252
+2024-02-01,19016280,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IL,Ben Gurion,LLBG,AIR,kg,100,560
+2024-02-01,19016280,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IL,Ben Gurion,LLBG,AIR,kg,250,1400
+2024-02-01,19016280,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IL,Ben Gurion,LLBG,AIR,kg,300,1680
+2024-02-01,19016280,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IL,Ben Gurion,LLBG,AIR,kg,500,2725
+2024-02-01,19016280,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IL,Ben Gurion,LLBG,AIR,kg,750,3975
+2024-02-01,19016280,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IL,Ben Gurion,LLBG,AIR,kg,1000,5300
+2024-02-01,19016278,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,Toncontin Intl,MHTG,AIR,kg,25,80
+2024-02-01,19016278,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,Toncontin Intl,MHTG,AIR,kg,45,144
+2024-02-01,19016278,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,Toncontin Intl,MHTG,AIR,kg,100,320
+2024-02-01,19016278,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,Toncontin Intl,MHTG,AIR,kg,250,800
+2024-02-01,19016278,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,Toncontin Intl,MHTG,AIR,kg,300,900
+2024-02-01,19016278,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,Toncontin Intl,MHTG,AIR,kg,500,1350
+2024-02-01,19016278,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,Toncontin Intl,MHTG,AIR,kg,750,1950
+2024-02-01,19016278,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,Toncontin Intl,MHTG,AIR,kg,1000,2450
+2024-02-01,19016276,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Tegel,EDDT,AIR,kg,25,90
+2024-02-01,19016276,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Tegel,EDDT,AIR,kg,45,162
+2024-02-01,19016276,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Tegel,EDDT,AIR,kg,100,360
+2024-02-01,19016276,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Tegel,EDDT,AIR,kg,250,900
+2024-02-01,19016276,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Tegel,EDDT,AIR,kg,300,1080
+2024-02-01,19016276,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Tegel,EDDT,AIR,kg,500,1600
+2024-02-01,19016276,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Tegel,EDDT,AIR,kg,750,2250
+2024-02-01,19016276,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Tegel,EDDT,AIR,kg,1000,2750
+2024-02-01,19016274,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tampa Intl,KTPA,AIR,kg,25,77.5
+2024-02-01,19016274,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tampa Intl,KTPA,AIR,kg,45,139.5
+2024-02-01,19016274,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tampa Intl,KTPA,AIR,kg,100,310
+2024-02-01,19016274,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tampa Intl,KTPA,AIR,kg,250,775
+2024-02-01,19016274,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tampa Intl,KTPA,AIR,kg,300,885
+2024-02-01,19016274,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tampa Intl,KTPA,AIR,kg,500,1425
+2024-02-01,19016274,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tampa Intl,KTPA,AIR,kg,750,2062.5
+2024-02-01,19016274,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Tampa Intl,KTPA,AIR,kg,1000,2600
+2024-02-01,19016272,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AU,Sydney Intl,YSSY,AIR,kg,25,302.5
+2024-02-01,19016272,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AU,Sydney Intl,YSSY,AIR,kg,45,544.5
+2024-02-01,19016272,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AU,Sydney Intl,YSSY,AIR,kg,100,1210
+2024-02-01,19016272,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AU,Sydney Intl,YSSY,AIR,kg,250,3025
+2024-02-01,19016272,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AU,Sydney Intl,YSSY,AIR,kg,300,3030
+2024-02-01,19016272,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AU,Sydney Intl,YSSY,AIR,kg,500,4925
+2024-02-01,19016272,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AU,Sydney Intl,YSSY,AIR,kg,750,7275
+2024-02-01,19016272,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AU,Sydney Intl,YSSY,AIR,kg,1000,9600
+2024-02-01,19016270,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Stuttgart,EDDS,AIR,kg,25,90
+2024-02-01,19016270,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Stuttgart,EDDS,AIR,kg,45,162
+2024-02-01,19016270,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Stuttgart,EDDS,AIR,kg,100,360
+2024-02-01,19016270,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Stuttgart,EDDS,AIR,kg,250,900
+2024-02-01,19016270,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Stuttgart,EDDS,AIR,kg,300,1080
+2024-02-01,19016270,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Stuttgart,EDDS,AIR,kg,500,1600
+2024-02-01,19016270,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Stuttgart,EDDS,AIR,kg,750,2250
+2024-02-01,19016270,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Stuttgart,EDDS,AIR,kg,1000,2750
+2024-02-01,19016268,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Entzheim,LFST,AIR,kg,25,90
+2024-02-01,19016268,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Entzheim,LFST,AIR,kg,45,162
+2024-02-01,19016268,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Entzheim,LFST,AIR,kg,100,360
+2024-02-01,19016268,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Entzheim,LFST,AIR,kg,250,900
+2024-02-01,19016268,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Entzheim,LFST,AIR,kg,300,1080
+2024-02-01,19016268,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Entzheim,LFST,AIR,kg,500,1600
+2024-02-01,19016268,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Entzheim,LFST,AIR,kg,750,2250
+2024-02-01,19016268,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Entzheim,LFST,AIR,kg,1000,2750
+2024-02-01,19016266,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AN,Princess Juliana Intl,TNCM,AIR,kg,25,80
+2024-02-01,19016266,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AN,Princess Juliana Intl,TNCM,AIR,kg,45,144
+2024-02-01,19016266,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AN,Princess Juliana Intl,TNCM,AIR,kg,100,320
+2024-02-01,19016266,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AN,Princess Juliana Intl,TNCM,AIR,kg,250,800
+2024-02-01,19016266,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AN,Princess Juliana Intl,TNCM,AIR,kg,300,900
+2024-02-01,19016266,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AN,Princess Juliana Intl,TNCM,AIR,kg,500,1350
+2024-02-01,19016266,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AN,Princess Juliana Intl,TNCM,AIR,kg,750,1950
+2024-02-01,19016266,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,AN,Princess Juliana Intl,TNCM,AIR,kg,1000,2450
+2024-02-01,19016264,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Lambert St Louis Intl,KSTL,AIR,kg,25,97.5
+2024-02-01,19016264,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Lambert St Louis Intl,KSTL,AIR,kg,45,175.5
+2024-02-01,19016264,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Lambert St Louis Intl,KSTL,AIR,kg,100,390
+2024-02-01,19016264,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Lambert St Louis Intl,KSTL,AIR,kg,250,975
+2024-02-01,19016264,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Lambert St Louis Intl,KSTL,AIR,kg,300,990
+2024-02-01,19016264,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Lambert St Louis Intl,KSTL,AIR,kg,500,1550
+2024-02-01,19016264,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Lambert St Louis Intl,KSTL,AIR,kg,750,2137.5
+2024-02-01,19016264,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Lambert St Louis Intl,KSTL,AIR,kg,1000,2700
+2024-02-01,19016262,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IE,Shannon,EINN,AIR,kg,25,87.5
+2024-02-01,19016262,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IE,Shannon,EINN,AIR,kg,45,157.5
+2024-02-01,19016262,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IE,Shannon,EINN,AIR,kg,100,350
+2024-02-01,19016262,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IE,Shannon,EINN,AIR,kg,250,875
+2024-02-01,19016262,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IE,Shannon,EINN,AIR,kg,300,1050
+2024-02-01,19016262,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IE,Shannon,EINN,AIR,kg,500,1600
+2024-02-01,19016262,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IE,Shannon,EINN,AIR,kg,750,2250
+2024-02-01,19016262,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IE,Shannon,EINN,AIR,kg,1000,2750
+2024-02-01,19016260,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Seattle Tacoma Intl,KSEA,AIR,kg,25,97.5
+2024-02-01,19016260,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Seattle Tacoma Intl,KSEA,AIR,kg,45,175.5
+2024-02-01,19016260,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Seattle Tacoma Intl,KSEA,AIR,kg,100,390
+2024-02-01,19016260,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Seattle Tacoma Intl,KSEA,AIR,kg,250,975
+2024-02-01,19016260,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Seattle Tacoma Intl,KSEA,AIR,kg,300,1050
+2024-02-01,19016260,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Seattle Tacoma Intl,KSEA,AIR,kg,500,1650
+2024-02-01,19016260,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Seattle Tacoma Intl,KSEA,AIR,kg,750,2287.5
+2024-02-01,19016260,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Seattle Tacoma Intl,KSEA,AIR,kg,1000,2800
+2024-02-01,19016258,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Las Americas Intl,MDSD,AIR,kg,25,80
+2024-02-01,19016258,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Las Americas Intl,MDSD,AIR,kg,45,144
+2024-02-01,19016258,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Las Americas Intl,MDSD,AIR,kg,100,320
+2024-02-01,19016258,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Las Americas Intl,MDSD,AIR,kg,250,800
+2024-02-01,19016258,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Las Americas Intl,MDSD,AIR,kg,300,900
+2024-02-01,19016258,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Las Americas Intl,MDSD,AIR,kg,500,1350
+2024-02-01,19016258,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Las Americas Intl,MDSD,AIR,kg,750,1950
+2024-02-01,19016258,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Las Americas Intl,MDSD,AIR,kg,1000,2450
+2024-02-01,19016256,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Cibao Intl,MDST,AIR,kg,25,80
+2024-02-01,19016256,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Cibao Intl,MDST,AIR,kg,45,144
+2024-02-01,19016256,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Cibao Intl,MDST,AIR,kg,100,320
+2024-02-01,19016256,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Cibao Intl,MDST,AIR,kg,250,800
+2024-02-01,19016256,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Cibao Intl,MDST,AIR,kg,300,900
+2024-02-01,19016256,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Cibao Intl,MDST,AIR,kg,500,1350
+2024-02-01,19016256,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Cibao Intl,MDST,AIR,kg,750,1950
+2024-02-01,19016256,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Cibao Intl,MDST,AIR,kg,1000,2450
+2024-02-01,19016254,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,SV,El Salvador Intl,MSLP,AIR,kg,25,80
+2024-02-01,19016254,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,SV,El Salvador Intl,MSLP,AIR,kg,45,144
+2024-02-01,19016254,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,SV,El Salvador Intl,MSLP,AIR,kg,100,320
+2024-02-01,19016254,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,SV,El Salvador Intl,MSLP,AIR,kg,250,800
+2024-02-01,19016254,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,SV,El Salvador Intl,MSLP,AIR,kg,300,900
+2024-02-01,19016254,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,SV,El Salvador Intl,MSLP,AIR,kg,500,1350
+2024-02-01,19016254,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,SV,El Salvador Intl,MSLP,AIR,kg,750,1950
+2024-02-01,19016254,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,SV,El Salvador Intl,MSLP,AIR,kg,1000,2450
+2024-02-01,19016252,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,La Mesa Intl,MHLM,AIR,kg,25,80
+2024-02-01,19016252,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,La Mesa Intl,MHLM,AIR,kg,45,144
+2024-02-01,19016252,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,La Mesa Intl,MHLM,AIR,kg,100,320
+2024-02-01,19016252,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,La Mesa Intl,MHLM,AIR,kg,250,800
+2024-02-01,19016252,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,La Mesa Intl,MHLM,AIR,kg,300,900
+2024-02-01,19016252,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,La Mesa Intl,MHLM,AIR,kg,500,1350
+2024-02-01,19016252,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,La Mesa Intl,MHLM,AIR,kg,750,1950
+2024-02-01,19016252,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HN,La Mesa Intl,MHLM,AIR,kg,1000,2450
+2024-02-01,19016250,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PR,Luis Munoz Marin Intl,TJSJ,AIR,kg,25,75
+2024-02-01,19016250,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PR,Luis Munoz Marin Intl,TJSJ,AIR,kg,45,135
+2024-02-01,19016250,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PR,Luis Munoz Marin Intl,TJSJ,AIR,kg,100,300
+2024-02-01,19016250,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PR,Luis Munoz Marin Intl,TJSJ,AIR,kg,250,750
+2024-02-01,19016250,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PR,Luis Munoz Marin Intl,TJSJ,AIR,kg,300,840
+2024-02-01,19016250,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PR,Luis Munoz Marin Intl,TJSJ,AIR,kg,500,1375
+2024-02-01,19016250,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PR,Luis Munoz Marin Intl,TJSJ,AIR,kg,750,1987.5
+2024-02-01,19016250,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PR,Luis Munoz Marin Intl,TJSJ,AIR,kg,1000,2500
+2024-02-01,19016248,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CR,Juan Santamaria Intl,MROC,AIR,kg,25,80
+2024-02-01,19016248,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CR,Juan Santamaria Intl,MROC,AIR,kg,45,144
+2024-02-01,19016248,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CR,Juan Santamaria Intl,MROC,AIR,kg,100,320
+2024-02-01,19016248,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CR,Juan Santamaria Intl,MROC,AIR,kg,250,800
+2024-02-01,19016248,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CR,Juan Santamaria Intl,MROC,AIR,kg,300,900
+2024-02-01,19016248,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CR,Juan Santamaria Intl,MROC,AIR,kg,500,1350
+2024-02-01,19016248,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CR,Juan Santamaria Intl,MROC,AIR,kg,750,1950
+2024-02-01,19016248,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CR,Juan Santamaria Intl,MROC,AIR,kg,1000,2450
+2024-02-01,19016246,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Francisco Intl,KSFO,AIR,kg,25,97.5
+2024-02-01,19016246,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Francisco Intl,KSFO,AIR,kg,45,175.5
+2024-02-01,19016246,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Francisco Intl,KSFO,AIR,kg,100,390
+2024-02-01,19016246,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Francisco Intl,KSFO,AIR,kg,250,975
+2024-02-01,19016246,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Francisco Intl,KSFO,AIR,kg,300,1050
+2024-02-01,19016246,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Francisco Intl,KSFO,AIR,kg,500,1650
+2024-02-01,19016246,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Francisco Intl,KSFO,AIR,kg,750,2287.5
+2024-02-01,19016246,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Francisco Intl,KSFO,AIR,kg,1000,2800
+2024-02-01,19016244,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Diego Intl,KSAN,AIR,kg,25,97.5
+2024-02-01,19016244,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Diego Intl,KSAN,AIR,kg,45,175.5
+2024-02-01,19016244,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Diego Intl,KSAN,AIR,kg,100,390
+2024-02-01,19016244,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Diego Intl,KSAN,AIR,kg,250,975
+2024-02-01,19016244,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Diego Intl,KSAN,AIR,kg,300,1050
+2024-02-01,19016244,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Diego Intl,KSAN,AIR,kg,500,1650
+2024-02-01,19016244,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Diego Intl,KSAN,AIR,kg,750,2287.5
+2024-02-01,19016244,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Diego Intl,KSAN,AIR,kg,1000,2800
+2024-02-01,19016242,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Antonio Intl,KSAT,AIR,kg,25,97.5
+2024-02-01,19016242,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Antonio Intl,KSAT,AIR,kg,45,175.5
+2024-02-01,19016242,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Antonio Intl,KSAT,AIR,kg,100,390
+2024-02-01,19016242,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Antonio Intl,KSAT,AIR,kg,250,975
+2024-02-01,19016242,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Antonio Intl,KSAT,AIR,kg,300,1050
+2024-02-01,19016242,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Antonio Intl,KSAT,AIR,kg,500,1550
+2024-02-01,19016242,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Antonio Intl,KSAT,AIR,kg,750,2137.5
+2024-02-01,19016242,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,San Antonio Intl,KSAT,AIR,kg,1000,2700
+2024-02-01,19016240,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Salt Lake City Intl,KSLC,AIR,kg,25,97.5
+2024-02-01,19016240,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Salt Lake City Intl,KSLC,AIR,kg,45,175.5
+2024-02-01,19016240,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Salt Lake City Intl,KSLC,AIR,kg,100,390
+2024-02-01,19016240,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Salt Lake City Intl,KSLC,AIR,kg,250,975
+2024-02-01,19016240,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Salt Lake City Intl,KSLC,AIR,kg,300,1050
+2024-02-01,19016240,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Salt Lake City Intl,KSLC,AIR,kg,500,1650
+2024-02-01,19016240,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Salt Lake City Intl,KSLC,AIR,kg,750,2287.5
+2024-02-01,19016240,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Salt Lake City Intl,KSLC,AIR,kg,1000,2800
+2024-02-01,19016238,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Sacramento Intl,KSMF,AIR,kg,25,97.5
+2024-02-01,19016238,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Sacramento Intl,KSMF,AIR,kg,45,175.5
+2024-02-01,19016238,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Sacramento Intl,KSMF,AIR,kg,100,390
+2024-02-01,19016238,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Sacramento Intl,KSMF,AIR,kg,250,975
+2024-02-01,19016238,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Sacramento Intl,KSMF,AIR,kg,300,1050
+2024-02-01,19016238,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Sacramento Intl,KSMF,AIR,kg,500,1650
+2024-02-01,19016238,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Sacramento Intl,KSMF,AIR,kg,750,2287.5
+2024-02-01,19016238,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Sacramento Intl,KSMF,AIR,kg,1000,2800
+2024-02-01,19016236,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,NL,Rotterdam,EHRD,AIR,kg,25,97.5
+2024-02-01,19016236,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,NL,Rotterdam,EHRD,AIR,kg,45,175.5
+2024-02-01,19016236,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,NL,Rotterdam,EHRD,AIR,kg,100,390
+2024-02-01,19016236,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,NL,Rotterdam,EHRD,AIR,kg,250,975
+2024-02-01,19016236,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,NL,Rotterdam,EHRD,AIR,kg,300,1170
+2024-02-01,19016236,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,NL,Rotterdam,EHRD,AIR,kg,500,1850
+2024-02-01,19016236,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,NL,Rotterdam,EHRD,AIR,kg,750,2512.5
+2024-02-01,19016236,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,NL,Rotterdam,EHRD,AIR,kg,1000,3200
+2024-02-01,19016234,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Fiumicino,LIRF,AIR,kg,25,90
+2024-02-01,19016234,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Fiumicino,LIRF,AIR,kg,45,162
+2024-02-01,19016234,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Fiumicino,LIRF,AIR,kg,100,360
+2024-02-01,19016234,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Fiumicino,LIRF,AIR,kg,250,900
+2024-02-01,19016234,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Fiumicino,LIRF,AIR,kg,300,1080
+2024-02-01,19016234,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Fiumicino,LIRF,AIR,kg,500,1600
+2024-02-01,19016234,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Fiumicino,LIRF,AIR,kg,750,2250
+2024-02-01,19016234,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Fiumicino,LIRF,AIR,kg,1000,2750
+2024-02-01,19016232,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Richmond Intl,KRIC,AIR,kg,25,100
+2024-02-01,19016232,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Richmond Intl,KRIC,AIR,kg,45,180
+2024-02-01,19016232,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Richmond Intl,KRIC,AIR,kg,100,400
+2024-02-01,19016232,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Richmond Intl,KRIC,AIR,kg,250,1000
+2024-02-01,19016232,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Richmond Intl,KRIC,AIR,kg,300,1020
+2024-02-01,19016232,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Richmond Intl,KRIC,AIR,kg,500,1600
+2024-02-01,19016232,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Richmond Intl,KRIC,AIR,kg,750,2212.5
+2024-02-01,19016232,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Richmond Intl,KRIC,AIR,kg,1000,2800
+2024-02-01,19016230,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Raleigh Durham Intl,KRDU,AIR,kg,25,77.5
+2024-02-01,19016230,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Raleigh Durham Intl,KRDU,AIR,kg,45,139.5
+2024-02-01,19016230,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Raleigh Durham Intl,KRDU,AIR,kg,100,310
+2024-02-01,19016230,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Raleigh Durham Intl,KRDU,AIR,kg,250,775
+2024-02-01,19016230,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Raleigh Durham Intl,KRDU,AIR,kg,300,870
+2024-02-01,19016230,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Raleigh Durham Intl,KRDU,AIR,kg,500,1425
+2024-02-01,19016230,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Raleigh Durham Intl,KRDU,AIR,kg,750,2062.5
+2024-02-01,19016230,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Raleigh Durham Intl,KRDU,AIR,kg,1000,2600
+2024-02-01,19016228,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,EC,Mariscal Sucre Intl,SEQU,AIR,kg,25,80
+2024-02-01,19016228,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,EC,Mariscal Sucre Intl,SEQU,AIR,kg,45,144
+2024-02-01,19016228,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,EC,Mariscal Sucre Intl,SEQU,AIR,kg,100,320
+2024-02-01,19016228,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,EC,Mariscal Sucre Intl,SEQU,AIR,kg,250,800
+2024-02-01,19016228,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,EC,Mariscal Sucre Intl,SEQU,AIR,kg,300,900
+2024-02-01,19016228,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,EC,Mariscal Sucre Intl,SEQU,AIR,kg,500,1350
+2024-02-01,19016228,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,EC,Mariscal Sucre Intl,SEQU,AIR,kg,750,1950
+2024-02-01,19016228,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,EC,Mariscal Sucre Intl,SEQU,AIR,kg,1000,2450
+2024-02-01,19016226,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Punta Cana Intl,MDPC,AIR,kg,25,80
+2024-02-01,19016226,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Punta Cana Intl,MDPC,AIR,kg,45,144
+2024-02-01,19016226,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Punta Cana Intl,MDPC,AIR,kg,100,320
+2024-02-01,19016226,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Punta Cana Intl,MDPC,AIR,kg,250,800
+2024-02-01,19016226,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Punta Cana Intl,MDPC,AIR,kg,300,900
+2024-02-01,19016226,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Punta Cana Intl,MDPC,AIR,kg,500,1350
+2024-02-01,19016226,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Punta Cana Intl,MDPC,AIR,kg,750,1950
+2024-02-01,19016226,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DO,Punta Cana Intl,MDPC,AIR,kg,1000,2450
+2024-02-01,19016224,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CN,Pudong,ZSPD,AIR,kg,25,97.5
+2024-02-01,19016224,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CN,Pudong,ZSPD,AIR,kg,45,175.5
+2024-02-01,19016224,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CN,Pudong,ZSPD,AIR,kg,100,390
+2024-02-01,19016224,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CN,Pudong,ZSPD,AIR,kg,250,975
+2024-02-01,19016224,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CN,Pudong,ZSPD,AIR,kg,300,1170
+2024-02-01,19016224,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CN,Pudong,ZSPD,AIR,kg,500,1900
+2024-02-01,19016224,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CN,Pudong,ZSPD,AIR,kg,750,2737.5
+2024-02-01,19016224,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CN,Pudong,ZSPD,AIR,kg,1000,3550
+2024-02-01,19016222,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HT,Toussaint Louverture Intl,MTPP,AIR,kg,25,80
+2024-02-01,19016222,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HT,Toussaint Louverture Intl,MTPP,AIR,kg,45,144
+2024-02-01,19016222,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HT,Toussaint Louverture Intl,MTPP,AIR,kg,100,320
+2024-02-01,19016222,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HT,Toussaint Louverture Intl,MTPP,AIR,kg,250,800
+2024-02-01,19016222,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HT,Toussaint Louverture Intl,MTPP,AIR,kg,300,900
+2024-02-01,19016222,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HT,Toussaint Louverture Intl,MTPP,AIR,kg,500,1350
+2024-02-01,19016222,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HT,Toussaint Louverture Intl,MTPP,AIR,kg,750,1950
+2024-02-01,19016222,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,HT,Toussaint Louverture Intl,MTPP,AIR,kg,1000,2450
+2024-02-01,19016220,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Pittsburgh Intl,KPIT,AIR,kg,25,77.5
+2024-02-01,19016220,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Pittsburgh Intl,KPIT,AIR,kg,45,139.5
+2024-02-01,19016220,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Pittsburgh Intl,KPIT,AIR,kg,100,310
+2024-02-01,19016220,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Pittsburgh Intl,KPIT,AIR,kg,250,775
+2024-02-01,19016220,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Pittsburgh Intl,KPIT,AIR,kg,300,870
+2024-02-01,19016220,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Pittsburgh Intl,KPIT,AIR,kg,500,1425
+2024-02-01,19016220,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Pittsburgh Intl,KPIT,AIR,kg,750,2062.5
+2024-02-01,19016220,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Pittsburgh Intl,KPIT,AIR,kg,1000,2600
+2024-02-01,19016218,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Phoenix Sky Harbor Intl,KPHX,AIR,kg,25,97.5
+2024-02-01,19016218,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Phoenix Sky Harbor Intl,KPHX,AIR,kg,45,175.5
+2024-02-01,19016218,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Phoenix Sky Harbor Intl,KPHX,AIR,kg,100,390
+2024-02-01,19016218,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Phoenix Sky Harbor Intl,KPHX,AIR,kg,250,975
+2024-02-01,19016218,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Phoenix Sky Harbor Intl,KPHX,AIR,kg,300,1050
+2024-02-01,19016218,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Phoenix Sky Harbor Intl,KPHX,AIR,kg,500,1650
+2024-02-01,19016218,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Phoenix Sky Harbor Intl,KPHX,AIR,kg,750,2287.5
+2024-02-01,19016218,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Phoenix Sky Harbor Intl,KPHX,AIR,kg,1000,2800
+2024-02-01,19016216,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Philadelphia Intl,KPHL,AIR,kg,25,77.5
+2024-02-01,19016216,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Philadelphia Intl,KPHL,AIR,kg,45,139.5
+2024-02-01,19016216,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Philadelphia Intl,KPHL,AIR,kg,100,310
+2024-02-01,19016216,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Philadelphia Intl,KPHL,AIR,kg,250,775
+2024-02-01,19016216,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Philadelphia Intl,KPHL,AIR,kg,300,870
+2024-02-01,19016216,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Philadelphia Intl,KPHL,AIR,kg,500,1425
+2024-02-01,19016216,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Philadelphia Intl,KPHL,AIR,kg,750,2062.5
+2024-02-01,19016216,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Philadelphia Intl,KPHL,AIR,kg,1000,2600
+2024-02-01,19016214,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Orly,LFPO,AIR,kg,25,90
+2024-02-01,19016214,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Orly,LFPO,AIR,kg,45,162
+2024-02-01,19016214,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Orly,LFPO,AIR,kg,100,360
+2024-02-01,19016214,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Orly,LFPO,AIR,kg,250,900
+2024-02-01,19016214,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Orly,LFPO,AIR,kg,300,1080
+2024-02-01,19016214,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Orly,LFPO,AIR,kg,500,1600
+2024-02-01,19016214,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Orly,LFPO,AIR,kg,750,2250
+2024-02-01,19016214,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Orly,LFPO,AIR,kg,1000,2750
+2024-02-01,19016212,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Charles De Gaulle,LFPG,AIR,kg,25,80
+2024-02-01,19016212,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Charles De Gaulle,LFPG,AIR,kg,45,144
+2024-02-01,19016212,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Charles De Gaulle,LFPG,AIR,kg,100,320
+2024-02-01,19016212,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Charles De Gaulle,LFPG,AIR,kg,250,800
+2024-02-01,19016212,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Charles De Gaulle,LFPG,AIR,kg,300,960
+2024-02-01,19016212,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Charles De Gaulle,LFPG,AIR,kg,500,1450
+2024-02-01,19016212,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Charles De Gaulle,LFPG,AIR,kg,750,2025
+2024-02-01,19016212,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Charles De Gaulle,LFPG,AIR,kg,1000,2500
+2024-02-01,19016210,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PA,Tocumen Intl,MPTO,AIR,kg,25,80
+2024-02-01,19016210,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PA,Tocumen Intl,MPTO,AIR,kg,45,144
+2024-02-01,19016210,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PA,Tocumen Intl,MPTO,AIR,kg,100,320
+2024-02-01,19016210,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PA,Tocumen Intl,MPTO,AIR,kg,250,800
+2024-02-01,19016210,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PA,Tocumen Intl,MPTO,AIR,kg,300,900
+2024-02-01,19016210,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PA,Tocumen Intl,MPTO,AIR,kg,500,1350
+2024-02-01,19016210,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PA,Tocumen Intl,MPTO,AIR,kg,750,1950
+2024-02-01,19016210,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,PA,Tocumen Intl,MPTO,AIR,kg,1000,2350
+2024-02-01,19016208,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Orlando Intl,KMCO,AIR,kg,25,77.5
+2024-02-01,19016208,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Orlando Intl,KMCO,AIR,kg,45,139.5
+2024-02-01,19016208,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Orlando Intl,KMCO,AIR,kg,100,310
+2024-02-01,19016208,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Orlando Intl,KMCO,AIR,kg,250,775
+2024-02-01,19016208,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Orlando Intl,KMCO,AIR,kg,300,885
+2024-02-01,19016208,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Orlando Intl,KMCO,AIR,kg,500,1425
+2024-02-01,19016208,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Orlando Intl,KMCO,AIR,kg,750,2062.5
+2024-02-01,19016208,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Orlando Intl,KMCO,AIR,kg,1000,2600
+2024-02-01,19016206,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Nurnberg,EDDN,AIR,kg,25,90
+2024-02-01,19016206,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Nurnberg,EDDN,AIR,kg,45,162
+2024-02-01,19016206,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Nurnberg,EDDN,AIR,kg,100,360
+2024-02-01,19016206,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Nurnberg,EDDN,AIR,kg,250,900
+2024-02-01,19016206,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Nurnberg,EDDN,AIR,kg,300,1080
+2024-02-01,19016206,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Nurnberg,EDDN,AIR,kg,500,1600
+2024-02-01,19016206,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Nurnberg,EDDN,AIR,kg,750,2250
+2024-02-01,19016206,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Nurnberg,EDDN,AIR,kg,1000,2750
+2024-02-01,19016204,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Norfolk Intl,KORF,AIR,kg,25,77.5
+2024-02-01,19016204,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Norfolk Intl,KORF,AIR,kg,45,139.5
+2024-02-01,19016204,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Norfolk Intl,KORF,AIR,kg,100,310
+2024-02-01,19016204,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Norfolk Intl,KORF,AIR,kg,250,775
+2024-02-01,19016204,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Norfolk Intl,KORF,AIR,kg,300,870
+2024-02-01,19016204,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Norfolk Intl,KORF,AIR,kg,500,1425
+2024-02-01,19016204,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Norfolk Intl,KORF,AIR,kg,750,2062.5
+2024-02-01,19016204,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Norfolk Intl,KORF,AIR,kg,1000,2600
+2024-02-01,19016202,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Cote D'Azur,LFMN,AIR,kg,25,90
+2024-02-01,19016202,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Cote D'Azur,LFMN,AIR,kg,45,162
+2024-02-01,19016202,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Cote D'Azur,LFMN,AIR,kg,100,360
+2024-02-01,19016202,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Cote D'Azur,LFMN,AIR,kg,250,900
+2024-02-01,19016202,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Cote D'Azur,LFMN,AIR,kg,300,1080
+2024-02-01,19016202,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Cote D'Azur,LFMN,AIR,kg,500,1600
+2024-02-01,19016202,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Cote D'Azur,LFMN,AIR,kg,750,2250
+2024-02-01,19016202,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Cote D'Azur,LFMN,AIR,kg,1000,2750
+2024-02-01,19016200,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Newark Liberty Intl,KEWR,AIR,kg,25,70
+2024-02-01,19016200,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Newark Liberty Intl,KEWR,AIR,kg,45,126
+2024-02-01,19016200,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Newark Liberty Intl,KEWR,AIR,kg,100,280
+2024-02-01,19016200,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Newark Liberty Intl,KEWR,AIR,kg,250,700
+2024-02-01,19016200,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Newark Liberty Intl,KEWR,AIR,kg,300,780
+2024-02-01,19016200,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Newark Liberty Intl,KEWR,AIR,kg,500,1275
+2024-02-01,19016200,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Newark Liberty Intl,KEWR,AIR,kg,750,1837.5
+2024-02-01,19016200,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Newark Liberty Intl,KEWR,AIR,kg,1000,2300
+2024-02-01,19016198,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,La Guardia,KLGA,AIR,kg,25,70
+2024-02-01,19016198,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,La Guardia,KLGA,AIR,kg,45,126
+2024-02-01,19016198,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,La Guardia,KLGA,AIR,kg,100,280
+2024-02-01,19016198,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,La Guardia,KLGA,AIR,kg,250,700
+2024-02-01,19016198,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,La Guardia,KLGA,AIR,kg,300,780
+2024-02-01,19016198,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,La Guardia,KLGA,AIR,kg,500,1275
+2024-02-01,19016198,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,La Guardia,KLGA,AIR,kg,750,1837.5
+2024-02-01,19016198,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,La Guardia,KLGA,AIR,kg,1000,2300
+2024-02-01,19016196,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Louis Armstrong New Orleans Intl,KMSY,AIR,kg,25,97.5
+2024-02-01,19016196,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Louis Armstrong New Orleans Intl,KMSY,AIR,kg,45,175.5
+2024-02-01,19016196,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Louis Armstrong New Orleans Intl,KMSY,AIR,kg,100,390
+2024-02-01,19016196,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Louis Armstrong New Orleans Intl,KMSY,AIR,kg,250,975
+2024-02-01,19016196,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Louis Armstrong New Orleans Intl,KMSY,AIR,kg,300,990
+2024-02-01,19016196,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Louis Armstrong New Orleans Intl,KMSY,AIR,kg,500,1550
+2024-02-01,19016196,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Louis Armstrong New Orleans Intl,KMSY,AIR,kg,750,2137.5
+2024-02-01,19016196,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Louis Armstrong New Orleans Intl,KMSY,AIR,kg,1000,2700
+2024-02-01,19016194,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Nashville Intl,KBNA,AIR,kg,25,97.5
+2024-02-01,19016194,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Nashville Intl,KBNA,AIR,kg,45,175.5
+2024-02-01,19016194,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Nashville Intl,KBNA,AIR,kg,100,390
+2024-02-01,19016194,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Nashville Intl,KBNA,AIR,kg,250,975
+2024-02-01,19016194,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Nashville Intl,KBNA,AIR,kg,300,990
+2024-02-01,19016194,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Nashville Intl,KBNA,AIR,kg,500,1550
+2024-02-01,19016194,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Nashville Intl,KBNA,AIR,kg,750,2137.5
+2024-02-01,19016194,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Nashville Intl,KBNA,AIR,kg,1000,2700
+2024-02-01,19016192,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Nantes Atlantique,LFRS,AIR,kg,25,90
+2024-02-01,19016192,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Nantes Atlantique,LFRS,AIR,kg,45,162
+2024-02-01,19016192,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Nantes Atlantique,LFRS,AIR,kg,100,360
+2024-02-01,19016192,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Nantes Atlantique,LFRS,AIR,kg,250,900
+2024-02-01,19016192,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Nantes Atlantique,LFRS,AIR,kg,300,1080
+2024-02-01,19016192,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Nantes Atlantique,LFRS,AIR,kg,500,1600
+2024-02-01,19016192,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Nantes Atlantique,LFRS,AIR,kg,750,2250
+2024-02-01,19016192,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Nantes Atlantique,LFRS,AIR,kg,1000,2750
+2024-02-01,19016190,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Franz Josef Strauss,EDDM,AIR,kg,25,90
+2024-02-01,19016190,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Franz Josef Strauss,EDDM,AIR,kg,45,162
+2024-02-01,19016190,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Franz Josef Strauss,EDDM,AIR,kg,100,360
+2024-02-01,19016190,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Franz Josef Strauss,EDDM,AIR,kg,250,900
+2024-02-01,19016190,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Franz Josef Strauss,EDDM,AIR,kg,300,1080
+2024-02-01,19016190,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Franz Josef Strauss,EDDM,AIR,kg,500,1600
+2024-02-01,19016190,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Franz Josef Strauss,EDDM,AIR,kg,750,2250
+2024-02-01,19016190,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,DE,Franz Josef Strauss,EDDM,AIR,kg,1000,2750
+2024-02-01,19016188,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Bale Mulhouse,LFSB,AIR,kg,25,90
+2024-02-01,19016188,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Bale Mulhouse,LFSB,AIR,kg,45,162
+2024-02-01,19016188,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Bale Mulhouse,LFSB,AIR,kg,100,360
+2024-02-01,19016188,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Bale Mulhouse,LFSB,AIR,kg,250,900
+2024-02-01,19016188,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Bale Mulhouse,LFSB,AIR,kg,300,1080
+2024-02-01,19016188,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Bale Mulhouse,LFSB,AIR,kg,500,1600
+2024-02-01,19016188,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Bale Mulhouse,LFSB,AIR,kg,750,2250
+2024-02-01,19016188,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,FR,Bale Mulhouse,LFSB,AIR,kg,1000,2750
+2024-02-01,19016186,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Pierre Elliott Trudeau Intl,CYUL,AIR,kg,25,80
+2024-02-01,19016186,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Pierre Elliott Trudeau Intl,CYUL,AIR,kg,45,144
+2024-02-01,19016186,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Pierre Elliott Trudeau Intl,CYUL,AIR,kg,100,320
+2024-02-01,19016186,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Pierre Elliott Trudeau Intl,CYUL,AIR,kg,250,800
+2024-02-01,19016186,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Pierre Elliott Trudeau Intl,CYUL,AIR,kg,300,900
+2024-02-01,19016186,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Pierre Elliott Trudeau Intl,CYUL,AIR,kg,500,1350
+2024-02-01,19016186,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Pierre Elliott Trudeau Intl,CYUL,AIR,kg,750,1950
+2024-02-01,19016186,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,CA,Pierre Elliott Trudeau Intl,CYUL,AIR,kg,1000,2450
+2024-02-01,19016184,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,MX,General Mariano Escobedo Intl,MMMY,AIR,kg,25,115
+2024-02-01,19016184,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,MX,General Mariano Escobedo Intl,MMMY,AIR,kg,45,207
+2024-02-01,19016184,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,MX,General Mariano Escobedo Intl,MMMY,AIR,kg,100,460
+2024-02-01,19016184,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,MX,General Mariano Escobedo Intl,MMMY,AIR,kg,250,1150
+2024-02-01,19016184,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,MX,General Mariano Escobedo Intl,MMMY,AIR,kg,300,1050
+2024-02-01,19016184,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,MX,General Mariano Escobedo Intl,MMMY,AIR,kg,500,1700
+2024-02-01,19016184,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,MX,General Mariano Escobedo Intl,MMMY,AIR,kg,750,2325
+2024-02-01,19016184,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,MX,General Mariano Escobedo Intl,MMMY,AIR,kg,1000,3000
+2024-02-01,19016182,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JM,Sangster Intl,MKJS,AIR,kg,25,80
+2024-02-01,19016182,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JM,Sangster Intl,MKJS,AIR,kg,45,144
+2024-02-01,19016182,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JM,Sangster Intl,MKJS,AIR,kg,100,320
+2024-02-01,19016182,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JM,Sangster Intl,MKJS,AIR,kg,250,800
+2024-02-01,19016182,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JM,Sangster Intl,MKJS,AIR,kg,300,900
+2024-02-01,19016182,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JM,Sangster Intl,MKJS,AIR,kg,500,1350
+2024-02-01,19016182,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JM,Sangster Intl,MKJS,AIR,kg,750,1950
+2024-02-01,19016182,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,JM,Sangster Intl,MKJS,AIR,kg,1000,2450
+2024-02-01,19016180,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Minneapolis St Paul Intl,KMSP,AIR,kg,25,97.5
+2024-02-01,19016180,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Minneapolis St Paul Intl,KMSP,AIR,kg,45,175.5
+2024-02-01,19016180,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Minneapolis St Paul Intl,KMSP,AIR,kg,100,390
+2024-02-01,19016180,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Minneapolis St Paul Intl,KMSP,AIR,kg,250,975
+2024-02-01,19016180,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Minneapolis St Paul Intl,KMSP,AIR,kg,300,1050
+2024-02-01,19016180,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Minneapolis St Paul Intl,KMSP,AIR,kg,500,1650
+2024-02-01,19016180,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Minneapolis St Paul Intl,KMSP,AIR,kg,750,2287.5
+2024-02-01,19016180,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,Minneapolis St Paul Intl,KMSP,AIR,kg,1000,2800
+2024-02-01,19016178,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,General Mitchell Intl,KMKE,AIR,kg,25,97.5
+2024-02-01,19016178,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,General Mitchell Intl,KMKE,AIR,kg,45,175.5
+2024-02-01,19016178,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,General Mitchell Intl,KMKE,AIR,kg,100,390
+2024-02-01,19016178,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,General Mitchell Intl,KMKE,AIR,kg,250,975
+2024-02-01,19016178,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,General Mitchell Intl,KMKE,AIR,kg,300,1050
+2024-02-01,19016178,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,General Mitchell Intl,KMKE,AIR,kg,500,1650
+2024-02-01,19016178,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,General Mitchell Intl,KMKE,AIR,kg,750,2287.5
+2024-02-01,19016178,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,US,General Mitchell Intl,KMKE,AIR,kg,1000,2800
+2024-02-01,19016176,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Malpensa,LIMC,AIR,kg,25,90
+2024-02-01,19016176,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Malpensa,LIMC,AIR,kg,45,162
+2024-02-01,19016176,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Malpensa,LIMC,AIR,kg,100,360
+2024-02-01,19016176,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Malpensa,LIMC,AIR,kg,250,900
+2024-02-01,19016176,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Malpensa,LIMC,AIR,kg,300,1080
+2024-02-01,19016176,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Malpensa,LIMC,AIR,kg,500,1600
+2024-02-01,19016176,2024-01-01,2024-06-01,American Airlines,,BR,Salgado Filho,SBPA,IT,Malpensa,LIMC,AIR,kg,750,2250
