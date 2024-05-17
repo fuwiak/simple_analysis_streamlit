@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, OneHotEncoder, FunctionTransformer
 from sklearn.compose import ColumnTransformer, make_column_selector
 from sklearn.pipeline import Pipeline
-from sklearn.linear_model import LinearRegression, Ridge, Lasso
+from sklearn.linear_model import Ridge, Lasso
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.impute import SimpleImputer
@@ -97,8 +97,6 @@ preprocessor = ColumnTransformer(transformers=[
     ('cat', categorical_transformer, categorical_cols)
 ], remainder='passthrough')
 
-
-# Model Initialization with Hyperparameters
 # Model Initialization with Hyperparameters
 model_dict = {
     'Ridge': Ridge(alpha=alpha_ridge, solver=solver_ridge, max_iter=max_iter_ridge) if model_type == 'Ridge' else Ridge(),
@@ -109,8 +107,6 @@ model_dict = {
     'AdaBoost Regressor': AdaBoostRegressor(n_estimators=n_estimators_ada, learning_rate=learning_rate_ada, loss=loss_ada) if model_type == 'AdaBoost Regressor' else AdaBoostRegressor(),
     'Gradient Boosting Regressor': GradientBoostingRegressor(n_estimators=n_estimators_gb, learning_rate=learning_rate_gb, max_depth=max_depth_gb, min_samples_split=min_samples_split_gb, min_samples_leaf=min_samples_leaf_gb) if model_type == 'Gradient Boosting Regressor' else GradientBoostingRegressor()
 }
-
-
 
 # Sidebar - Trigger predictions
 if st.sidebar.button('Predict Prices'):
@@ -132,7 +128,7 @@ if st.sidebar.button('Predict Prices'):
         st.write(f'Mean Absolute Error (MAE): {mae}')
         st.write(f'R^2 Score: {r2:.4f}')
         st.write('---')
-        st.write(f'mean price: {y_test.mean()}')
+        st.write(f'Predicted mean price: {np.mean(y_pred)}')
 
         # Visualization of Actual vs Predicted
         fig = px.scatter(x=y_test, y=y_pred, labels={'x': 'Actual', 'y': 'Predicted'}, title='Actual vs Predicted')
@@ -162,7 +158,3 @@ if st.sidebar.button('Predict Prices'):
         st.download_button(label="Download Feature Importances", data=csv, file_name='feature_importances.csv', mime='text/csv')
     else:
         st.error("Please ensure the dataset includes the target column and select at least one feature.")
-
-
-
-
