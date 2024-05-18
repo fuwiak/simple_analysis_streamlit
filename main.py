@@ -41,32 +41,40 @@ with col1:
 with col2:
     st.subheader("Interactive Data Plot")
     all_columns = df.columns.tolist()
+    num_columns = df.select_dtypes(include=np.number).columns.tolist()
+    cat_columns = df.select_dtypes(include='object').columns.tolist()
+
     x_axis = st.selectbox('Choose the X-axis:', all_columns, index=0)
-    y_axis = st.selectbox('Choose the Y-axis:', all_columns, index=1 if len(all_columns) > 1 else 0)
-    plot_type = st.radio("Select plot type:", ('Scatter Plot', 'Line Plot', 'Bar Plot'))
-    if plot_type == 'Scatter Plot':
-        fig = px.scatter(df, x=x_axis, y=y_axis, title=f'Scatter Plot of {x_axis} vs {y_axis}')
-    elif plot_type == 'Line Plot':
-        fig = px.line(df, x=x_axis, y=y_axis, title=f'Line Plot of {x_axis} vs {y_axis}')
+    if x_axis in num_columns:
+        y_axis = st.selectbox('Choose the Y-axis:', num_columns, index=1 if len(num_columns) > 1 else 0)
     else:
+        y_axis = st.selectbox('Choose the Y-axis:', cat_columns, index=0)
+
+    plot_type = st.radio("Select plot type:", ('Scatter Plot', 'Line Plot', 'Bar Plot'))
+    if plot_type == 'Scatter Plot' and x_axis in num_columns and y_axis in num_columns:
+        fig = px.scatter(df, x=x_axis, y=y_axis, title=f'Scatter Plot of {x_axis} vs {y_axis}')
+    elif plot_type == 'Line Plot' and x_axis in num_columns and y_axis in num_columns:
+        fig = px.line(df, x=x_axis, y=y_axis, title=f'Line Plot of {x_axis} vs {y_axis}')
+    elif plot_type == 'Bar Plot' and x_axis in cat_columns:
         fig = px.bar(df, x=x_axis, y=y_axis, title=f'Bar Plot of {x_axis} vs {y_axis}')
-    st.plotly_chart(fig)
+    else:
+        st.warning('Please select appropriate axes for the chosen plot type.')
+        fig = None
+    if fig:
+        st.plotly_chart(fig)
 
 # Histogram for any numerical column
 with col3:
     st.subheader("Data Distribution Plot")
-    num_columns = df.select_dtypes(include=np.number).columns
-    default_num_col = 'price_usd' if 'price_usd' in num_columns else num_columns[0]
-    selected_column = st.selectbox('Select a column for histogram:', num_columns, index=num_columns.get_loc(default_num_col) if default_num_col in num_columns else 0)
-    hist_fig = px.histogram(df, x=selected_column, title=f'Histogram of {selected_column}')
-    st.plotly_chart(hist_fig)
+    selected_column = st.selectbox('Select a numerical column for histogram:', num_columns)
+    if selected_column:
+        hist_fig = px.histogram(df, x=selected_column, title=f'Histogram of {selected_column}')
+        st.plotly_chart(hist_fig)
 
 # Pie chart for categorical data
-if df.select_dtypes(include='object').columns.any():
+if cat_columns:
     st.markdown("## Categorical Data Composition")
-    cat_columns = df.select_dtypes(include='object').columns
-    default_cat_col = 'container_type' if 'container_type' in cat_columns else cat_columns[0]
-    categorical_column = st.selectbox('Select a categorical column:', cat_columns, index=cat_columns.get_loc(default_cat_col) if default_cat_col in cat_columns else 0)
+    categorical_column = st.selectbox('Select a categorical column:', cat_columns, index=0)
     if df[categorical_column].nunique() < 10:  # Only make a pie chart if there are fewer than 10 unique categories
         pie_fig = px.pie(df, names=categorical_column, title=f'Pie Chart of {categorical_column}')
         st.plotly_chart(pie_fig)
@@ -92,7 +100,7 @@ if show_corr:
 
 # Downloadable data report
 st.markdown("## Download Data Report")
-@st.cache
+@st.cache_data
 def convert_df_to_csv(d):
     return d.to_csv().encode('utf-8')
 csv = convert_df_to_csv(df)
