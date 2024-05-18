@@ -16,7 +16,7 @@ from xgboost import XGBRegressor
 import plotly.express as px
 import plotly.graph_objects as go
 from category_encoders import TargetEncoder
-import smogn
+# import smogn
 from time import time
 from sklearn.utils import resample
 import logging
