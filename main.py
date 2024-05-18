@@ -100,6 +100,7 @@ if show_corr:
 
 # Downloadable data report
 st.markdown("## Download Data Report")
+
 @st.cache_data
 def convert_df_to_csv(d):
     return d.to_csv().encode('utf-8')
