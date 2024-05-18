@@ -30,7 +30,11 @@ This application predicts prices using various regression models. Choose a datas
 # Load and preprocess data
 @st.cache_data
 def load_data(filename):
-    return pd.read_csv(filename)
+    df = pd.read_csv(filename)
+    # Remove leading zeros in the 'price_usd' column if it exists
+    if 'price_usd' in df.columns:
+        df['price_usd'] = df['price_usd'].apply(lambda x: int(float(str(x).replace(',', ''))) if pd.notnull(x) else x)
+    return df
 
 # Sidebar - Dataset selection and reset button
 st.sidebar.header("Dataset Selection")
@@ -249,7 +253,10 @@ else:
             st.write(f'Mean Absolute Error (MAE): {mae}')
             st.write(f'R^2 Score: {r2:.4f}')
             st.write('---')
-            st.write(f'Predicted mean price: {np.mean(y_pred)}')
+            # Round predicted mean price to an integer and add dollar sign
+            predicted_mean_price = round(np.mean(y_pred))
+            formatted_price = f"${predicted_mean_price:,}"
+            st.write(f'Predicted mean price: {formatted_price}')
 
             if search_type in ["GridSearch", "RandomizedSearch"]:
                 st.write("Best Hyperparameters:")
