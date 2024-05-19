@@ -21,6 +21,10 @@ selected_file = st.sidebar.selectbox("Choose a dataset:", options=list(file_path
 df = pd.read_csv(file_paths[selected_file])
 st.sidebar.text(f"Loaded File: {selected_file}")
 
+# Convert hs_code to string type if it exists in the dataframe
+if 'hs_code' in df.columns:
+    df['hs_code'] = df['hs_code'].astype(str)
+
 # Display DataFrame with dynamic view control
 num_rows = st.sidebar.slider('Number of rows to display:', min_value=5, max_value=100, value=20)
 st.markdown("## Data Overview")
@@ -56,7 +60,7 @@ with col2:
     elif plot_type == 'Line Plot' and x_axis in num_columns and y_axis in num_columns:
         fig = px.line(df, x=x_axis, y=y_axis, title=f'Line Plot of {x_axis} vs {y_axis}')
     elif plot_type == 'Bar Plot' and x_axis in cat_columns:
-        fig = px.bar(df, x=x_axis, y=y_axis, title=f'Bar Plot of {x_axis} vs {y_axis}')
+        fig = px.bar(df, x=x_axis, title=f'Count Plot of {x_axis}')
     else:
         st.warning('Please select appropriate axes for the chosen plot type.')
         fig = None
