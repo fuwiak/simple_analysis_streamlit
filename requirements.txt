@@ -187,3 +187,4 @@ yellowbrick==1.5
 zipp==3.15.0
 xgboost
 mlxtend
+streamlit_agraph

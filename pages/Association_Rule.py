@@ -2,16 +2,18 @@ import pandas as pd
 import streamlit as st
 from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import apriori, association_rules
-import matplotlib.pyplot as plt
+from streamlit_agraph import agraph, Node, Edge, Config
 import networkx as nx
-import matplotlib.colors as mcolors
+
 
 st.title("Advanced Association Rule Mining Dashboard")
+
 
 @st.experimental_singleton
 def load_data(path):
     """ Load data selectively with memory optimization. """
     return pd.read_csv(path)
+
 
 @st.experimental_singleton
 def preprocess_data(df, top_n):
@@ -25,6 +27,7 @@ def preprocess_data(df, top_n):
     encoded_array = encoder.fit(transactions).transform(transactions)
     return pd.DataFrame(encoded_array, columns=encoder.columns_)
 
+
 @st.experimental_memo
 def compute_rules(encoded_df, min_support, min_confidence):
     """ Compute frequent itemsets and association rules based on user-defined thresholds. """
@@ -33,6 +36,35 @@ def compute_rules(encoded_df, min_support, min_confidence):
     rules['antecedents'] = rules['antecedents'].apply(lambda x: ', '.join(list(x)))
     rules['consequents'] = rules['consequents'].apply(lambda x: ', '.join(list(x)))
     return rules
+
+
+def draw_interactive_graph(rules):
+    """ Draw an interactive graph using streamlit-agraph. """
+    G = nx.DiGraph()
+
+    for index, row in rules.iterrows():
+        antecedents = row['antecedents']
+        consequents = row['consequents']
+        lift = row['lift']
+        confidence = row['confidence']
+        G.add_edge(antecedents, consequents, lift=lift, confidence=confidence)
+
+    nodes = []
+    edges = []
+
+    for node in G.nodes:
+        nodes.append(Node(id=node, label=node, size=25, shape="circularImage", image="your_image_url_here", title=node))
+
+    for edge in G.edges:
+        source, target = edge
+        lift = G[source][target]['lift']
+        confidence = G[source][target]['confidence']
+        edges.append(Edge(source=source, label=f"Lift: {lift:.2f}, Confidence: {confidence:.2f}", target=target))
+
+    config = Config(width=950, height=700, directed=True, physics=True, hierarchical=False)
+
+    return agraph(nodes=nodes, edges=edges, config=config)
+
 
 # Sidebar - Dataset selection
 st.sidebar.header("Dataset Selection")
@@ -62,20 +94,9 @@ if not rules.empty:
     st.write("Generated Association Rules:")
     st.dataframe(rules)
 
-    # Visualization: Network graph visualization
-    if st.button("Show Network Graph"):
-        st.write("Network Graph of Item Associations:")
-        G = nx.from_pandas_edgelist(rules, 'antecedents', 'consequents', edge_attr=True)
-        pos = nx.spring_layout(G, seed=42)
-        plt.figure(figsize=(10, 10))
-        norm = plt.Normalize(vmin=rules['lift'].min(), vmax=rules['lift'].max())
-        cmap = plt.cm.Blues
-        colors = [cmap(norm(value)) for value in rules['lift']]
-        nx.draw(G, pos, with_labels=True, node_color='skyblue', node_size=2500, edge_color=colors, edge_cmap=cmap, width=2.0)
-        sm = plt.cm.ScalarMappable(cmap=cmap, norm=norm)
-        sm.set_array([])
-        plt.colorbar(sm, label='Lift')
-        plt.title('Item Association Graph')
-        st.pyplot(plt)
+    # Visualization: Interactive Network graph visualization
+    if st.button("Show Interactive Network Graph"):
+        st.write("Interactive Network Graph of Item Associations:")
+        draw_interactive_graph(rules)
 else:
     st.write("No rules found with the current settings.")
