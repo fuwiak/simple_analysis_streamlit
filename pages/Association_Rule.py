@@ -61,7 +61,15 @@ def draw_interactive_graph(rules):
         confidence = G[source][target]['confidence']
         edges.append(Edge(source=source, label=f"Lift: {lift:.2f}, Confidence: {confidence:.2f}", target=target))
 
-    config = Config(width=950, height=700, directed=True, physics=True, hierarchical=False)
+    config = Config(
+        width=950,
+        height=700,
+        directed=True,
+        physics=True,
+        hierarchical=False,
+        layout={"hierarchical": {"enabled": True, "direction": "UD", "sortMethod": "hubsize"}},
+        interaction={"hover": True}
+    )
 
     return agraph(nodes=nodes, edges=edges, config=config)
 
