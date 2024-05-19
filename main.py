@@ -136,18 +136,21 @@ if cat_columns and num_columns:
         grouped_data = df[[selected_cat, selected_num]].dropna()
         groups = [group[selected_num].values for name, group in
                   grouped_data.groupby(selected_cat)]
-        anova_result = stats.f_oneway(*groups)
-
-        st.write(
-            f"ANOVA Test Results for {selected_cat} influencing {selected_num}:")
-        st.write(f"F-statistic: {anova_result.statistic:.4f}")
-        st.write(f"P-value: {anova_result.pvalue:.4f}")
-        if anova_result.pvalue < 0.05:
-            st.success(
-                f"The p-value is less than 0.05, indicating a significant influence of {selected_cat} on {selected_num}.")
+        if len(groups) > 1:
+            anova_result = stats.f_oneway(*groups)
+            st.write(
+                f"ANOVA Test Results for {selected_cat} influencing {selected_num}:")
+            st.write(f"F-statistic: {anova_result.statistic:.4f}")
+            st.write(f"P-value: {anova_result.pvalue:.4f}")
+            if anova_result.pvalue < 0.05:
+                st.success(
+                    f"The p-value is less than 0.05, indicating a significant influence of {selected_cat} on {selected_num}.")
+            else:
+                st.warning(
+                    f"The p-value is greater than 0.05, indicating no significant influence of {selected_cat} on {selected_num}.")
         else:
             st.warning(
-                f"The p-value is greater than 0.05, indicating no significant influence of {selected_cat} on {selected_num}.")
+                "ANOVA test requires at least two groups. Please select a different categorical column.")
 
 # Downloadable data report
 st.markdown("## Download Data Report")
