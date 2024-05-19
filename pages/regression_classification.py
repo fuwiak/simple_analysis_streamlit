@@ -194,7 +194,9 @@ else:
                 if y.nunique() <= 1:
                     noise = np.random.normal(0, 0.01, y.shape)
                     y_noisy = y + noise
-                    X_encoded = preprocessor.fit_transform(X)
+                    # X_encoded = preprocessor.fit_transform(X)
+                    X_encoded = preprocessor.fit_transform(X, y)
+
                     df_encoded = pd.DataFrame(X_encoded, columns=[f"col_{i}" for i in range(X_encoded.shape[1])])
                     df_encoded[target] = y_noisy
 
